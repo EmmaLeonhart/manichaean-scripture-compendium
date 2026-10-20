@@ -28,6 +28,11 @@ public repository at https://manichaeism.order.life.
   private-by-default rule in CLAUDE.md.
 - **Hosting:** manichaeism.order.life.
 - **Keep chat replies short.** Long answers made the user angry.
+- **Scope = Wikipedia's Template:Manichaeism footer.** User, 2026-10-20:
+  "Use [[Template:Manichaeism footer]] on Wikipedia this is how we define the
+  scope of this". Its Scripture, Extracanonical literature and Visual art
+  groups are the compendium. The table in `research/SCOPE.md` tracks status;
+  the template's wikitext is saved in `data_lake/downloads/`.
 - **No translation work until 2026-10-21 06:00, and only until 15:00 that
   day.** User, 2026-10-20: "No translations until a cron job fires at 6am and
   stops at 3pm tomorrow". This includes checking the Traité. One-shot crons

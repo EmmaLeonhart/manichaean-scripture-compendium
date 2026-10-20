@@ -1,0 +1,169 @@
+{{Navbox
+|name = Manichaeism footer
+|state = {{{state|autocollapse}}}
+|title       = [[Manichaeism]]
+|image = [[File:Seal_of_Mani_(cleaned_up)._Seal_with_figure_of_Mani,_possibly_3rd_century_CE,_possibly_Irak._Cabinet_des_Médailles,_Paris.jpg|100px|alt=Seal with figure of Mani, possibly 3rd century CE, possibly Irak. Cabinet des Médailles, Paris|link=Sealstone of Mani]]
+|listclass = hlist
+|above = 
+|listtitlestyle = background-color:#d1a274; color:#d1a274;
+|basestyle   = background: #d1a274; 
+|group1 = Prophets
+|list1 = 
+* [[Mani (prophet)|Mani]] (Founder)
+* [[Jesus in Manichaeism|Jesus]]
+* [[The Buddha in Manichaeism|Sakyamuni]]
+* [[Zarathustra in Manichaeism|Zarathustra]]
+* [[Narayana]]
+* [[Seth]]
+
+|group2 = [[Manichaean scripture|Scripture]]
+|list2 = 
+* [[Seven treatises of Manichaeism]] ([[Gospel of Mani]], [[Treasure of Life]], [[The Epistles (Manichaeism)|The Epistles]], [[The Book of Mysteries (Manichaeism)|The Book of Mysteries]], [[Pragmateia]], [[The Book of Giants]], [[Psalms and Prayers]])
+* ''[[Arzhang|Book of Pictures]]''
+* ''[[Shabuhragan]]''
+
+|group3 = Extracanonical</br> literature
+|list3 = 
+* [[New Testament]]
+* [[Fundamental Epistle]]
+* [[Manichaean Psalm Book]]
+* [[Psalms of Thomas]]
+* [[Kephalaia]]
+* [[Xuastvanift]]
+* [[Cologne Mani-Codex]]
+* [[Medinet Madi library]]
+* [[Dunhuang Manichaean texts]] 
+** [[Xiabuzan]]
+** [[Manichaean Compendium]]
+** [[Incomplete scripture of Manichaeism]]
+** [[Irk Bitig]]†
+* [[Turpan Manichaean texts]]
+** [[Sogdian-language Manichaean letter]]
+* [[Xiapu Manichaean manuscripts]]
+** ''[[Moni Guangfo]]''
+
+|group4 = [[Manichaean theology|Theology]]
+|list4 = 
+* [[Father of Greatness]]
+* [[Prince of Darkness (Manichaeism)|Prince of Darkness]]
+* [[Zarathustra in Manichaeism]]
+* [[The Buddha in Manichaeism]]
+* [[Jesus in Manichaeism]]
+* [[Two Principles and Three Moments]]
+* [[Gnosis]]
+* [[Mani (prophet)|Messenger of Light]]
+* [[Xroshtag and Padvaxtag]]
+* [[Archon (Gnosticism)#Manichaeism|''Archon'']]
+* [[Asrestar]]
+
+|group5 = [[Manichaeism#History|History]]
+|list5 = 
+* [[Apostles (Manichaeism)|Apostles]]
+* [[Mar Ammo]]
+* [[Mar Sisin]]
+* [[Akouas|Mar Zaku]]
+* [[Mar Adda]]
+* [[Shad Ohrmazd]]
+* [[Mihr (Manichaeism)|Mihr]]
+* [[Faustus of Mileve|Faustus]]
+* [[Agapius (Manichaean)|Agapius]]
+* [[Aphthonius of Alexandria|Aphthonius]]
+* [[Hegemonius]]
+* [[Marcus (Manichean)|Marcus]]
+* ''[[Three Persian religions]]''
+* [[Huichang Persecution of Buddhism|Huichang Persecution of Manichaeism]]
+* [[Bögü Qaghan]]
+* [[Sergius-Tychicus]]
+* [[East–West schism (Manichaeism)|East-West Schism]]
+* [[Amr ibn Adi]]
+* [[Abū Hilāl al-Dayhūri]]
+* [[Lü Shinang]]
+* [[Synod of Gangra]]
+* [[Lin Deng]]
+* [[Manichaeism#Persecution and extinction|Persecution]]
+* [[Uyghur Khaganate]]
+* [[Cangnan Stele]]
+* [[Qianku]]
+
+|group6 = Sects
+|list6 = 
+* [[See of Babylon (Manichaeism)|See of Babylon]]
+* [[Denawars]]
+* [[Astati]]
+* [[Chinese Manichaeism]]
+* [[Manichaean schisms|Miqlāsiyya]]
+
+|group7 = [[Manichaeism#The Manichaean Church|Organisation]]
+|list7 = 
+* [[Archegos (Manichaeism)|Archegos]]
+* Patriarch
+* Apostle
+* Bishop
+* Presbyter
+* Elect
+* Hearers
+
+|group8 = Commandments
+|list8 = 
+* [[Three Seals (Manichaeism)|Three Seals]]
+<!-- * [[Five Pure Precepts]]
+* [[Seven Practices]]
+* [[Ten Precepts (Manichaeism)|Ten Precepts]]
+* [[Twelve Dharma Signs]]
+* [[Fifteen Repentances]] -->
+* [[Pañcavidyā]]
+
+|group9 = Rituals
+|list9 = 
+* [[Eucharist]]
+* [[Evangelism]]
+* [[Repentance]]
+* [[Fasting]]
+
+|group10 = Buildings
+|list10 = 
+* [[Cao'an]]
+* {{ill|Puxi Fushou Palace|zh|浦西境福寿宫}}
+* [[Flying Road Pagoda]]
+* {{ill|Leshan Temple|zh|乐山堂}}
+
+|group11 = [[Manichaean art|Visual art]]
+|list11 = 
+* ''[[Birth of Mani]]''
+* ''[[Arzhang|Book of Pictures]]''
+* ''[[Manichaean Diagram of the Universe|Diagram of the Universe]]''
+* ''[[Episodes from Mani's Missionary Work]]''
+* ''[[Icon of Mani]]''
+* [[Leaf from a Manichaean book MIK III 4959]]
+* [[Leaf from a Manichaean book MIK III 4974]]
+* [[Leaf from a Manichaean book MIK III 4979]]
+* [[Leaf from a Manichaean book MIK III 6368]]
+* [[Leaf from a Manichaean book MIK III 8259]] 
+* ''[[Mani's Community Established]]''
+* ''[[Mani's Parents]]''
+* [[Manichaean stone reliefs of Shangwan village]]
+* [[Manichaean temple banner MIK III 6286]]
+* [[Manichaean wall painting MIK III 6918]]
+* ''[[Manichaean Painting of the Buddha Jesus|Painting of the Buddha Jesus]]''
+* [[Sealstone of Mani]]
+* ''[[Sermon on Mani's Teaching of Salvation]]''
+* ''[[Veneration of the Tree of Life]]''
+
+|group12 = Writing system
+|list12 = 
+* [[Manichaean script]]
+* [[Manichaean (Unicode block)]]
+
+|group13 = In fiction
+|list13 = 
+* [[Ming Cult]]
+* ''[[The Gardens of Light]]''
+* ''[[Story of the Twin Dragons of Great Tang]]''
+* ''[[The Secret of Heaven]]''
+
+|belowstyle = 
+|below = ''Notes'': † mainly a Tengrist text but recorded in a Manichaean monastery
+
+}}<noinclude>
+[[Category:Manichaeism]]
+</noinclude>
