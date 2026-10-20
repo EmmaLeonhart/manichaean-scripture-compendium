@@ -89,6 +89,7 @@ def meta_value(ext, key):
 
 
 def main():
+    sys.stdout.reconfigure(encoding="utf-8")
     dry = "--dry-run" in sys.argv
     files = crawl()
     titles = sorted(files)
