@@ -45,3 +45,4 @@
   §§1–7 (Adda's question, the building of the world, the body as a
   microcosm, the five prisons and dead trees, the cage of snakes, the ships,
   the Light-Nous entering the old house). Marked as a draft.
+- Traité §§8–10 drafted: the three days and two nights, the five battles of the old and new man, and the Light-Nous in the five cities, with the Gospel and Epistles quotations.

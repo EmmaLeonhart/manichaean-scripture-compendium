@@ -190,7 +190,7 @@ like a king who has defeated an enemy country and, inside it, adorns the
 halls, sets up his jewelled throne, and judges all the people, good and
 bad.
 
-"The Light-Nous is the same. When he has entered the old city and broken
+"The Light-Nous does the same. When he has entered the old city and broken
 the enemy, he at once separates the two forces, light and darkness, so
 that they are no longer mixed. First he subdues resentment and binds it in
 the city of bone, so that the pure Air is freed from its bonds. Next he
@@ -206,12 +206,181 @@ of hunger he lets run free.
 the refining cannot be done. The Light-Nous is like the goldsmith, […] is
 like the ore, and the Demon of Hunger is the fierce fire that refines the
 fivefold body and makes it pure. In the bodies of the good, the great Envoy
-Light-Nous uses the fire of hunger to great profit."
+Light-Nous uses the fire of hunger to great profit.
 
-*(The translation continues in later updates: the three days and two
-nights, the five battles of the old and new man, the Light-Nous in the five
-cities, the dead and living trees, the king of virtues, the twelve signs of
-the Elect, and the closing hymn of the teachers.)*
+### 8. The old man, and the three days and two nights
+
+"The five powers of light dwell in the mingled body. Through the good man
+(the Light-Nous) sifts the two forces and sets each apart. This body of
+flesh is also called the Old Man. It is bone, sinew, veins, flesh and skin;
+resentment, anger, lust, wrath and folly; and greed and gluttonous lust.
+These thirteen together make up one body, and it copies the beginningless
+realm of ignorance.
+
+"The second dark night is the poisonous and evil thinking of the Demon of
+Greed, all the natures that are not good: folly, lust, self-praise,
+troubling others, anger, impurity, destruction, dissolution, death, deceit
+and rebellion, the marks of darkness. Such is the fearful dark night of
+ignorance. Its twelve dark hours are the sign of the first coming-forth of
+the demons.
+
+"For this reason the Light-Nous, the Great Wisdom, with good and skilful
+means, sifts and saves the light-nature in this body of flesh and sets it
+free. From his own five limbs he brings forth five gifts that strengthen the
+light-nature. First, from the bright Sense he brings forth Compassion, and
+adds it to the pure Air. Next, from the bright Mind he brings forth
+Perfection, and adds it to the Light. Then from the bright Reflection he
+brings forth Patience, and adds it to the pure Water. Then from the bright
+Intention he brings forth Wisdom, and adds it to the pure Fire. Xrōštag and
+Padvāxtag he adds, (with) wisdom, to the treasury of speech.
+
+"Air, Wind, Light, Water and Fire; Compassion, Faith, Perfection, Patience
+and Wisdom; and Xrōštag and Padvāxtag, together with the Light-Nous: these
+thirteen copy the pure world of light. They are the sign of the Lord of
+Light. One who keeps the precepts in full is like the day.
+
+"The second day is Wisdom. Its twelve great kings, brought forth from the
+Light-Nous, copy the fullness of the sun. They are the sign of Perfection.
+
+"The third day is the seven kinds of *mahrāspand* (摩訶羅薩本). Each time
+they enter the bodies of pure teachers and monks, they receive from the
+Light-Nous the five gifts and the twelve hours, and become a complete day.
+This copies the Srōšahrāy, the sign of great power.
+
+"These three days and two nights are present in the teachers and monks, and
+even in those who are still in training. All of them bear the signs of the
+two realms.
+
+### 9. The five battles of the old man and the new
+
+"At times the Old Man fights with the New Man of wisdom, just as at the
+beginning the Demon of Greed planned to invade the realm of light. This is
+the sign of it.
+
+"From the dark, poisoned Sense of the Old Man, demons are brought forth,
+and they fight against the Sense-body of the New Man. If the New Man does
+not guard against the signs and forgets the bright Sense, then the signs
+appear: in his conduct he has no compassion, and he feels resentment at
+everything he meets. Then the light-nature is soiled, and both the pure
+Sense-body and the stranger-nature lodging in it are harmed. But if he keeps
+guard, heeds the signs and stays alert, if he drives resentment back and
+practises compassion, then the Sense-body of the light-nature becomes pure
+again, and the stranger-nature lodging there escapes every danger, leaps
+for joy, gives thanks and goes its way.
+
+"At times the New Man forgets to remember, and in the dark Mind demons are
+brought forth that fight at once against the Mind of the New Man. Then there
+are clear signs in that person's body: in his conduct he has no faith, and
+he grows angry at everything he meets, and the stranger-nature lodging in
+him is stained at once. But if the Mind-body of the light-nature remembers
+again and does not forget its original mind, it wakes and drives the anger
+off. Anger retreats and scatters, faith is as it was, and the
+stranger-nature lodging there escapes its sufferings and reaches its
+original realm.
+
+"At times the New Man forgets to remember, and then from the dark, poisoned
+Thought of ignorance demons are brought forth that fight at once against
+the pure Thought-body of the New Man. Then there are clear signs in that
+person: in his conduct he has no perfection, the heart of desire blazes,
+and the stranger-nature lodging in him is stained at once. But if he
+remembers and does not forget, if he guards the body of perfection well and
+crushes every thought of desire so that it does not rise again, the
+stranger-nature lodging there escapes all its sufferings, is made pure, and
+reaches its original realm.
+
+"At times demons are brought forth in the Reflection of ignorance that
+fight at once against the Reflection of the New Man. If he forgets his
+original Reflection, there will be signs: in his conduct he has no
+patience, and he flies into a rage at everything he meets, and both natures,
+the guest and the host, are stained. But if he remembers and does not
+forget, if he wakes and resists the enemy, the raging heart withdraws, the
+great power of patience comes back to support him, the stranger-nature
+lodging there is gladly set free, the original nature is bright and clear,
+and the Reflection-body is as it was.
+
+"At times demons are brought forth in the Intention of ignorance that
+fight at once against the Intention-body of the New Man. If he loses his
+original Intention, there will be signs: in his conduct there is much
+folly, and both natures, the guest and the host, are defiled. But if he
+remembers and does not forget, then when folly rises he knows it at once,
+quickly subdues it, strives with diligence, and gains wisdom. Through his
+good deeds the stranger-nature lodging there is made pure, and the
+Intention-body of the light-nature is clear and without stain.
+
+"These are the five great battles. Between the New Man and the Old there is
+from time to time a battle, and by these five powers the New Man guards
+himself against the enemy, as the holy ones do in the great world, of which
+these are the signs. Compassion copies the Envoy of Light who holds the
+world (持世明使). Faith copies the Great King of the Ten Heavens. Perfection
+copies the victorious Envoy who subdues the demons. Patience copies the
+Envoy of Light who bears up the earth (地藏明使). Wisdom copies the Envoy of
+Light who drives the light onward (催光明使).
+
+"For this reason the holy ones of the past, and the teaching of the
+present, say this: for one who has left home, the battle is not between
+bodies of flesh, which can be touched. It is with what cannot be touched,
+the poisonous natures of the demons, fighting each other. So the pure
+teachers who keep the precepts are of one kind with the holy ones. Why?
+Because in subduing the demon enemies they are no different from the holy
+ones.
+
+### 10. The Light-Nous in the five cities of the New Man
+
+"At times the troops of the Old Man fall back defeated, and the Light-Nous,
+in the form of the Law, walks at ease through the countless lands of the
+five worlds of the New Man. He enters the pure and wondrous city of Sense,
+sets out the seat of the Law in its jewelled palace, and sits there at rest.
+So too with the cities of Mind, Thought, Reflection and Intention: he enters
+each of them in turn.
+
+"If the Light-Nous is walking in the city of Sense, know that everything
+this teacher preaches of the true Law is wondrous. He delights to speak of
+the Great Light, the Three Constants and the Five Greats, of supernatural
+transformations, and of all the perfect forms; and in the Law he speaks
+above all of Compassion.
+
+"If he is walking in the city of Mind, know that this teacher delights to
+speak of the palaces of light of the sun and moon, their supernatural
+transformations and their perfect power; and in the Law he speaks above all
+of Faith.
+
+"If he is walking in the city of Thought, know that this teacher delights
+to speak of the Great Form, the Srōšahrāy, its supernatural transformations
+and its perfect silence; and in the Law he speaks above all of Perfection.
+
+"If he is walking in the city of Reflection, know that this teacher
+delights to speak of the five lights and their supernatural
+transformations; and in the Law he speaks above all of Patience.
+
+"If he is walking in the city of Intention, know that this teacher delights
+to speak of the Envoys of Light of the past, the future and the present,
+of their supernatural transformations and how they appear and vanish at
+will; and in the Law he speaks above all of Wisdom.
+
+"So the wise, looking closely at a teacher, know in which land the
+Light-Nous is dwelling.
+
+"If there are pure *dēnāvar* who hold to the supreme true Law in this way
+and do not turn back until the end of their lives, then when their lives
+end, the Old Man and his troops, the dark powers of ignorance, fall into
+hell, with no time of coming out. But the Light-Nous at once leads his own
+army of light, his pure household, straight to the realm of light, where
+they are free of fear for ever and always enjoy happiness.
+
+"The *Gospel* (應輪經) says: 'If the *dēnāvar* have the good Law in their
+bodies, the Father and the Son of Light and the Pure Wind of the Law are
+always present and moving in their bodies.' The Father of Light is the
+supreme Lord of Light of the realm of light. The Son of Light is the light
+of the sun and moon. The Pure Wind of the Law is the Light-Nous.
+
+"The *Epistles* (寧萬經) say: 'If the *dēnāvar* have the good Law, then
+pure light, great power and wisdom are all present in their bodies.' This
+is the New Man, perfect in merit."
+
+*(The translation continues in later updates: the Light-Nous as gardener,
+cutting the dead trees and planting the living ones; the king of virtues;
+the four days and two nights; the twelve signs of the Elect; and the
+closing hymn of the teachers.)*
 
 ---
 
@@ -229,3 +398,16 @@ the Elect, and the closing hymn of the teachers.)*
   transcribe a foreign term for the mixed substance being refined. They are
   left untranslated until checked.
 - **客性**, "stranger-nature": the light that is a guest in the body.
+- **§8, the five gifts**: the manuscript lists only four of the five pairings.
+  The clause for the Mind (Faith, added to the Wind) seems to have dropped
+  out, so that the Mind is paired with Perfection and the Light. The
+  translation follows the text as it stands. The list of thirteen that
+  follows has all five virtues.
+- **摩訶羅薩本** (§8) transcribes Middle Persian *mahrāspand*, the "holy
+  words" or elements.
+- **The five Envoys in §9** are the five sons of the Living Spirit: the
+  Keeper of Splendour (Splenditenens), the King of Honour, Adamas, the
+  Bearer (Omophoros, "earth-store"), and probably the King of Glory, who
+  turns the wheels that raise the light.
+- **應輪經 and 寧萬經** (§10) are the Gospel and the Epistles. The Chinese
+  *Compendium* lists Mani's books as 大應輪部 (Gospel) and 泥萬部 (Epistles).
