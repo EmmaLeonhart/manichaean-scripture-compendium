@@ -74,6 +74,16 @@ public repository at https://manichaeism.order.life.
   (`scripts/fetch_wikipedia_art.py`). The Commons dump was deleted at the user's
   order ("Delete it all"), along with its fetch script.
 
+## Status (2026-10-20 14:41)
+
+- On the site: 5 texts (Xwāstwānīft, al-Bīrūnī's quotations, Fundamental
+  Epistle, Irk Bitig, and the Traité as a draft) and the art gallery (17 of 19
+  artworks).
+- Queue: only translation items remain, held for the 06:00–15:00 window on
+  2026-10-21. Loop ticks are idle until then unless the user adds work.
+- NEEDS-DECISION (user): which public-domain New Testament translation; how
+  to rerun the Shangwan image generation.
+
 ## Assumptions (not yet confirmed)
 
 - The site is a Jekyll GitHub Pages site built from `docs/` on `main`, with
