@@ -38,7 +38,7 @@ quotations by other writers.
 | Xiabuzan (Hymnscroll) | Planned |
 | Manichaean Compendium | Planned |
 | Incomplete scripture of Manichaeism (Traité) | [The Sermon of the Light-Nous](traite.html) (new translation, draft) |
-| Irk Bitig | Planned |
+| Irk Bitig | [The Book of Omens](irk-bitig.html) (public domain translation) |
 | Turpan Manichaean texts | Planned |
 | Sogdian-language Manichaean letter | Planned |
 | Xiapu Manichaean manuscripts | Planned |
