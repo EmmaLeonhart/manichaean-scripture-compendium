@@ -100,12 +100,19 @@ def main():
         return
     (OUT / "files").mkdir(parents=True, exist_ok=True)
     records = []
+    used = set()
     for t in titles:
         ii = info.get(t)
         if not ii:
             continue
         # Windows forbids some characters that Commons titles allow.
         name = re.sub(r'[<>:"/\|?*]', "_", t.split(":", 1)[1].replace(" ", "_"))
+        # Windows filenames are case-insensitive; keep titles that differ
+        # only by case apart.
+        if name.lower() in used:
+            stem, dot, ext = name.rpartition(".")
+            name = f"{stem}_2.{ext}" if dot else name + "_2"
+        used.add(name.lower())
         dest = OUT / "files" / name
         if not dest.exists():
             try:

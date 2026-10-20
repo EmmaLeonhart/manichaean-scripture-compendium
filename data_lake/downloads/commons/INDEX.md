@@ -68,7 +68,7 @@
 | [Jesus_Image_on_a_Manichaean_Temple_Banner_upscaled.jpg](https://commons.wikimedia.org/wiki/File:Jesus_Image_on_a_Manichaean_Temple_Banner_upscaled.jpg) | Public domain | Enthroned Jesus image on a Manichaean banner |
 | [Jesus_Image_on_a_Manichaean_Temple_Banner.jpg](https://commons.wikimedia.org/wiki/File:Jesus_Image_on_a_Manichaean_Temple_Banner.jpg) | Public domain | Enthroned Jesus image on a Manichaean banner |
 | [Jesus_as_a_Manichaean_Prophet,_13th_century.jpg](https://commons.wikimedia.org/wiki/File:Jesus_as_a_Manichaean_Prophet,_13th_century.jpg) | Public domain | Manichaean Painting of the Buddha Jesus |
-| [Jesus_image_on_a_Manichaean_Temple_Banner.jpg](https://commons.wikimedia.org/wiki/File:Jesus_image_on_a_Manichaean_Temple_Banner.jpg) | Public domain | Enthroned Jesus image on a Manichaean banner |
+| [Jesus_image_on_a_Manichaean_Temple_Banner_2.jpg](https://commons.wikimedia.org/wiki/File:Jesus_image_on_a_Manichaean_Temple_Banner.jpg) | Public domain | Enthroned Jesus image on a Manichaean banner |
 | [Jinjiang_Cao'an_20120229-01.jpg](https://commons.wikimedia.org/wiki/File:Jinjiang_Cao%27an_20120229-01.jpg) | CC BY-SA 4.0 | Cao'an |
 | [Jinjiang_Cao'an_20120229-02.jpg](https://commons.wikimedia.org/wiki/File:Jinjiang_Cao%27an_20120229-02.jpg) | CC BY-SA 4.0 | Cao'an |
 | [Jinjiang_Cao'an_20120229-03_(cropped).jpg](https://commons.wikimedia.org/wiki/File:Jinjiang_Cao%27an_20120229-03_(cropped).jpg) | CC BY-SA 4.0 | Cao'an |
