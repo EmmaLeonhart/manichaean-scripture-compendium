@@ -10,24 +10,31 @@ overnight, while they are away), set up **one** local `CronCreate` job:
 
 - **Schedule:** `7,37 * * * *` (every half hour, off the busy :00/:30 marks),
   recurring.
-- **Prompt:** `[cleanvibe cron] Commit and push any and all changes, then
-  continue working on the queue (refill it from the open questions if it is
-  empty). Re-read INTENT.md and update it if your understanding has changed;
-  fill in README.md if the purpose is now clear. Check the clock before
-  writing any time down.`
+- **Prompt:** `[cleanvibe cron] Commit and push any and all changes. Then
+  work the FIRST item in queue.md, on its own: do it, delete it from
+  queue.md, and log it in devlog.md in the same commit. Do not look past the
+  first item for another one; if it is stuck on a question, make the call
+  yourself and record why. Then the next item is the new first item: work it
+  the same way, one at a time, until the queue is empty or about 25 minutes
+  have passed. If the queue is empty, refill it from the open questions.
+  Re-read INTENT.md and update it if your understanding has changed; fill in
+  README.md if the purpose is now clear. Check the clock before writing any
+  time down.`
 
 That's the whole loop. Each time it fires:
 
 1. **Commit and push** everything that has changed, with messages that say what
    and why. Push only if the repo has a remote. No empty commits.
-2. **Continue working on the queue.** Take the top item in `queue.md` you can
-   do and do it, then the next, for as long as it makes sense. Delete finished
-   items from `queue.md` and log them in `devlog.md` in the same commit.
+2. **Work the first item in `queue.md`, on its own.** Do it, delete it from
+   `queue.md`, and log it in `devlog.md` in the same commit. Do not look past
+   the first item for another one; if it is stuck on a question, make the
+   call yourself and record why. Then the next item is the new first item:
+   work it the same way, one at a time, until the queue is empty or about 25
+   minutes have passed.
 3. **When the queue runs dry, refill it before idling.** In a research project,
    take the top open question in `research/SUMMARY.md`, plan it into
    `queue.md`, and work it. Otherwise take the next `todo.md` item that is
-   unblocked, bounded and checkable. "The remaining items are blocked" is not
-   the same as "nothing to do": look for other open questions first. If there
+   bounded and checkable. If there
    is truly nothing, the tick is **idle**: say so in one line.
    An idle tick is normal, not a problem to solve.
 4. **Keep the standing files current.** Re-read `INTENT.md` and update it if
