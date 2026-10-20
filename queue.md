@@ -13,6 +13,7 @@ log it in `devlog.md`.
    found). The
    end of the text (from about §11) is in the 1913 part (JA 11e sér. 1),
    which still needs finding (Gallica or archive.org).
-9. **Gallery page for the Commons art**: a page in `docs/` that shows the
-   public-domain and CC0 images with captions and credits. Don't make SVG or
-   AI versions yet; the user will give instructions for those.
+9. **Gallery page for the art**, using only the 19 Wikipedia artworks in
+   `data_lake/downloads/wikipedia-art/` (see INTENT.md; the Commons dump was
+   deleted). Captions and credits come from its metadata.json. Don't make SVG
+   or AI versions yet; the user will give instructions for those.
