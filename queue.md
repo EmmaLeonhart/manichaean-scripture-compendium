@@ -6,12 +6,11 @@ master list. Items marked **[Translation]** wait for the translation window
 (06:00–15:00 on 2026-10-21; see INTENT.md). Until then, skip them and take
 the next item.
 
-3. **Sources for every "—" item in SCOPE.md, in SCOPE order.** For each one,
-   find the base text and any public-domain translation, and record them in
-   the SCOPE.md row: Book of Giants, Psalms and Prayers, Pragmateia, Psalm
-   Book (with Psalms of Thomas), Kephalaia, Cologne Mani-Codex, Turpan texts,
-   Sogdian letter, Irk Bitig, Xiapu manuscripts, Moni Guangfo. This is
-   research, not translation.
+3. **Locate the sources still missing in SCOPE.md**: a scan of Müller 1904
+   (*Handschriften-Reste*); the ZPE PDFs of the Cologne Mani-Codex; the page
+   range of Thomsen 1912 in JRAS (the Irk Bitig); a scan of Le Coq,
+   *Türkische Manichaica* I–III. Record the archive.org identifiers in
+   SCOPE.md.
 4. **[Translation] Finish checking the Traité** against Chavannes & Pelliot.
    The 1911 part is OCR'd at archive.org `in.gov.ignca.26273` (the Traité
    starts at p. 509). Checked: §§1–11 and the fourth sign of §15. To check:
