@@ -5,7 +5,7 @@ order: 40
 summary: The Envoy of Light teaches Adda how the Light-Nous frees the light imprisoned in the body and plants the trees of the new self.
 original_language: Chinese
 source: 'Chinese manuscript "Yu 16", National Library of China, Beijing; text as printed in Taishō vol. 54, no. 2141B (波斯教殘經), via CBETA. New translation.'
-rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (complete first pass, not yet checked against Chavannes & Pelliot)."
+rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (complete first pass; checking against Chavannes & Pelliot in progress)."
 ---
 
 ## Introduction
@@ -113,7 +113,7 @@ as it is, copies every part: heaven and earth, the world, the wheel of deeds
 and the stars, the three calamities, the four walls, the great sea and the
 rivers, the dry and the wet earths, plants and trees, birds and beasts,
 mountains and streams, hills and mounds, spring, summer, autumn and winter,
-years, months, hours and days, and even what is solid and what is not.
+years, months, hours and days, and even the bounded and the unbounded.
 There is nothing in it that does not copy the world. It is like a goldsmith
 who copies the shape of a white elephant and engraves it inside a ring: the
 elephant's body is neither larger nor smaller (than the original). The human
@@ -210,8 +210,8 @@ Light-Nous uses the fire of hunger to great profit.
 
 ### 8. The old man, and the three days and two nights
 
-"The five powers of light dwell in the mingled body. Through the good man
-(the Light-Nous) sifts the two forces and sets each apart. This body of
+"The five powers of light dwell in the mingled body. So the good man sifts
+and chooses between the two forces and sets each apart. This body of
 flesh is also called the Old Man. It is bone, sinew, veins, flesh and skin;
 resentment, anger, lust, wrath and folly; and greed and gluttonous lust.
 These thirteen together make up one body, and it copies the beginningless
@@ -317,9 +317,9 @@ Envoy of Light who bears up the earth (地藏明使). Wisdom copies the Envoy of
 Light who drives the light onward (催光明使).
 
 "For this reason the holy ones of the past, and the teaching of the
-present, say this: for one who has left home, the battle is not between
-bodies of flesh, which can be touched. It is with what cannot be touched,
-the poisonous natures of the demons, fighting each other. So the pure
+present, say this: for one who has left home, the battle is not with
+bounded bodies of flesh. It is with the unbounded, the poisonous natures of
+the demons, fighting each other. So the pure
 teachers who keep the precepts are of one kind with the holy ones. Why?
 Because in subduing the demon enemies they are no different from the holy
 ones.
@@ -776,7 +776,7 @@ joy."
 
 When the teachers (慕闍) in the assembly heard this scripture, they leapt for
 joy and marvelled at what they had never heard before. The gods and good
-spirits, those that can be touched and those that cannot, the kings, the
+spirits, bounded and unbounded, the kings, the
 ministers, the men and women, and the four orders of the community,
 countless beyond number, heard this scripture and were all filled with joy,
 and every one of them was able to set his heart on the supreme Way, like
@@ -849,9 +849,13 @@ accepted it according to the Law, and joyfully put it into practice.
 - **路㑥 and 業羅決** are the male and female demons who make Adam and Eve:
   Ašaqlūn and Nebrōēl in the Western sources. The Chinese renderings are
   transcriptions, given here in pinyin.
-- **[…] in §7**: the characters 㘈𠺕而云䁥 are unclear. They seem to
-  transcribe a foreign term for the mixed substance being refined. They are
-  left untranslated until checked.
+- **[…] in §7**: the characters 㘈𠺕而云䁥 transcribe a foreign word.
+  Chavannes and Pelliot read it *yi-lieou-eul-yun-ni* and leave it
+  untranslated. In the comparison it stands for the gold ore, the mixture
+  being refined.
+- **有礙無礙**, "the bounded and the unbounded" (§§3, 9, 17), follows
+  Chavannes and Pelliot ("le limité et l'illimité"). It points to the
+  Manichaean contrast between finite form and unbounded elements.
 - **客性**, "stranger-nature": the light that is a guest in the body.
 - **§8, the five gifts**: the manuscript lists only four of the five pairings.
   The clause for the Mind (Faith, added to the Wind) seems to have dropped
