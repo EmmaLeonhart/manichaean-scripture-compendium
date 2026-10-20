@@ -6,10 +6,6 @@ master list. Items marked **[Translation]** wait for the translation window
 (06:00–15:00 on 2026-10-21; see INTENT.md). Until then, skip them and take
 the next item.
 
-2. **Gallery page for the art**, using only the 19 Wikipedia artworks in
-   `data_lake/downloads/wikipedia-art/`. Captions and credits come from its
-   metadata.json. No SVG or AI versions yet; the user will give instructions
-   for those.
 3. **Sources for every "—" item in SCOPE.md, in SCOPE order.** For each one,
    find the base text and any public-domain translation, and record them in
    the SCOPE.md row: Book of Giants, Psalms and Prayers, Pragmateia, Psalm

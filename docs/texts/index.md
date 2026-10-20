@@ -46,7 +46,7 @@ quotations by other writers.
 
 ## Visual art
 
-The 19 artworks in the navigation box. A gallery page is coming.
+The 19 artworks in the navigation box. See the [gallery](../art/).
 
 Birth of Mani · Book of Pictures (lost) · Diagram of the Universe · Episodes
 from Mani's Missionary Work · Icon of Mani · Leaves from Manichaean books

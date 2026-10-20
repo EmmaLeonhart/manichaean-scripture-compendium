@@ -49,3 +49,4 @@ footer {
 }
 table { border-collapse: collapse; width: 100%; font-size: .9rem; display: block; overflow-x: auto; }
 th, td { border-bottom: 1px solid var(--rule); padding: .4rem .5rem; text-align: left; vertical-align: top; }
+main img { max-width: 100%; height: auto; display: block; }
