@@ -1,6 +1,7 @@
 ---
 title: "Xwāstwānīft: The Confession of the Hearers"
 text: true
+group: extracanonical
 order: 10
 summary: The Old Uyghur confession prayer of the Manichaean laity, in fifteen articles.
 original_language: Old Uyghur (Turkic), in Manichaean script

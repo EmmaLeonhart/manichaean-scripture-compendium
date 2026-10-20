@@ -1,6 +1,7 @@
 ---
 title: "Mani's Books as Quoted by al-Bīrūnī"
 text: true
+group: scripture
 order: 20
 summary: Mani's own words from the Šābuhragān, the Living Gospel, the Book of Mysteries and the Treasure of Life, preserved by al-Bīrūnī.
 original_language: Arabic (quoting Mani's Middle Persian and Syriac books)

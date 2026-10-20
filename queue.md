@@ -6,10 +6,6 @@ master list. Items marked **[Translation]** wait for the translation window
 (06:00–15:00 on 2026-10-21; see INTENT.md). Until then, skip them and take
 the next item.
 
-1. **Texts page follows the scope.** Rewrite `docs/texts/index.md` so it
-   shows the three scope groups (Scripture, Extracanonical literature,
-   Visual art) with every item from SCOPE.md and its status, linking the
-   ones that have pages. Add a `group` field to each text page.
 2. **Gallery page for the art**, using only the 19 Wikipedia artworks in
    `data_lake/downloads/wikipedia-art/`. Captions and credits come from its
    metadata.json. No SVG or AI versions yet; the user will give instructions

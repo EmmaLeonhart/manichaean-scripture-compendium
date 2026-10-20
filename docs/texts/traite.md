@@ -1,6 +1,7 @@
 ---
 title: "The Sermon of the Light-Nous (the Chinese Traité)"
 text: true
+group: extracanonical
 order: 40
 summary: The Envoy of Light teaches Adda how the Light-Nous frees the light imprisoned in the body and plants the trees of the new self.
 original_language: Chinese

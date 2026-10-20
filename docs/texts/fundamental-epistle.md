@@ -1,6 +1,7 @@
 ---
 title: "The Fundamental Epistle and the Treasure: Fragments in Augustine"
 text: true
+group: extracanonical
 order: 30
 summary: Fragments of Mani's Fundamental Epistle and the seventh book of the Treasure of Life, quoted by Augustine.
 original_language: Latin (translating Mani's Syriac)
