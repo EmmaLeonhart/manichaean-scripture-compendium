@@ -3,7 +3,7 @@
 Work top to bottom, the first item only. Delete an item when it is done and
 log it in `devlog.md`.
 
-8. **Finish checking the Traité draft against Chavannes & Pelliot.** The
+8. **[Translation: only from 06:00 to 15:00 on 2026-10-21; skip until then]** **Finish checking the Traité draft against Chavannes & Pelliot.** The
    1911 part (JA 10e sér. 18, pp. 499–617) is OCR'd at archive.org
    `in.gov.ignca.26273` (cleaner than `in.ernet.dli.2015.530757`); the
    Traité starts at p. 509. Checked so far: §§1–11 and the fourth sign in

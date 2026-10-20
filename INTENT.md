@@ -28,6 +28,11 @@ public repository at https://manichaeism.order.life.
   private-by-default rule in CLAUDE.md.
 - **Hosting:** manichaeism.order.life.
 - **Keep chat replies short.** Long answers made the user angry.
+- **No translation work until 2026-10-21 06:00, and only until 15:00 that
+  day.** User, 2026-10-20: "No translations until a cron job fires at 6am and
+  stops at 3pm tomorrow". This includes checking the Traité. One-shot crons
+  open the window at 06:00 and close it at 15:00. Until then, loop ticks do
+  only non-translation queue items.
 - **No DNS work until 2026-10-21 about 11:35 PST.** User, 2026-10-20: "ignore
   dns stuff for 24 hours". Don't raise it or work on it before then.
 - **Manichaean art from Wikimedia Commons.** User, 2026-10-20: "we download
