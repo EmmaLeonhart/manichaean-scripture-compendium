@@ -31,10 +31,11 @@ public repository at https://manichaeism.order.life.
 
 ## Assumptions (not yet confirmed)
 
-- The site is a static GitHub Pages site served from this repo, with a CNAME
-  of `manichaeism.order.life`. DNS for that subdomain is
-  BLOCKED-ON-USER-ACTION: the user has to add a CNAME record pointing to
-  `emmaleonhart.github.io` (the domain did not resolve on 2026-10-20).
+- The site is a Jekyll GitHub Pages site built from `docs/` on `main`, with
+  a CNAME of `manichaeism.order.life`. Pages was switched on 2026-10-20. DNS
+  is BLOCKED-ON-USER-ACTION: the user has to add a CNAME record for
+  `manichaeism` on order.life pointing to `emmaleonhart.github.io`. Until
+  then the github.io address redirects to a domain that does not resolve.
 - Scope is the Manichaean canon and the surviving scriptural corpus: Mani's
   seven works (only fragments survive), the Coptic Medinet Madi codices
   (Psalm-Book, Kephalaia, Homilies), the Cologne Mani Codex, the Middle
