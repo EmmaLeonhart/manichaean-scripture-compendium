@@ -34,3 +34,9 @@
   (`dli.ministry.15623`). It agrees on every doubtful reading checked
   (Zephyr, Raimast, merit-attaining, Preta, unavailableness and others).
   Fixed "Qutluγ pads". The page images themselves were not viewed.
+- Added two public-domain text pages: `docs/texts/al-biruni-quotations.md`
+  (Mani's Šābuhragān, Gospel, Mysteries and Treasure as quoted by al-Bīrūnī,
+  Sachau 1879/1888) and `docs/texts/fundamental-epistle.md` (the Fundamental
+  Epistle and Treasure VII as quoted by Augustine, NPNF 1887). Every
+  Augustine quotation was checked word for word against the 1887 scan. New
+  Advent's revised text was used only to locate them.
