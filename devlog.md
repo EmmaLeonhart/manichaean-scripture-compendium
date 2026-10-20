@@ -63,3 +63,4 @@
 - Sources located: Müller 1904 is in the open scan `abhandlungenderk1904kn`; the Cologne Codex Greek is only available as lending scans (ZPE 19; Koenen & Römer 1985). Le Coq's *Türkische Manichaica* is not on archive.org. Queued the Irk Bitig page.
 - Irk Bitig page (`docs/texts/irk-bitig.md`): Thomsen's public-domain 1912 translation of all 65 omens plus the colophon, read from the page images of JRAS 1912 (pp. 196–209) because the OCR runs the columns together. Unverified shelfmark and date claims were taken out before committing.
 - Checks: the Irk Bitig colophon was verified against its page image ("Itä-chuq"). The unverifiable shelfmark "Or. 8212/178" and the IDP claim were removed from the Xwāstwānīft page; only Stein's Ch. 0015 is kept.
+- Le Coq's *Türkische Manichaica*: part I is in archive.org `abhandlungenderk1911akaduoft` and part II in `abhandlungenderk1919akaduoft` (both public domain, German). Part III (1922) was not found. Recorded in SCOPE.md.
