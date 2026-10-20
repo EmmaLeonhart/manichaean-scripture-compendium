@@ -99,6 +99,11 @@ def fetch_one(title, name, records):
     ii, ext = info[0], info[0].get("extmetadata", {})
     local = re.sub(r'[<>:"/\\|?*]', "_", name)
     dest = OUT / "files" / local
+    # Non-free (fair use) images never go in the repo: keep them in the
+    # gitignored nonfree/ folder as references only.
+    if ext.get("LicenseShortName", {}).get("value", "").lower().startswith("fair use"):
+        dest = OUT.parent.parent.parent / "nonfree" / "shangwan" / local
+        dest.parent.mkdir(parents=True, exist_ok=True)
     if not dest.exists():
         req = urllib.request.Request(ii["url"], headers={"User-Agent": UA})
         dest.write_bytes(urllib.request.urlopen(req, timeout=300).read())
