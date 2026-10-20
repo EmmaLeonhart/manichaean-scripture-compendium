@@ -5,7 +5,7 @@ order: 40
 summary: The Envoy of Light teaches Adda how the Light-Nous frees the light imprisoned in the body and plants the trees of the new self.
 original_language: Chinese
 source: 'Chinese manuscript "Yu 16", National Library of China, Beijing; text as printed in Taishō vol. 54, no. 2141B (波斯教殘經), via CBETA. New translation.'
-rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (in progress)."
+rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (complete first pass, not yet checked against Chavannes & Pelliot)."
 ---
 
 ## Introduction
@@ -32,7 +32,7 @@ a true member of the Elect can be recognised.
 **This translation is a draft, made for this compendium from the Chinese.**
 Square brackets [ ] mark gaps in the manuscript. Parentheses ( ) mark words
 added for sense. Technical terms are given once with their Chinese.
-Section headings are added. The translation is being published in parts.
+Section headings are added.
 
 ### Key terms
 
@@ -524,9 +524,318 @@ hundred thousand, hardly one can enter this path. But whoever enters it and
 follows this way is born in the pure land, leaves suffering behind, is set
 free, is without fear for ever, and has constant joy, peace and purity.
 
-*(The translation continues in later updates: the four days and two nights;
-the twelve kings of light; the twelve signs of the Elect; and the closing
-hymn of the teachers.)*
+### 13. The days of light and the nights of darkness in the body
+
+"Again, in the dark body of the Demon, the Light-Nous makes the great suns
+of the light of wisdom shine through, and subdues the two kinds of dark
+night of ignorance, copying the supreme signs of the light.
+
+"The first day is the Light-Nous. Its twelve hours are the twelve great
+kings of the victorious form. They copy the supreme signs of the pure
+world of light.
+
+"The second day is the pure seed of the New Man. Its twelve hours are the
+twelve kings of light brought forth in turn. It is also the wondrous robe
+of the victorious form of Jesus (夷數), which is given to the light-nature.
+With this wondrous robe it adorns the inner nature and makes it perfect, so
+that it is drawn up and rises and leaves the filthy land for ever. The day
+of the New Man copies the vast Srōšahrāy. Its twelve hours copy the five
+sons of light of the First Thought and the five of the Living Spirit,
+together with Xrōštag and Padvāxtag. Together these make thirteen pure
+bodies of light, and form one day.
+
+"The third day is the voice of the Call and the Answer. Its twelve hours are
+the wondrous Sense, Mind, Thought, Reflection and Intention, together with
+Compassion, Faith, Perfection, Patience and Wisdom. This is the Call and
+Answer.
+
+"The fourth day copies the Envoy of Light of the sun in the great realm,
+and Compassion and the rest. Its twelve hours copy the twelve maidens
+brought forth in the palace of the sun. Their light is full and round, and
+together they make one day.
+
+"Then there are also two kinds of dark night. The first night is the Demon
+of Greed. Its twelve hours are bone, sinew, veins, flesh and skin, and
+resentment, hatred, anger, lust, wrath, folly, greed and the fire of
+hunger: such impure poisons as these. They copy the first dark night of
+the beginningless ignorance of the realm of darkness. The second night is
+the blazing flame of fierce, poisonous desire. Its twelve hours are the
+twelve kinds of dark, poisonous thinking. These dark nights copy the signs
+of the first rising of the demons.
+
+"Then the day of the Light-Nous faces the heavy, gloomy dark night of
+ignorance, and by the power of light subdues the dark nature, so that all of
+it falls back and scatters. For this reason it copies the sign of the first
+Envoy of Light subduing the demons.
+
+### 14. The twelve kings of light
+
+"Again, in the body of ignorance, the Light-Nous subdues the demons in
+every way, freely, like a king in his palace who rewards and punishes
+without fear.
+
+"The forms of the Light-Nous are these: first, the Great King; second,
+Wisdom; third, Constant Victory; fourth, Joy; fifth, Diligence; sixth,
+Equality; seventh, the Believing Heart; eighth, Patience; ninth,
+Straightforwardness; tenth, Merit; eleventh, Concord of One Heart; twelfth,
+Light Within and Without.
+
+"When these twelve great hours of light enter the five lands of Sense,
+Mind, Thought, Reflection and Intention, each one breeds countless lights,
+and each brings forth fruit without measure too. The fruit appears in full
+in the pure community. When a *dēnāvar* is complete in the twelve hours of
+light, know that this teacher is different from the crowd. Being different
+means this: the teachers and bishops always have kindness, goodness and
+gentleness of their own in body and mind, and are calm and at one with
+others. This is the sign of it. It is the first budding of the twelve trees
+of form. On these trees supreme jewelled flowers always open, and when they
+have opened their brightness shines everywhere. Between each flower and the
+next, countless buddhas are brought forth, each giving birth to the next,
+bringing forth countless bodies.
+
+### 15. The twelve signs of the Elect
+
+**(1) The Great King.** "If a *dēnāvar* holds within the tree of the first,
+the Great King, know that this teacher has five signs. First, he does not
+like to stay long in one place, just as a king is free and does not always
+stay in one place: at times he goes out on progress with his troops, fully
+armed and equipped, and makes all evil beasts and enemies go into hiding.
+Second, he is not grasping: wherever he goes, if he receives offerings he
+does not keep them secretly for his own use, but hands them all to the
+community. Third, he is chaste and guards against faults. He can keep
+himself pure, and he also urges others who study and practise to keep
+themselves pure. Fourth, he always keeps close to his own honoured teacher
+and to those who have wisdom. From the foolish, who love idle talk and
+quarrels, he keeps well away. Fifth, he always loves to live together with
+the pure community. Wherever he goes, he does not leave the others to sleep
+alone in a room of his own. Anyone who does this is called a sick man. Just
+as a sick man in the world, troubled by his illness, always likes to be
+alone and does not want to be near his family and friends, so is one who
+does not love the community.
+
+**(2) Wisdom.** "If a *dēnāvar* who keeps the precepts holds within the
+nature of wisdom, know that this teacher has five signs. First, he always
+loves to praise pure and wise people, and loves to meet with the pure and
+wise community; his heart is glad, and he never tires of them. Second, if his
+own root of wisdom and understanding is narrow and weak, he feels no envy
+when he hears the wise words of the wise. Third, in all the work he has to
+do, he always studies diligently and his heart is never slack. Fourth, he
+himself always studies diligently at wisdom, skilful means and all good
+conduct, and urges others to practise them with him. Fifth, he keeps the
+prohibitions and precepts with care and does not break them, and if he
+breaks one by mistake, he at once confesses it openly before the community
+and repents.
+
+**(3) Constant Victory.** "If a pure *dēnāvar* holds within the nature of
+victory, know that this teacher has five signs. First, he does not like
+slander, flattery or spite, and keeps away from people like that. Second,
+he does not like quarrels and commotion. If there is a quarrel he quickly
+withdraws, and if someone comes and forces a quarrel on him, he can bear
+it patiently. Third, if someone gives way in debate, he does not press his
+advantage or gloat over it. Fourth, he does not speak rashly, or speak
+without being asked. If someone comes with a question, he thinks it over
+before answering, so that in the end the questioner is not shamed by what
+was said. Fifth, he goes along with what others say and does not contradict
+them, nor does he insist on proving them wrong so as to show up their
+fault. In the community of the Law his heart is in concord and causes no
+division.
+
+**(4) Joy.** "If a pure *dēnāvar* holds within the nature of joy, know that
+this teacher has five signs. First, in all the prohibitions, precepts and
+rules of conduct of the holy teaching he rejoices, one by one, and keeps
+them with all his strength until the end of his life, never letting his
+heart give them up. Second, he gladly and reverently keeps what the holy
+ones laid down, one change of clothes a year and one meal a day, and does
+not find it hard. Nor does he falsely claim that the holy ones made this
+rule only as a temporary measure, misquoting scriptures and treatises to
+say that one may eat twice, or that those who seek liberation need not keep
+this precept. Third, he studies only the pure Law of his own school, and
+does not go looking for other, corrupt teachings. Fourth, his heart is
+always humble, and he does not put himself above his fellow students.
+Fifth, if he holds a lower rank, he does not overstep it; if he holds the
+highest place as head, he regards the community as himself and loves them
+all without favouring anyone.
+
+**(5) Diligence.** "If a pure *dēnāvar* holds within the nature of
+diligence, know that this teacher has five signs. First, he does not like
+sleep that gets in the way of the work of the Way. Second, he always loves
+reading and recitation, and spurs his heart on without slackening. When
+fellow students teach him, he is especially glad and grateful, and does not
+resent being taught. He is always diligent himself, and urges others to be
+so too. Third, he always loves to expound the pure, true Law. Fourth, in
+hymns, prayers and recitation, in chanting, copying, remembering and
+reflecting, he lets no time go by wasted. Fifth, he keeps the prohibitions
+and precepts firmly, without a lapse.
+
+**(6) Truthfulness.** "If a pure *dēnāvar* holds within the nature of
+truthfulness, know that this teacher has five signs. First, all the
+scriptures and teachings he speaks are true. He keeps wholly to the holy
+teaching and does not proclaim it falsely: where something is, he says it
+is; where it is not, he says it is not. Second, his heart and intention are
+always at one with the truth, and he does not wait for outside events to
+set his rule by. Third, the precepts and practices he keeps are always
+true, whether he is alone or with others; his heart is not divided. Fourth,
+he is always settled in his heart towards his own teacher, serves him with
+all his strength, and has no doubts, until the end of his life, with no
+other intention. Fifth, he urges his fellow students to practise, and
+guides everyone with truthful conduct.
+
+**(7) The Believing Heart.** "If a pure *dēnāvar* holds within the nature of
+a believing heart, know that this teacher has five signs. First, he
+believes the meaning of the Two Principles; his heart is pure and without
+doubt; he leaves the darkness and follows the light, as the holy ones have
+said. Second, his heart is settled in all the precepts and rules. Third, he
+does not dare to add or take away a single sentence or a single word of the
+holy scriptures. Fourth, he is glad of everything that benefits the true
+Law and helps it with his heart. If he sees it harmed or troubled by the
+demons, he feels compassion and shares in the grief. Fifth, he does not
+falsely spread the faults of others, nor slander, carry tales or speak with
+a forked tongue. His nature is always gentle, honest and undivided.
+
+**(8) Patience.** "If a pure *dēnāvar* holds within the nature of patience,
+know that this teacher has five signs. First, his heart is always kind and
+good, and no rage arises in it. Second, he is always glad and no anger
+rises in him. Third, he bears no grudge anywhere. Fourth, his heart is not
+hard and his mouth speaks no coarse or evil words. He always speaks gently,
+in a way that pleases everyone. Fifth, whether inside (the community) or
+outside it, if evils and troubles come to meet him and insult him, he can
+bear them all, gladly and without resentment.
+
+**(9) Straightforwardness.** "If a pure *dēnāvar* holds within the nature of
+straightforwardness, know that this teacher has five signs. First, he is not
+bound by the passions; he is glad of himself, pure and straightforward.
+Second, in the Law, whatever is asked of him, great or small, he receives
+it with respect, and answers gladly and well. Third, with his fellow
+students he does not argue back, or defend his own shortcomings and grow
+angry. Fourth, his words and deeds match; his heart is always honest; he
+does not go looking for others' faults and so start quarrels. Fifth, if
+brothers within the Law have hearts that differ from the holy teaching, he
+at once keeps away from them, does not live with them or keep close to
+them, and does not join forces with them to trouble the good community.
+
+**(10) Merit.** "If a pure *dēnāvar* holds within the nature of merit, know
+that this teacher has five signs. First, nothing he says harms anyone. He
+always uses a kind heart and skilful means, and can make everyone glad.
+Second, his heart is always pure; he holds nothing against others, nor does
+he do wrong so as to make others angry. His speech is always gentle and
+free of the four faults (of speech). Third, he is not jealous of those above
+him or those below. Fourth, he does not take scriptures, treatises or
+disciples away from the community. Wherever he goes, he is glad to stay in
+whatever pure dwelling there is, and does not choose one that is fine and
+pleasant. Fifth, he always loves to teach and admonish all people, with
+skill and wisdom, so that they practise the true Way.
+
+**(11) Concord of One Heart.** "If a pure *dēnāvar* holds within the nature
+of a heart in concord, know that this teacher has five signs. First, in the
+wisdom, skilful means and conduct taught by the masters of the Law, the
+teachers and bishops, he follows every point and does not dare to change
+it, and does not insist on his own views. Second, he always loves concord
+and living together with the community, and does not want to live apart,
+each pursuing different plans. Third, his heart is in concord with the
+others, and because of this concord the offerings received together become
+merit for all. Fourth, he always has the respect, offerings, love and praise
+of the hearers. Fifth, he always loves to keep far from frivolity,
+joking and laughter, and from quarrels, and guards well what is within and
+without, keeping the two natures in concord.
+
+**(12) Light Within and Without.** "If a pure *dēnāvar* holds within the
+nature of light in both, know that this teacher has five signs. First, he
+pulls up the filthy heart and does not let it be greedy or lustful, so
+that his light-nature is always free. Faced with women, he can see them as
+unreal, and is not held back by any form, like a bird flying high that does
+not fall into the net. Second, he does not form special, close friendships
+with the hearers, nor cling to the hearers' houses as though they were his
+own. If he sees losses or troubles in a lay household outside the Law, his
+heart is not grieved; if they gain some profit or happy event, his heart is
+unchanged too. Third, walking or standing, sitting or lying down, he does not
+pamper the body of flesh by seeking fine soft clothes, bedding, food,
+medicines, birds, horses or carriages to make it splendid. Fourth, he always
+remembers the day of the end of life, with its dangers, pains and distress.
+He always keeps impermanence and the King of Equal Justice before his eyes,
+and never for a moment lets them go. Fifth, he himself is gentle and
+yielding. He does not trouble his brothers or friends, or make them angry,
+nor does he hope to prove anything against them and give others a bad name.
+He can always keep his heart steady and abide in the pure Law.
+
+### 16. The Envoy's charge
+
+"Such as these are called the jewelled trees of the twelve kings of light.
+For your sake I have brought them here from the world of light, where joy
+is constant. I wish to plant these trees in your pure community. You men and
+women of excellent form and good wisdom must each plant these trees in your
+pure hearts and make them grow, like good ground free of sand and salt,
+where one seed sown yields ten thousand, and so on, to a number without
+measure. Now, if you want to win the pure fruit of the supreme great light,
+you must all adorn yourselves with these jewelled trees and make them
+complete. Why? Because, good sons, by the fruit of these trees you will
+escape the four hardships and every kind of bodily existence, leave birth
+and death behind, be victorious for ever, and come to the place of peace and
+joy."
+
+### 17. The hymn of the teachers
+
+When the teachers (慕闍) in the assembly heard this scripture, they leapt for
+joy and marvelled at what they had never heard before. The gods and good
+spirits, those that can be touched and those that cannot, the kings, the
+ministers, the men and women, and the four orders of the community,
+countless beyond number, heard this scripture and were all filled with joy,
+and every one of them was able to set his heart on the supreme Way, like
+plants meeting the spring sun: all of them grew, flowered, bore fruit and
+ripened, except for rotten roots, which could not grow.
+
+Then the teachers bowed their heads to the Envoy of Light, knelt upright
+with their hands joined, and said:
+
+"You alone are the Great Holy One, alone honoured in the three worlds, the
+compassionate father and mother of all beings, the great guide of the three
+worlds, the great healing lord of all who have life. You are the wondrous
+space that can hold all forms; the high heaven that embraces everything;
+the true ground that bears true fruit; the great sea of ambrosia for all
+beings; the vast fragrant mountain of all treasures; the diamond pillar that
+bears up the multitude; the skilful, wise helmsman on the great sea; the
+compassionate hand that rescues from the fiery pit; the giver of constant
+life in the midst of death; the nature within the light-nature of beings;
+the bright gate of release from all the strong prisons of the three
+worlds."
+
+The teachers spoke again to the Envoy of Light and said: "Only the One
+Great Light can praise the holy virtue. With our tongues of flesh and our
+poor wisdom we cannot know even a small part in ten million of the merit and
+wisdom of the Tathāgata. Now we stir up our small virtue and small wisdom
+and offer a little of our meaning in praise of the Holy One's great mercy.
+We pray only that the Great Holy One will look on us with compassion, and
+take away and destroy the heavy sins of ignorance that we have committed
+through countless ages. We will not now dare to be careless; we will all
+hold to the supreme jewelled trees and make them complete.
+
+"By this water of the Law, wash away our dust and heavy stains, so that
+our light-nature may always be pure. By this medicine of the Law and the
+great divine spell, heal the heavy sicknesses we have had for many ages,
+so that all of them are cured. By this firm armour of wisdom, clothe us, so
+that we overcome our enemies. By these wondrous robes and crowns of every
+form, adorn us, so that we are complete. By this pattern of light of the
+original nature, seal us, so that we are not scattered and lost. By this
+sweet food of a hundred flavours, satisfy us, so that we are free of hunger
+and thirst. By this countless wondrous music, delight us, so that we are
+free of sorrow and trouble. By these many rare treasures, provide for us,
+so that we become rich. By this net of light, draw us out of the great sea
+and set us in the jewelled ship.
+
+"Now we are of excellent form and great blessing, for we have seen the
+special marks and beauty of the Great Holy One, and have heard the wondrous
+gate of the Law told above. It has swept away the stains of our passions,
+our hearts have been opened and awakened, we have received the
+wish-granting pearl, and in its majestic light we have been able to walk
+the [high] way. The holy ones of the past, beyond counting, all passed
+through this gate, escaped the four hardships and every bodily existence,
+reached the world of light, and receive joy without measure. We pray only
+that every light-nature in the future that meets this gate of light,
+whether it sees or hears it, may, like the holy ones of old and like us
+today, hear the Law with joy, have its heart opened and awakened, receive it
+with reverence on bowed head, and have no doubts."
+
+Then the whole great assembly, having heard this scripture, believed and
+accepted it according to the Law, and joyfully put it into practice.
 
 ---
 
@@ -555,5 +864,14 @@ hymn of the teachers.)*
   Keeper of Splendour (Splenditenens), the King of Honour, Adamas, the
   Bearer (Omophoros, "earth-store"), and probably the King of Glory, who
   turns the wheels that raise the light.
+- **§13, "the great suns"**: the text says 三大光明惠日, "three great suns of
+  light", but goes on to list four days. The number is left out of the
+  translation.
+- **§17, "the [high] way"**: the manuscript has 缶道, "jar way", which is
+  probably a copying error. "High" is a guess and is marked as one.
+- **平等王** (§15.12), "the King of Equal Justice", is the judge of the
+  dead.
+- **§14, the sixth king** is 平等, "Equality", but in §15 the sixth sign is
+  headed 真實, "Truthfulness". Both readings are kept.
 - **應輪經 and 寧萬經** (§10) are the Gospel and the Epistles. The Chinese
   *Compendium* lists Mani's books as 大應輪部 (Gospel) and 泥萬部 (Epistles).
