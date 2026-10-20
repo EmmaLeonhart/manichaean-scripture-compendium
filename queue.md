@@ -3,10 +3,13 @@
 Work top to bottom, the first item only. Delete an item when it is done and
 log it in `devlog.md`.
 
-8. **Check the Traité draft against Chavannes & Pelliot 1911** (archive.org
-   `in.ernet.dli.2015.530757`, JA 10e sér. 18). Go section by section and
-   fix any misreadings. Pay particular attention to the notes on
-   §7 (㘈𠺕而云䁥), §8 (the missing clause) and §17 (缶道).
+8. **Finish checking the Traité draft against Chavannes & Pelliot.** The
+   1911 part (JA 10e sér. 18, pp. 499–617) is OCR'd at archive.org
+   `in.gov.ignca.26273` (cleaner than `in.ernet.dli.2015.530757`); the
+   Traité starts at p. 509. Checked so far: §1, §3 (bounded/unbounded), §7
+   and the opening of §8. Still to check: §§2, 4–6, then §8 onward. The
+   end of the text (from about §11) is in the 1913 part (JA 11e sér. 1),
+   which still needs finding (Gallica or archive.org).
 9. **Gallery page for the Commons art**: a page in `docs/` that shows the
    public-domain and CC0 images with captions and credits. Don't make SVG or
    AI versions yet; the user will give instructions for those.
