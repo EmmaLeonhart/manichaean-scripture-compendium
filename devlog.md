@@ -18,3 +18,7 @@
   CNAME of manichaeism.order.life and home, texts and about pages. A text
   page is any page with `text: true` in its front matter, plus `source`,
   `original_language`, `rights`, `summary` and `order`.
+- First text online: `docs/texts/xwastwanift.md`, Le Coq's public-domain 1911
+  English translation of the Uyghur confession of the hearers. The text was
+  extracted from the DLI scan's OCR and corrected from context, but not yet
+  proofread against the page images, which is queued.
