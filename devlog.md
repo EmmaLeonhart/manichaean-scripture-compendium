@@ -53,3 +53,4 @@
 - Traité check: in §8, restored the dropped clause (Faith from the Mind, added to the Wind) following Chavannes & Pelliot, and noted their rendering of 具足 as "contentment".
 - Traité check: §10 compared. Corrected "great minister" (大相), marked a four-character gap, and softened the identification of 應輪經 and 寧萬經 to "probably", adding C&P's literal titles.
 - Traité check: §9 compared and matches. §8 now reads "signs that there are two realms", following C&P.
+- Traité check: §11 dead and living trees compared. Corrected 謟惰, 增上 and 羔眾 following C&P.

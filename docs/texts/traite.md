@@ -430,13 +430,13 @@ fruit is division, its taste is indifference, and its colour is mockery
 and dislike.
 
 "Next he drives out the dark Mind of ignorance and cuts down its dead tree.
-Its root is unbelief, its trunk is forgetfulness, its branches are flattery
+Its root is unbelief, its trunk is forgetfulness, its branches are hesitation
 and sloth, its leaves are obstinacy, its fruit is vexation, its taste is
 greed, and its colour is refusal and concealment.
 
 "Next he drives out the dark Thought of ignorance and cuts down its dead
 tree. Its root is lust, its trunk is sloth, its branches are obstinacy, its
-leaves are arrogance, its fruit is ridicule, its taste is craving, and its
+leaves are resentment of superiors, its fruit is ridicule, its taste is craving, and its
 colour is lustful love and every impure deed, done first and regretted
 after.
 
@@ -461,7 +461,7 @@ light, waters them with the water of ambrosia, and they bear immortal
 fruit.
 
 "First he plants the tree of Sense. Its root is compassion, its trunk is
-joy, its branches are gladness, its leaves are gentleness towards all, its
+joy, its branches are gladness, its leaves are praise from all, its
 fruit is peace, its taste is reverent care, and its colour is
 steadfastness.
 
@@ -874,6 +874,11 @@ accepted it according to the Law, and joyfully put it into practice.
   Keeper of Splendour (Splenditenens), the King of Honour, Adamas, the
   Bearer (Omophoros, "earth-store"), and probably the King of Glory, who
   turns the wheels that raise the light.
+- **§11, the trees**, checked against Chavannes and Pelliot: 謟惰 is
+  "hesitation and sloth" (謟, "to doubt"). In the tree of Thought, 增上 is
+  read as 憎上, "resentment of superiors". In the tree of Sense, 羔眾 is
+  read with them as "praise from all", taking 羔 as a slip for 美. They
+  suspect "done first and regretted after" is an interpolation.
 - **§13, "the great suns"**: the text says 三大光明惠日, "three great suns of
   light", but goes on to list four days. The number is left out of the
   translation.
