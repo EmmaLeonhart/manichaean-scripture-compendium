@@ -14,3 +14,7 @@
   Jackson 1932 (R249768, 1960), so it is US public domain only from 2028.
   Allberry 1938 is URAA-restored until 2034. Three texts can go in English
   as-is now: Le Coq 1911, Sachau 1879 and NPNF 1887.
+- Site skeleton in `docs/`: a Jekyll site built by GitHub Pages, with a
+  CNAME of manichaeism.order.life and home, texts and about pages. A text
+  page is any page with `text: true` in its front matter, plus `source`,
+  `original_language`, `rights`, `summary` and `order`.

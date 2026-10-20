@@ -1,0 +1,7 @@
+title: Manichaean Scripture Compendium
+description: The surviving scriptures of Mani's religion, in English, free to share.
+url: https://manichaeism.order.life
+markdown: kramdown
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }
