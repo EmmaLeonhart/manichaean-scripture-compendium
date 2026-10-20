@@ -40,6 +40,14 @@ public repository at https://manichaeism.order.life.
   `data_lake/downloads/commons/`. 162 are public domain or CC0 and 49 are
   CC BY-SA, so SVG and AI derivatives of those 49 must be released under
   CC BY-SA, not CC BY.
+- **Correction (2026-10-20): "the art" means the artworks that have their own
+  Wikipedia articles.** User: "The art piecea I believe all have wikipedia
+  articles". The Commons category dump pulled in maps, European paintings
+  about Manichaeans, temple photos and so on, and the user was angry about
+  it. The working set is now `data_lake/downloads/wikipedia-art/`: 19
+  artworks from en.wikipedia Category:Manichaean art, 25 images
+  (`scripts/fetch_wikipedia_art.py`). The Commons dump is left in place and
+  is not to be used for the art work.
 
 ## Assumptions (not yet confirmed)
 
