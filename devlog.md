@@ -40,3 +40,8 @@
   Epistle and Treasure VII as quoted by Augustine, NPNF 1887). Every
   Augustine quotation was checked word for word against the 1887 scan. New
   Advent's revised text was used only to locate them.
+- Started a new CC BY translation of the Chinese Traité (Sermon of the
+  Light-Nous) from Taishō 54 no. 2141B: introduction, key-terms table, and
+  §§1–7 (Adda's question, the building of the world, the body as a
+  microcosm, the five prisons and dead trees, the cage of snakes, the ships,
+  the Light-Nous entering the old house). Marked as a draft.
