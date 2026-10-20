@@ -54,3 +54,4 @@
 - Traité check: §10 compared. Corrected "great minister" (大相), marked a four-character gap, and softened the identification of 應輪經 and 寧萬經 to "probably", adding C&P's literal titles.
 - Traité check: §9 compared and matches. §8 now reads "signs that there are two realms", following C&P.
 - Traité check: §11 dead and living trees compared. Corrected 謟惰, 增上 and 羔眾 following C&P.
+- Traité check: the fourth sign corrected (does not resent those above him), and C&P's reading of 言通再受 noted.

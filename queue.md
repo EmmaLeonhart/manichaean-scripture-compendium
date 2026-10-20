@@ -6,10 +6,11 @@ log it in `devlog.md`.
 8. **Finish checking the Traité draft against Chavannes & Pelliot.** The
    1911 part (JA 10e sér. 18, pp. 499–617) is OCR'd at archive.org
    `in.gov.ignca.26273` (cleaner than `in.ernet.dli.2015.530757`); the
-   Traité starts at p. 509. Checked so far: §§1–10 and §11 up to the tree
-   of Reflection. Still to check: the rest of §11 (the tree of Intention,
-   p. 563 of the French, OCR line about 30000), then §§12–17 (the 1913
-   part, still to be found). The
+   Traité starts at p. 509. Checked so far: §§1–11 and the fourth sign in
+   §15. The 1911 part runs at least to the fourth sign (p. 577; OCR line about
+   30000). Still to check: §§12–14 and the rest of §15 in the 1911 OCR (lines
+   about 29400–31000), then whatever is in the 1913 part (still to be
+   found). The
    end of the text (from about §11) is in the 1913 part (JA 11e sér. 1),
    which still needs finding (Gallica or archive.org).
 9. **Gallery page for the Commons art**: a page in `docs/` that shows the

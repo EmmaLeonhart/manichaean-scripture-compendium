@@ -652,7 +652,8 @@ rule only as a temporary measure, misquoting scriptures and treatises to
 say that one may eat twice, or that those who seek liberation need not keep
 this precept. Third, he studies only the pure Law of his own school, and
 does not go looking for other, corrupt teachings. Fourth, his heart is
-always humble, and he does not put himself above his fellow students.
+always humble towards his fellow students, and he does not resent those above
+him.
 Fifth, if he holds a lower rank, he does not overstep it; if he holds the
 highest place as head, he regards the community as himself and loves them
 all without favouring anyone.
@@ -884,6 +885,10 @@ accepted it according to the Law, and joyfully put it into practice.
   translation.
 - **§17, "the [high] way"**: the manuscript has 缶道, "jar way", which is
   probably a copying error. "High" is a guess and is marked as one.
+- **§15.4, "eat twice"**: 言通再受 is obscure. Chavannes and Pelliot take it
+  as those who "understand the second revelation" and claim exemption from
+  the rules. The translation reads it with the one-meal rule just mentioned.
+  In the fourth mark, 憎上 is "resenting those above", as in §11.
 - **平等王** (§15.12), "the King of Equal Justice", is the judge of the
   dead.
 - **§14, the sixth king** is 平等, "Equality", but in §15 the sixth sign is
