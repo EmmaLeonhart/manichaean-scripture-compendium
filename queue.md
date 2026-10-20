@@ -7,8 +7,7 @@ master list. Items marked **[Translation]** wait for the translation window
 the next item.
 
 3. **Locate the sources still missing in SCOPE.md**: a scan of Müller 1904
-   (*Handschriften-Reste*); the ZPE PDFs of the Cologne Mani-Codex; the page
-   range of Thomsen 1912 in JRAS (the Irk Bitig); a scan of Le Coq,
+   (*Handschriften-Reste*); the ZPE PDFs of the Cologne Mani-Codex; a scan of Le Coq,
    *Türkische Manichaica* I–III. Record the archive.org identifiers in
    SCOPE.md.
 4. **[Translation] Finish checking the Traité** against Chavannes & Pelliot.

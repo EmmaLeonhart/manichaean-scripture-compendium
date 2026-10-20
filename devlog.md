@@ -59,3 +59,4 @@
 - Texts page (`docs/texts/index.md`) now follows SCOPE.md: three groups, every in-scope item, links to the four pages and "Planned" for the rest. Each text page has a `group` field.
 - Gallery page `docs/art.md` (/art/): 17 artworks with resized images, linking to Commons and Wikipedia, built by `scripts/build_gallery.py`. The Shangwan reliefs are left out because their images are fair-use/non-free (recorded in SCOPE.md). Added an Art link to the site nav.
 - SCOPE.md: sources filled in for every "—" item, saying in each case whether there is a public-domain translation or a base text, and which scans exist. The four sources still missing are queued.
+- Irk Bitig: confirmed that Thomsen's 1912 English translation (JRAS 1912, art. VIII) is in the DLI scan `in.ernet.dli.2015.70560` and is public domain. It is the next candidate for a page, since putting it up is reproduction, not translation.

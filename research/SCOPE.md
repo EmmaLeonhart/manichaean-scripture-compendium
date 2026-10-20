@@ -30,8 +30,8 @@ Status key: **done** (on the site), **draft** (on the site, not yet checked),
 | New Testament | In scope (the user said extracanonical literature counts). It can come from a public-domain translation; which one is NEEDS-DECISION (user). — |
 | Fundamental Epistle | **done** (`fundamental-epistle`, NPNF 1887) |
 | Manichaean Psalm Book | — Base text: Allberry 1938 Coptic (archive.org `gtu_32400005908003_2`; his English is not US public domain until 2034) and the Giversen facsimiles (`manichaeancoptic0001give`–`0004give`). Needs a fresh translation. |
-| Psalms of Thomas | — Part of the Psalm Book (Allberry 1938, pp. 203–227). Same sources. |
-| Kephalaia | — Polotsky & Böhlig 1940 (Coptic text and German; German not public domain), Böhlig 1966, Funk 1999–2018. The Chester Beatty Kephalaia are in the Giversen facsimiles vols. 1–2 (archive.org). Needs a fresh translation. |
+| Psalms of Thomas | — Part of the Psalm Book (Allberry 1938; page range unverified). Same sources. |
+| Kephalaia | — Polotsky & Böhlig 1940 (Coptic text and German; German not public domain), Böhlig 1966, Funk 1999–2018. The Chester Beatty Kephalaia are in the Giversen facsimiles (archive.org; which volumes is unverified). Needs a fresh translation. |
 | Xuastvanift | **done** (`xwastwanift`, Le Coq 1911) |
 | Cologne Mani-Codex | — Greek: Henrichs & Koenen, ZPE 19, 32, 44, 48 (1975–82), and Koenen & Römer 1988. The ZPE PDFs were not found at the URL tried; still to locate. Needs a fresh translation. |
 | Medinet Madi library | — (covered by Psalm Book, Kephalaia and Homilies) |
@@ -39,7 +39,7 @@ Status key: **done** (on the site), **draft** (on the site, not yet checked),
 | Xiabuzan (Hymnscroll) | **source** (CBETA T54n2140) |
 | Manichaean Compendium | **source** (CBETA T54n2141A) |
 | Incomplete scripture of Manichaeism (the Traité) | **draft** (`traite`, new translation; checked through §11) |
-| Irk Bitig | — Mainly a Tengrist text (marked † in the navbox). Public-domain English: V. Thomsen, "Dr. M. A. Stein's manuscripts in Turkish runic script from Miran and Tun-huang", JRAS 1912, pp. 181–227 (scan: archive.org `in.ernet.dli.2015.70560`, JRAS 1912; page range unverified). |
+| Irk Bitig | — Mainly a Tengrist text (marked † in the navbox). Public-domain English: V. Thomsen, "Dr. M. A. Stein's manuscripts in Turkish runic script from Miran and Tun-huang", JRAS 1912, article VIII, which by the scan's running heads starts at about p. 189 and runs to at least p. 227 (archive.org `in.ernet.dli.2015.70560`; confirmed in the scan 2026-10-20). Thomsen died in 1927, so the text is public domain in the US and EU. |
 | Turpan Manichaean texts | — Public domain: Müller 1904; Le Coq, *Türkische Manichaica* I–III (1912–22). Waldschmidt & Lentz, *Manichäische Dogmatik* (1933; archive.org `manichaische-dogmatik-aus-chinesischen-und-iranischen-texten`) is not public domain in the EU or the US. |
 | Sogdian-language Manichaean letter | — Modern edition only (Yoshida et al., 2019). Needs a fresh translation from the published Sogdian text. |
 | Xiapu Manichaean manuscripts | — Chinese ritual manuscripts (Qing-era copies, discovered from 2008). The Chinese text is ancient and free; the editions (Ma Xiaohe, Yang Fuxue, Yuan Wenqi and others) are modern, so photographs and transcriptions need checking before use. |
