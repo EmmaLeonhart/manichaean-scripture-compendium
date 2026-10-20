@@ -27,7 +27,7 @@ Status key: **done** (on the site), **draft** (on the site, not yet checked),
 
 | Wikipedia article | Status |
 |---|---|
-| New Testament | Out of scope as text (it is Christian scripture that the Manichaeans used) |
+| New Testament | In scope (the user said extracanonical literature counts). It can come from a public-domain translation; which one is NEEDS-DECISION (user). — |
 | Fundamental Epistle | **done** (`fundamental-epistle`, NPNF 1887) |
 | Manichaean Psalm Book | — (Allberry 1938 is not US public domain until 2034; needs a fresh translation) |
 | Psalms of Thomas | — (part of the Psalm Book) |
