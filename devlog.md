@@ -30,3 +30,7 @@
   texts in order of work, Chinese first (the base texts are entirely public
   domain), then the Coptic Psalm-Book (the Giversen facsimiles are on
   archive.org) and the Cologne Mani Codex.
+- Proofread the Xwāstwānīft page against a second, independent OCR
+  (`dli.ministry.15623`). It agrees on every doubtful reading checked
+  (Zephyr, Raimast, merit-attaining, Preta, unavailableness and others).
+  Fixed "Qutluγ pads". The page images themselves were not viewed.

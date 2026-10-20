@@ -30,8 +30,9 @@ This page reproduces Le Coq's English translation. His parentheses
 ( ) mark words he supplied to complete the sense. His square brackets [ ]
 mark restorations of damaged text. A question mark in parentheses marks his
 own uncertainty. His footnote numbers, the Uyghur transliteration and the
-commentary are left out. The text was taken from the OCR of the scan, and obvious OCR misreadings
-(such as "Eive-God" for "Five-God") were corrected from context. His spellings (*Burkhan*, *Electi*,
+commentary are left out. The text was taken from the OCR of two independent scans, which were
+checked against each other at every doubtful reading. Obvious OCR
+misreadings (such as "Eive-God" for "Five-God") were corrected. His spellings (*Burkhan*, *Electi*,
 *Auditores*) are kept.
 
 ## The Berlin text
@@ -71,7 +72,7 @@ through our having unwittingly become false to God, and if thus we should
 have sinned this unforgivable sin: my God! now I, Raimast Farzind, I repent!
 I pray, cleaning myself from sin: *Manastar hirza!* (My sin remit!)
 
-*Qutluγ …* (the line is damaged)
+*Qutluγ pads* …
 
 ## Dr. Stein's text
 
@@ -309,5 +310,5 @@ in the sleeves of a long coat.*
   precepts), *yimki* (the annual liturgical gatherings) and *vosanti* (the
   fast) are technical terms. Le Coq leaves them untranslated, and so does
   this page.
-- **The scan used** is the Digital Library of India copy on archive.org
-  (`in.ernet.dli.2015.22292`).
+- **The scans used** are two Digital Library of India copies on archive.org
+  (`in.ernet.dli.2015.22292` and `dli.ministry.15623`).
