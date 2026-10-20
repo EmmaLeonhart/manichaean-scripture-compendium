@@ -3,10 +3,6 @@
 Work top to bottom, the first item only. Delete an item when it is done and
 log it in `devlog.md`.
 
-1. **Corpus inventory.** In `research/notes/corpus.md`, list every surviving
-   Manichaean scriptural and liturgical text: language, manuscript(s),
-   standard edition, existing English translations, and how complete it is.
-   Cite each entry in `research/sources.md`.
 2. **Copyright audit of older translations.** In `research/notes/copyright.md`,
    give the public-domain status in the US and EU of each candidate older
    translation (for example Le Coq 1911 Xwastwanift, Chavannes and Pelliot
