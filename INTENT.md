@@ -36,7 +36,10 @@ public repository at https://manichaeism.order.life.
   means download everything, with each file's license and author metadata.
   The SVG renditions and AI fillings come later and need their own
   instructions; my reading is that "AI fillings" means AI restoration of
-  damaged or missing areas.
+  damaged or missing areas. Downloaded 2026-10-20: 211 files in
+  `data_lake/downloads/commons/`. 162 are public domain or CC0 and 49 are
+  CC BY-SA, so SVG and AI derivatives of those 49 must be released under
+  CC BY-SA, not CC BY.
 
 ## Assumptions (not yet confirmed)
 

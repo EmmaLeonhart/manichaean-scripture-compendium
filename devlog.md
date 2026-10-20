@@ -22,3 +22,11 @@
   English translation of the Uyghur confession of the hearers. The text was
   extracted from the DLI scan's OCR and corrected from context, but not yet
   proofread against the page images, which is queued.
+- Downloaded all the Manichaean art on Wikimedia Commons with
+  `scripts/fetch_commons_art.py`: 211 files, 316 MB, with per-file license
+  metadata, in `data_lake/downloads/commons/` (the user asked for this). Fixed
+  Windows filename and console-encoding errors along the way.
+- Translation plan written to `research/notes/translation-plan.md`: ten
+  texts in order of work, Chinese first (the base texts are entirely public
+  domain), then the Coptic Psalm-Book (the Giversen facsimiles are on
+  archive.org) and the Cologne Mani Codex.
