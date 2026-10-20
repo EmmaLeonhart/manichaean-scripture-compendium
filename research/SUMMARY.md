@@ -31,12 +31,14 @@ against sources in `research/sources.md`.
 
 ## Open questions
 
-1. Build the full inventory of texts, with editions and translations
-   (`research/notes/corpus.md`).
-2. Find the copyright status of each older translation (`research/notes/copyright.md`).
-3. Choose the site format and how a text page is laid out.
-4. Decide which texts to translate first.
+1. (Done: `research/notes/corpus.md`, `research/notes/copyright.md`.)
+2. Choose the site format and how a text page is laid out.
+3. Decide which texts to translate first.
 
 ## What changed
 
-- 2026-10-20: started.
+- 2026-10-20: started. Corpus inventory done. Copyright audit done: the
+  Xwāstwānīft (Le Coq 1911), the al-Bīrūnī quotations (Sachau 1879) and the
+  Augustine quotations (NPNF 1887) can go online in English now. Jackson 1932
+  becomes US public domain on 2028-01-01 (renewal found), Allberry 1938 on
+  2034-01-01. The Coptic and Greek texts need fresh translations.
