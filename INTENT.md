@@ -35,6 +35,15 @@ public repository at https://manichaeism.order.life.
   and the queue and the site follow its order (user agreed 2026-10-20). It
   tracks status;
   the template's wikitext is saved in `data_lake/downloads/`.
+- **Shangwan reliefs: substitute images from the user.** User, 2026-10-20:
+  "we can't actually have those images... these reliefs may be some of the
+  most important things out there, so we have to have something of them...
+  I'm going to get AI-generated substitute images for them." The 7 originals
+  (non-free) were sent to the user in chat. Their substitutes go into the
+  gallery when they arrive. The originals are never published.
+- **Don't exclude things unilaterally.** The user objected when I dropped the
+  Shangwan reliefs from the gallery without asking. Ask before leaving
+  anything in scope out.
 - **No translation work until 2026-10-21 06:00, and only until 15:00 that
   day.** User, 2026-10-20: "No translations until a cron job fires at 6am and
   stops at 3pm tomorrow". This includes checking the Traité. One-shot crons
