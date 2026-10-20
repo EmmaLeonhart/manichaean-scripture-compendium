@@ -46,8 +46,8 @@ public repository at https://manichaeism.order.life.
   about Manichaeans, temple photos and so on, and the user was angry about
   it. The working set is now `data_lake/downloads/wikipedia-art/`: 19
   artworks from en.wikipedia Category:Manichaean art, 25 images
-  (`scripts/fetch_wikipedia_art.py`). The Commons dump is left in place and
-  is not to be used for the art work.
+  (`scripts/fetch_wikipedia_art.py`). The Commons dump was deleted at the user's
+  order ("Delete it all"), along with its fetch script.
 
 ## Assumptions (not yet confirmed)
 
