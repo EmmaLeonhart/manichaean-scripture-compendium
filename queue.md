@@ -6,8 +6,8 @@ log it in `devlog.md`.
 8. **Finish checking the Traité draft against Chavannes & Pelliot.** The
    1911 part (JA 10e sér. 18, pp. 499–617) is OCR'd at archive.org
    `in.gov.ignca.26273` (cleaner than `in.ernet.dli.2015.530757`); the
-   Traité starts at p. 509. Checked so far: §1, §3 (bounded/unbounded), §7
-   and the opening of §8. Still to check: §§2, 4–6, then §8 onward. The
+   Traité starts at p. 509. Checked so far: §§1–7 and the opening of §8
+   (§4 corrected). Still to check: §8 onward. The
    end of the text (from about §11) is in the 1913 part (JA 11e sér. 1),
    which still needs finding (Gallica or archive.org).
 9. **Gallery page for the Commons art**: a page in `docs/` that shows the

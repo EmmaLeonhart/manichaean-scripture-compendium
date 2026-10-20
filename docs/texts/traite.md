@@ -150,9 +150,10 @@ city of skin, and its fruit is folly.
 "So the five, bone, sinew, veins, flesh and skin, are made into prisons to
 hold the fivefold body, just as the five lights (of the cosmos) hold the
 demons prisoner. And resentment, anger, lust, wrath and folly are made the
-prison officers. In between she set the greed of the five valiant sons of
-the Living Spirit, to copy the night watchmen, the Call and the Answer.
-The fierce fire of gluttony she let run free, to copy the Srōšahrāy.
+prison officers, copying the five valiant sons of the Living Spirit. In
+between she set greed and lust, to copy the night watchmen, the Call and the
+Answer. The fierce, poisonous fire of gluttony she let run free, to copy the
+Srōšahrāy.
 
 ### 5. The cage of snakes
 
@@ -170,8 +171,8 @@ the same.
 
 "Then the Living Spirit made the two ships of light, to carry the good sons
 across the sea of birth and death to their original realm, so that the
-light-nature might come at last to peace and joy. When the Demon, the
-enemy, the lord of greed, saw this, she became angry and jealous. She at
+light-nature might come at last to peace and joy. When the Demon of
+Enmity, the lord of greed, saw this, she became angry and jealous. She at
 once made two forms, male and female, copying the two great ships of light,
 the sun and moon, to lead the light-nature astray and make it board the
 dark ships. These carry it into hell, to turn through the five paths of
@@ -853,6 +854,9 @@ accepted it according to the Law, and joyfully put it into practice.
   Chavannes and Pelliot read it *yi-lieou-eul-yun-ni* and leave it
   untranslated. In the comparison it stands for the gold ore, the mixture
   being refined.
+- **放** is often used for 仿, "to imitate", as Chavannes and Pelliot saw
+  (§§3, 4, 6). In §4 this settles the sense: the five passions copy the five
+  sons of the Living Spirit.
 - **有礙無礙**, "the bounded and the unbounded" (§§3, 9, 17), follows
   Chavannes and Pelliot ("le limité et l'illimité"). It points to the
   Manichaean contrast between finite form and unbounded elements.
