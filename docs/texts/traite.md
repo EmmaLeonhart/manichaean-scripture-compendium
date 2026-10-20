@@ -375,12 +375,158 @@ of the sun and moon. The Pure Wind of the Law is the Light-Nous.
 
 "The *Epistles* (寧萬經) say: 'If the *dēnāvar* have the good Law, then
 pure light, great power and wisdom are all present in their bodies.' This
-is the New Man, perfect in merit."
+is the New Man, perfect in merit.
 
-*(The translation continues in later updates: the Light-Nous as gardener,
-cutting the dead trees and planting the living ones; the king of virtues;
-the four days and two nights; the twelve signs of the Elect; and the
-closing hymn of the teachers.)*
+### 11. The Light-Nous as gardener: the dead trees and the living
+
+"Listen closely, all of you. The great Envoy, the Light-Nous, enters this
+world's upside-down [city], its crooked villages, its rotten old house, and
+comes to the palace of the Demon. Because her (old city) was being
+destroyed, the Demon of Greed built a new and filthy city, and in her folly
+gave free rein to the five desires.
+
+"At times the White Dove, the wondrous Pure Wind, the valiant son of the
+Law, the son of the Great Holy One, enters this city. Looking about on all
+four sides, he sees only smoke and fog, crooked walls all around, and
+countless villages. Having looked, he walks on by stages until he reaches
+the top of the city. Gazing straight down from there, he sees seven
+jewelled pearls, each of them beyond price, and all of them wrapped and
+covered in filth.
+
+"Then the Light-Nous first takes rich, fertile, good ground and sows in it
+the supreme seed of his own light. From his own body he brings out patterns
+and treasures for his own gain, a great profit in trade. He adorns the inner
+nature in every way and completes it, to be a supporting pillar. Leaning on
+this pillar, the true seed can climb out of the five-layered dark pit of
+ignorance, just as in the great realm the First Thought and the Living
+Spirit each have five sons, who serve as pillars of support for the five
+bodies of light.
+
+"So the Light-Nous, the skilful farmer, levels and fills in the five rugged
+grounds of evil ignorance. First he clears away the thorns and all the
+poisonous weeds and burns them with fire. Next he cuts down the five kinds
+of poisonous trees. When the five dark grounds have been levelled and
+cleared, he sets up halls and palaces for the New Man, and plants every kind
+of fragrant flower and jewelled tree in its gardens. After that he adorns
+palaces, jewelled thrones, terraces and halls for himself, and next he builds
+palaces too for the countless companions on his left and right. By his own
+majestic power the Light-Nous builds and completes all these things. He also
+turns over the dark ground of poison, evil, greed and lust, and turns it
+upside down. Then the five pure bodies of the light-nature are gradually
+able to stretch out and breathe. The five bodies are Sense, Mind, Thought,
+Reflection and Intention. Then in that pure, five-layered jewelled ground the
+Light-Nous plants five kinds of supreme jewelled trees, bright and
+glorious, and on five jewelled terraces of light he lights five ever-burning
+jewelled lamps of light.
+
+"When the Light-Nous has given the five gifts, he first drives out the
+dark Sense of ignorance and cuts down the five kinds of poisonous, evil dead
+trees.
+
+"(The first is the tree of the dark Sense.) Its root is resentment, its
+trunk is obstinacy, its branches are anger, its leaves are hatred, its
+fruit is division, its taste is indifference, and its colour is mockery
+and dislike.
+
+"Next he drives out the dark Mind of ignorance and cuts down its dead tree.
+Its root is unbelief, its trunk is forgetfulness, its branches are flattery
+and sloth, its leaves are obstinacy, its fruit is vexation, its taste is
+greed, and its colour is refusal and concealment.
+
+"Next he drives out the dark Thought of ignorance and cuts down its dead
+tree. Its root is lust, its trunk is sloth, its branches are obstinacy, its
+leaves are arrogance, its fruit is ridicule, its taste is craving, and its
+colour is lustful love and every impure deed, done first and regretted
+after.
+
+"Next he drives out the dark Reflection and cuts down its dead tree. Its
+root is wrath, its trunk is folly, its branches are unbelief, its leaves are
+dullness, its fruit is contempt, its taste is pride, and its colour is
+slighting others.
+
+"Next he drives out the dark Intention and cuts down its dead tree. Its
+root is folly, its trunk is heedlessness, its branches are sluggishness,
+its leaves are gazing at one's own reflection and thinking oneself without
+equal, its fruit is outdoing everyone in finery and dress, its taste is the
+love of necklaces, pearls, rings, bracelets and every kind of jewel strung
+about the body, and its colour is the craving for food of a hundred flavours
+to fatten the body of flesh.
+
+"Such trees are called dead trees. In this dark cave of ignorance the Demon
+of Greed plants them diligently. Then the Light-Nous uses the sharp mattock
+and axe of wisdom and cuts them down one after another. In the ground of the
+original nature he plants his own five supreme, pure, jewelled trees of
+light, waters them with the water of ambrosia, and they bear immortal
+fruit.
+
+"First he plants the tree of Sense. Its root is compassion, its trunk is
+joy, its branches are gladness, its leaves are gentleness towards all, its
+fruit is peace, its taste is reverent care, and its colour is
+steadfastness.
+
+"Next he plants the pure and wondrous jewelled tree of the Mind. Its root
+is faith, its trunk is trust, its branches are awe, its leaves are
+watchfulness, its fruit is diligent study, its taste is reading and
+recitation, and its colour is peace and joy.
+
+"Next he plants the tree of Thought. Its root is perfection, its trunk is
+good will, its branches are dignified conduct, its leaves are truth that
+adorns every deed, its fruit is true speech without any falsehood, its
+taste is preaching the pure true Law, and its colour is delight in meeting
+one another.
+
+"Next he plants the tree of Reflection. Its root is patience, its trunk is
+calm, its branches are endurance, its leaves are the precepts, its fruit is
+fasting and hymns, its taste is diligent practice, and its colour is zeal.
+
+"Next he plants the tree of Intention. Its root is wisdom, its trunk is
+understanding the meaning of the Two Principles, its branches are eloquence
+in making the Law clear, and its leaves are adaptability and knowing the
+moment, able to overturn other teachings and to build up the true Law. Its
+fruit is skill in question and answer, speaking well as the occasion
+needs. Its taste is skill in parables that bring people to understanding.
+Its colour is gentle and meek words, so that whatever is said pleases
+everyone.
+
+"Such trees are called living trees. Then the Light-Nous takes these sweet
+trees and plants them in the five grounds of the self-nature, on all four
+sides of the jewelled throne in the wondrous palace of that new city, and
+in all its gardens and pavilions.
+
+### 12. Compassion, the king of the virtues
+
+"Among them the king is Compassion. Compassion is the ancestor of all
+merits: like the bright sun, first among all lights; like the full moon,
+most honoured among the stars; like a king's crown of flowers, first among
+all ornaments; like the fruit, the best part of every tree; like the
+light-nature in the dark body, wondrous beyond compare within it; like
+plain salt, which gives flavour to every fine dish; like a king's seal,
+which is obeyed wherever it is stamped; like the bright moon-pearl, first
+among all jewels; like clear glue, which makes all the colours of a painting
+fast; like lime, which makes white whatever it is spread on; like a palace
+with a king inside it, which is made splendid and pure because of the king.
+Compassion is the same. Where there is compassion, there is the good Law.
+Without compassion, none of the merits one cultivates comes to anything.
+That is why it is called king.
+
+"Within Compassion there is also Faith. Faith is the mother of all good
+things: like a queen, who helps the king to care for everyone; like the
+power of fire, which ripens all things and brings out every flavour; like
+the sun and moon, most honoured beyond compare among all forms, spreading
+their light everywhere and nourishing everything. Compassion and Faith
+bring all merits to perfection in the same way.
+
+"Compassion and Faith are also the foundation of the light-causes of the
+holy ones of the past and the future, and the wondrous gate to complete
+insight. They are also the narrow path, wide enough only for the side of a
+foot, along the great sea of the passions of the three worlds. Out of a
+hundred thousand, hardly one can enter this path. But whoever enters it and
+follows this way is born in the pure land, leaves suffering behind, is set
+free, is without fear for ever, and has constant joy, peace and purity.
+
+*(The translation continues in later updates: the four days and two nights;
+the twelve kings of light; the twelve signs of the Elect; and the closing
+hymn of the teachers.)*
 
 ---
 

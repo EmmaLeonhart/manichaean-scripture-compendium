@@ -46,3 +46,4 @@
   microcosm, the five prisons and dead trees, the cage of snakes, the ships,
   the Light-Nous entering the old house). Marked as a draft.
 - Traité §§8–10 drafted: the three days and two nights, the five battles of the old and new man, and the Light-Nous in the five cities, with the Gospel and Epistles quotations.
+- Traité §§11–12 drafted: the Light-Nous as gardener (the five dead trees and five living trees, given root to colour) and Compassion as king of the virtues.
