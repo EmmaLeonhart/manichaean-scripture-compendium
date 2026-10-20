@@ -40,7 +40,11 @@ public repository at https://manichaeism.order.life.
   most important things out there, so we have to have something of them...
   I'm going to get AI-generated substitute images for them." The 7 originals
   (non-free) were sent to the user in chat. Their substitutes go into the
-  gallery when they arrive. The originals are never published.
+  gallery when they arrive. The originals are never published. 2026-10-20:
+  the user asked for local generation. `scripts/generate_shangwan_substitutes.py`
+  (SDXL img2img, venv `scratch/genv`) was started, but Claude Code killed it
+  for low system memory before any image was made. Restarting is
+  NEEDS-DECISION (user): retry lighter, run it themselves, or wait.
 - **Don't exclude things unilaterally.** The user objected when I dropped the
   Shangwan reliefs from the gallery without asking. Ask before leaving
   anything in scope out.
