@@ -30,3 +30,6 @@ Thumbs.db
 # committed, so they cannot pile up as crud. Promote a script out of here only
 # once it will be run again.
 scratch/
+
+# Non-free reference images (e.g. fair-use Shangwan reliefs). Never committed.
+nonfree/
