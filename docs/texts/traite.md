@@ -347,12 +347,12 @@ transformations and their perfect power; and in the Law he speaks above all
 of Faith.
 
 "If he is walking in the city of Thought, know that this teacher delights
-to speak of the Great Form, the Srōšahrāy, its supernatural transformations
-and its perfect silence; and in the Law he speaks above all of Perfection.
+to speak of the great minister, the Srōšahrāy, and of the perfect silence
+he brings forth by supernatural transformation; and in the Law he speaks above all of Perfection.
 
 "If he is walking in the city of Reflection, know that this teacher
-delights to speak of the five lights and their supernatural
-transformations; and in the Law he speaks above all of Patience.
+delights to speak of the five lights, and by supernatural power shows
+[…]; and in the Law he speaks above all of Patience.
 
 "If he is walking in the city of Intention, know that this teacher delights
 to speak of the Envoys of Light of the past, the future and the present,
@@ -884,5 +884,14 @@ accepted it according to the Law, and joyfully put it into practice.
   dead.
 - **§14, the sixth king** is 平等, "Equality", but in §15 the sixth sign is
   headed 真實, "Truthfulness". Both readings are kept.
-- **應輪經 and 寧萬經** (§10) are the Gospel and the Epistles. The Chinese
-  *Compendium* lists Mani's books as 大應輪部 (Gospel) and 泥萬部 (Epistles).
+- **應輪經 and 寧萬經** (§10) are probably the Gospel and the Epistles. The
+  Chinese *Compendium* lists Mani's books as 大應輪部 (the Gospel) and 泥萬部
+  (the Epistles, Middle Persian *nāmag*), and 寧萬 looks like another
+  transcription of the same word. Chavannes and Pelliot, writing before the
+  *Compendium* was identified, took the titles literally: "Book of the Wheel
+  of Retributions" and "Book of the Universe".
+- **§10, "the great minister"** (大相): Chavannes and Pelliot point out that
+  the word order rules out "the great form of the Srōšahrāy", so 相 here
+  means "minister".
+- **§10, […]**: four characters are missing from the manuscript in the
+  passage on the city of Reflection (Chavannes and Pelliot).
