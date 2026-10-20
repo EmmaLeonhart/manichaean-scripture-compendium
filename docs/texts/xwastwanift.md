@@ -22,8 +22,8 @@ the Three Times; and the Four Seals, the Ten Commandments and the Seven Alms
 of the hearers.
 
 The best manuscript is a roll found in the Dunhuang library cave. Aurel Stein
-brought it to London, where it is now British Library Or. 8212/178
-(Stein Ch. 0015). It has 338 lines. Le Coq's 1911 edition supplies the lost
+brought it to London, where it is in the British Library (Stein's number
+Ch. 0015). It has 338 lines. Le Coq's 1911 edition supplies the lost
 opening from fragments in the Berlin Turfan collection, as the "Berlin text"
 below.
 
@@ -302,8 +302,9 @@ in the sleeves of a long coat.*
 
 ## Notes to this edition
 
-- **The manuscript today:** British Library, Or. 8212/178. The International
-  Dunhuang Programme (idp.bl.uk) has images.
+- **The manuscript today:** British Library, Stein collection, Ch. 0015 (the
+  number given by Stein in Le Coq's article). The current BL shelfmark has not
+  been verified.
 - **Later scholarship:** J.P. Asmussen, *Xuāstvānīft: Studies in
   Manichaeism* (1965) re-edited the text with a new English translation and
   corrects Le Coq in places. Le Coq's "Raimast Farzind" is a personal name

@@ -291,18 +291,16 @@ one becomes master of his own fate.*
 
 In the year of the Tiger, the second month, on the 15th, I wrote this for our
 small hearers (?) of the *di[n]tars* and the *burwa-gurus* (?), Isig Sangun and
-Itächuq (?), staying at the residence (or the college?) of Taigüntan.
+Itä-chuq, staying at the residence (or the college?) of Taigüntan.
 
 ---
 
 ## Notes to this edition
 
 - **The text** was read from the page images of the Digital Library of India
-  scan of JRAS 1912 on archive.org (`in.ernet.dli.2015.70560`, pp. 196–209),
+  scan of JRAS 1912 on archive.org (`in.ernet.dli.2015.70560`, pp. 196–209, colophon included),
   not only from its OCR. The OCR runs the two columns together on several
   pages.
-- **The colophon** is taken from the OCR only; its page image has not yet
-  been checked, and the names are uncertain.
 - **The year of the Tiger**: Thomsen notes that it could be 750, 810, 822 and
   so on (every twelfth year), and that the date "explains nothing".
   "Dintar" is the Old Turkic word for the Elect.
