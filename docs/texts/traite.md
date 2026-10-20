@@ -229,8 +229,9 @@ the demons.
 means, sifts and saves the light-nature in this body of flesh and sets it
 free. From his own five limbs he brings forth five gifts that strengthen the
 light-nature. First, from the bright Sense he brings forth Compassion, and
-adds it to the pure Air. Next, from the bright Mind he brings forth
-Perfection, and adds it to the Light. Then from the bright Reflection he
+adds it to the pure Air. Next, from the bright Mind [he brings forth
+Faith, and adds it to the wondrous Wind. Next, from the bright Thought] he
+brings forth Perfection, and adds it to the Light. Then from the bright Reflection he
 brings forth Patience, and adds it to the pure Water. Then from the bright
 Intention he brings forth Wisdom, and adds it to the pure Fire. Xrōštag and
 Padvāxtag he adds, (with) wisdom, to the treasury of speech.
@@ -861,11 +862,13 @@ accepted it according to the Law, and joyfully put it into practice.
   Chavannes and Pelliot ("le limité et l'illimité"). It points to the
   Manichaean contrast between finite form and unbounded elements.
 - **客性**, "stranger-nature": the light that is a guest in the body.
-- **§8, the five gifts**: the manuscript lists only four of the five pairings.
-  The clause for the Mind (Faith, added to the Wind) seems to have dropped
-  out, so that the Mind is paired with Perfection and the Light. The
-  translation follows the text as it stands. The list of thirteen that
-  follows has all five virtues.
+- **§8, the five gifts**: the manuscript has dropped a clause, so that the
+  Mind is paired with Perfection and the Light. The bracketed words restore
+  it, following Chavannes and Pelliot (1911, p. 541 n.): Faith comes from
+  the Mind and is added to the Wind, and Perfection from Thought. The list
+  of thirteen that follows has all five virtues.
+- **具足, "Perfection"**: literally "completeness, sufficiency". Chavannes
+  and Pelliot render it *contentement*, "contentment".
 - **摩訶羅薩本** (§8) transcribes Middle Persian *mahrāspand*, the "holy
   words" or elements.
 - **The five Envoys in §9** are the five sons of the Living Spirit: the

@@ -50,3 +50,4 @@
 - Traité §§13–17 drafted: the four days and two nights, the twelve kings of light, the twelve signs of the Elect (five marks for each), the Envoy's charge and the closing hymn. The first-pass translation is complete. Queued: check it against Chavannes & Pelliot.
 - Started checking the Traité against Chavannes & Pelliot 1911. Corrected 有礙無礙 to "bounded and unbounded", corrected the subject of the sifting in §8, and identified the transcription in §7. The rest of the check is queued.
 - Traité check: §§2–6 compared with the French. Fixed §4 (the five passions copy the five sons of the Living Spirit; greed and lust copy the Call and Answer) and §6 ("Demon of Enmity").
+- Traité check: in §8, restored the dropped clause (Faith from the Mind, added to the Wind) following Chavannes & Pelliot, and noted their rendering of 具足 as "contentment".
