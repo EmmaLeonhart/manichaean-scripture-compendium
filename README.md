@@ -16,8 +16,10 @@ Chinese, gathered in one place in English.
 
 ## Layout
 
-- `research/`: the corpus survey, the copyright status of each source, and
-  working notes (`research/SUMMARY.md` is the place to start).
+- `research/SCOPE.md`: **the master list.** Every text and artwork in
+  scope (taken from Wikipedia's Manichaeism footer), with its status.
+- `research/notes/`: supporting notes on manuscripts and editions, copyright
+  and translation method.
 - `data_lake/`: source material. `data_lake/downloads/` holds what the agent
   fetched.
 - `queue.md` and `devlog.md`: the work queue and its log.

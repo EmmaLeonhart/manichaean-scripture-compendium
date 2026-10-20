@@ -1,5 +1,8 @@
 # Corpus inventory
 
+> Supporting note. The master list is `research/SCOPE.md`; this file
+> has background on manuscripts and editions.
+
 The surviving Manichaean scriptural, liturgical and doctrinal texts, grouped
 by language and find. For each text the inventory gives the manuscripts, the
 standard edition, the English translations, and how complete it is.

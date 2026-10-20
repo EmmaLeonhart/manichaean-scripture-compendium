@@ -31,7 +31,9 @@ public repository at https://manichaeism.order.life.
 - **Scope = Wikipedia's Template:Manichaeism footer.** User, 2026-10-20:
   "Use [[Template:Manichaeism footer]] on Wikipedia this is how we define the
   scope of this". Its Scripture, Extracanonical literature and Visual art
-  groups are the compendium. The table in `research/SCOPE.md` tracks status;
+  groups are the compendium. `research/SCOPE.md` is the single master list,
+  and the queue and the site follow its order (user agreed 2026-10-20). It
+  tracks status;
   the template's wikitext is saved in `data_lake/downloads/`.
 - **No translation work until 2026-10-21 06:00, and only until 15:00 that
   day.** User, 2026-10-20: "No translations until a cron job fires at 6am and

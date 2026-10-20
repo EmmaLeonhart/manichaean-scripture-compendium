@@ -55,3 +55,4 @@
 - Traité check: §9 compared and matches. §8 now reads "signs that there are two realms", following C&P.
 - Traité check: §11 dead and living trees compared. Corrected 謟惰, 增上 and 羔眾 following C&P.
 - Traité check: the fourth sign corrected (does not resent those above him), and C&P's reading of 言通再受 noted.
+- Reorganized around `research/SCOPE.md` as the master list (user's order). The corpus, copyright and translation-plan notes are now supporting notes. The queue was rewritten in scope order, with translation items held for the 6am–3pm window.

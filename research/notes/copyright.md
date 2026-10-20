@@ -1,5 +1,8 @@
 # Copyright audit of older translations
 
+> Supporting note. The master list is `research/SCOPE.md`; this file
+> records which older translations are public domain.
+
 Checked 2026-10-20. The site is hosted on GitHub Pages (US) and read
 worldwide, so a text goes in as-is only if it is public domain in **both the
 US and the EU**.

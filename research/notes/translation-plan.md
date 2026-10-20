@@ -1,5 +1,9 @@
 # Translation plan
 
+> Supporting note. The master list is `research/SCOPE.md`, and the
+> order of work follows it. This file holds the method and the base
+> editions.
+
 Written 2026-10-20. This covers the texts that need a fresh CC BY 4.0
 translation because no free English translation exists. For each one: the
 base text, where to get it, the copyright concerns, and the order of work.

@@ -1,5 +1,9 @@
 # Manichaean scripture compendium: research summary
 
+> **The master list is `research/SCOPE.md`**, defined by Wikipedia's
+> Template:Manichaeism footer (user, 2026-10-20). It supersedes the
+> assumption below.
+
 ## The question (assumption, written down at the start of work mode)
 
 What survives of Manichaean scripture, in which languages and manuscripts?
