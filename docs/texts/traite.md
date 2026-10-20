@@ -249,9 +249,8 @@ they enter the bodies of pure teachers and monks, they receive from the
 Light-Nous the five gifts and the twelve hours, and become a complete day.
 This copies the Srōšahrāy, the sign of great power.
 
-"These three days and two nights are present in the teachers and monks, and
-even in those who are still in training. All of them bear the signs of the
-two realms.
+"These three days and two nights are, both in the teachers and monks and in
+the ordinary practitioners (行者), signs that there are two realms.
 
 ### 9. The five battles of the old man and the new
 
