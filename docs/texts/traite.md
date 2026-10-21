@@ -18,7 +18,7 @@ manuscript from Dunhuang, now in Beijing, which lacks its opening lines. The
 Taishō canon prints it under the misleading title 波斯教殘經, "Fragmentary
 Scripture of the Persian Religion". Parts of the same sermon survive in
 Parthian and Sogdian, which shows that it was a Manichaean work translated
-across the church's whole range.
+across the church's whole range. An Old Turkish version is translated on [its own page](turkish-sermon-light-nous.html).
 
 In the dialogue, the Envoy of Light (明使) answers his disciple Adda (阿馱),
 the apostle who took the faith to the Roman East. Adda asks how the light
