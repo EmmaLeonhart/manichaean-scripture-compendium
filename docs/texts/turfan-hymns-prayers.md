@@ -70,9 +70,9 @@ Greatness.
 
 *From M 7:*
 
-From the light and from the gods am I,
-and I have become a stranger to them.
-The enemies have fallen (?) upon me,
+From the light and from the gods am I,  
+and I have become a stranger to them.  
+The enemies have fallen (?) upon me,  
 and by them I have been led down (?) to the dead.
 
 ### M 442: a line of a hymn
