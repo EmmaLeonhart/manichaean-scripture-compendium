@@ -247,7 +247,8 @@ So Mani commanded them as an unavoidable duty.
   that with a question mark.
 - **The prayers** (the law section): the "Paraclete" is Mani; the twelve
   prostrations and the four daily prayers are the hearers' rule. Compare the
-  Turkish confession of the hearers ([Xwāstwānīft](xwastwanift.html)), which
-  also speaks of the four prayers, the three seals and the fasts.
+  hearers' confessions, which name "the seven alms, the ten precepts and
+  the three seals": the Turkish [Xwāstwānīft](xwastwanift.html) and the
+  Chinese [Hymnscroll](hymnscroll.html) (13(i) and (l)).
 - **Spellings.** The personal and place names are given as Flügel read
   them, simplified; many are uncertain in the Arabic.
