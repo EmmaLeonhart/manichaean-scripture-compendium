@@ -21,7 +21,7 @@ quotations by other writers.
 | The Book of Giants | Planned |
 | Psalms and Prayers | Planned |
 | Book of Pictures (Arzhang) | Lost. See [Visual art](#visual-art). |
-| Shabuhragan | [Quoted by al-Bīrūnī](al-biruni-quotations.html) |
+| Shabuhragan | [The Turfan fragments on the end of the world](shabuhragan.html) (new translation, draft) · [quoted by al-Bīrūnī](al-biruni-quotations.html) |
 
 ## Extracanonical literature
 

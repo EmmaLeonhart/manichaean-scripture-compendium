@@ -21,7 +21,7 @@ Status key: **done** (on the site), **draft** (on the site, not yet checked),
 | The Book of Giants | Seven treatises | Middle Persian, Parthian, Sogdian and Uyghur fragments. Henning 1943 (BSOAS) is not public domain; the base text would come from fragment readings, with a fresh translation. Public-domain lead: none found yet. — |
 | Psalms and Prayers | Seven treatises | Turfan hymns and prayers (Müller 1904, public domain; scan found: archive.org `abhandlungenderk1904kn`, the 1904 Abhandlungen of the Prussian Academy, which contains *Handschriften-Reste in Estrangelo-Schrift*). Boyce 1954 is not public domain. — |
 | Arzhang (Book of Pictures) | Mani's picture book | Lost. See Visual art. |
-| Shabuhragan | Mani's Middle Persian book for Shapur I | al-Bīrūnī's quotations are **done**. Turfan fragments: — |
+| Shabuhragan | Mani's Middle Persian book for Shapur I | al-Bīrūnī's quotations are **done**. Turfan fragments: **draft** (`shabuhragan`, new English from Müller 1904's readings and German: M 475, 477, 482, 472, 470, 473). |
 
 ## Extracanonical literature
 
