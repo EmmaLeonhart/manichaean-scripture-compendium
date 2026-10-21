@@ -80,3 +80,4 @@
 - 2026-10-21 New page `docs/texts/turfan-hymnbook-m4.md`: CC BY English draft of the hymnbook M 4 (hymns of the last days, body and soul, the going out; Mani's hymn of Babel; prayers to the angels), from Müller 1904.
 - 2026-10-21 New page `docs/texts/turfan-mani-legends.md`: CC BY English draft of M 3 (Mani at the court), M 47 (Mihršāh's garden, and the parable of the lamps), from Müller 1904.
 - 2026-10-21 New page `docs/texts/turfan-passion.md`: CC BY English draft of M 18 and M 132 (the trial, mocking and empty tomb in a Manichaean Gospel harmony), from Müller 1904.
+- 2026-10-21 New page `docs/texts/turfan-hymns-prayers.md`: CC BY English draft of M 383, "M. liturg." (Mani's song "I am the first stranger"), M 442, M 2 (Mār Ammō and the spirit of the frontier), M 75 and M 331 (the Sanctus), M 43 (prayer for an Uyghur khan), from Müller 1904. The rest of Müller's small fragments are listed in SCOPE.md as still to do.

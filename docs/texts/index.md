@@ -39,7 +39,7 @@ quotations by other writers.
 | Manichaean Compendium | [The Compendium of the Teaching of Mani](compendium.html) (new translation, draft; London part) |
 | Incomplete scripture of Manichaeism (Traité) | [The Sermon of the Light-Nous](traite.html) (new translation, draft) |
 | Irk Bitig | [The Book of Omens](irk-bitig.html) (public domain translation) |
-| Turpan Manichaean texts | [The building of the world](turfan-cosmogony.html) (new translation, draft); [a hymnbook (M 4)](turfan-hymnbook-m4.html) (new translation, draft); [stories of Mani](turfan-mani-legends.html) (new translation, draft); see also the [Šābuhragān](shabuhragan.html) and the [Gospel and Epistle fragments](turfan-gospel-epistles.html) |
+| Turpan Manichaean texts | [The building of the world](turfan-cosmogony.html) (new translation, draft); [a hymnbook (M 4)](turfan-hymnbook-m4.html) (new translation, draft); [stories of Mani](turfan-mani-legends.html) (new translation, draft); [smaller hymns and prayers](turfan-hymns-prayers.html) (new translation, draft); see also the [Šābuhragān](shabuhragan.html) and the [Gospel and Epistle fragments](turfan-gospel-epistles.html) |
 | Sogdian-language Manichaean letter | Planned |
 | Xiapu Manichaean manuscripts | Planned |
 | Moni Guangfo | Planned |
