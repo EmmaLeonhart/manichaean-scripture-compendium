@@ -382,11 +382,11 @@ righteous. The second leads into the world and its terrors: that is the way
 of the guardians of the religion and the helpers of the righteous. And the
 third leads to hell: that is the way of the sinful man.
 
-*(Al-Nadīm then describes the state of the world to come after the end of
+(Al-Nadīm then describes the state of the world to come after the end of
 this one: the gods coming from the four quarters to look on the new
 Paradise, and the sinners in hell. That passage is the one that Müller set
-beside the Middle Persian* Šābuhragān*, and it is translated on [that
-page](shabuhragan.html).)*
+beside the Middle Persian *Šābuhragān*, and it is translated on [that
+page](shabuhragan.html).)
 
 ## Notes to this edition
 
