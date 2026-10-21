@@ -5,7 +5,7 @@ group: scripture
 order: 96
 summary: Al-Nadīm's account of Mani's life and call, and his report, often in Mani's own words ("Mani teaches…"), of the two principles of light and darkness, the First Man's battle, the mixture of the five elements, the building of the world, the sun and moon, the great fire, the making of Adam and Eve and their children, the lands of light and darkness, how one enters the religion, and the three ways of the soul at death.
 original_language: Arabic
-source: 'Ibn al-Nadīm, Kitāb al-Fihrist (987), chapter on the Manichaeans, as translated into German by G. Flügel, Mani, seine Lehre und seine Schriften (Leipzig 1862), pp. 83–95 and 97–101 (archive.org `maniseinelehreu00manegoog`) (public domain). New English translation from Flügel''s German.'
+source: 'Ibn al-Nadīm, Kitāb al-Fihrist (987), chapter on the Manichaeans, as translated into German by G. Flügel, Mani, seine Lehre und seine Schriften (Leipzig 1862), pp. 83–95, 97–101 and 105–106 (archive.org `maniseinelehreu00manegoog`) (public domain). New English translation from Flügel''s German.'
 rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (made from Flügel's 1862 German; not checked against the Arabic or a modern translation)."
 ---
 
@@ -548,6 +548,48 @@ Paradise, and the sinners in hell. That passage is the one that Müller set
 beside the Middle Persian *Šābuhragān*, and it is translated on [that
 page](shabuhragan.html).)
 
+### From the history of the Manichaeans: their emigrations and their leaders
+
+The first who, apart from the Samanians (the Buddhists), went into the
+cities beyond the Oxus belonged to the Manichaean sects. The reason was
+this. After the Chosroes had had Mani killed and crucified, and had
+forbidden the people of his kingdom to engage in religious disputes, he
+began to put to death the followers of Mani wherever he found them. So they
+kept fleeing from him until they had crossed the river of Balkh and come
+into the territory of the Khan, in whose lands they settled. "Khan" in the
+language of that country is a title by which the people call the princes of
+the Turks.
+
+After the Manichaeans had settled in Transoxania, (they stayed there) until
+the time when the power of the Persians was scattered to the winds and the
+Arabs gained the upper hand. Then they came back into the cities of Iraq,
+chiefly at the time of the break-up of the Persians and under the rule of
+the Umayyads. For Khālid ibn ʿAbdallāh al-Qasrī took them under his
+protection; only the seat of the head in these regions was bound solely to
+Babylon. Later the leader moved to the cities where he was safest.
+
+A second time they emigrated under the reign of al-Muqtadir. They went to
+Khorasan, fearing for their lives, and those of them who stayed behind hid
+their beliefs and wandered about in these cities. In Samarqand about five
+hundred men had come together. Their worship became known, and the ruler of
+Khorasan wanted to kill them. Then the ruler of China (I think it was the
+prince of the Toquz Oγuz) sent to him the message: "In my lands there are
+three times more Muslims than there are followers of my religion in your
+lands," and swore to him that if he killed one of them, he would kill the
+whole community (of Muslims) for him, destroy the mosques, and set people in
+all the lands to lie in wait for the Muslims and kill them. So the ruler of
+Khorasan left them alone, and had them pay the poll-tax.
+
+In the lands of Islam there are only a few of them. In the City of Peace
+(Baghdad) I came to know about three hundred of them under the reign of
+Muʿizz ad-Dawla; but at the present time hardly more than five of them are
+to be found in the capital. These Manichaeans are called Ājārī, and they
+live in the villages of Samarqand and Sogdia, and above all in Nūnkaṯ.
+
+*(Al-Nadīm then lists the "heads" of the Manichaeans under the Abbasids and
+before, beginning with al-Jaʿd ibn Dirham, the tutor of the caliph Marwān;
+the list is of Muslims accused of Manichaean heresy and is not given here.)*
+
 ## Notes to this edition
 
 - **The five limbs** of the Father (gentleness, knowledge, understanding,
@@ -584,4 +626,10 @@ page](shabuhragan.html).)
   distinguish the divine Jesus, whom they praise, from the Jesus of the
   Jews; compare the Fundamental Epistle on the crucifixion, quoted by
   [Evodius](evodius-quotations.html).
+- **The emigrations** (pp. 105–106): the "Chosroes" who killed Mani is the
+  Sasanian king (Bahrām I); the "Khan" beyond the Oxus is a Turkish ruler.
+  The "prince of the Toquz Oγuz" who protected the Manichaeans of
+  Samarqand is the Uyghur ruler, whose state had Manichaeism as its
+  religion (see the [Old Turkish texts](turkish-manichaica-1.html) and
+  [Bögü Khan](bogu-khan.html)).
 - **The Humāma** is the "spirit of darkness", the soul of matter.
