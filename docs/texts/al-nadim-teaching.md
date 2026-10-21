@@ -3,9 +3,9 @@ title: "Mani's teaching in al-Nadīm: the two principles, the world and the firs
 text: true
 group: scripture
 order: 96
-summary: Al-Nadīm's report, often in Mani's own words ("Mani teaches…"), of the two principles of light and darkness, the First Man's battle, the mixture of the five elements, the building of the world, the sun and moon, the great fire, the making of Adam and Eve and their children, the lands of light and darkness, and how one enters the religion.
+summary: Al-Nadīm's report, often in Mani's own words ("Mani teaches…"), of the two principles of light and darkness, the First Man's battle, the mixture of the five elements, the building of the world, the sun and moon, the great fire, the making of Adam and Eve and their children, the lands of light and darkness, how one enters the religion, and the three ways of the soul at death.
 original_language: Arabic
-source: 'Ibn al-Nadīm, Kitāb al-Fihrist (987), chapter on the Manichaeans, as translated into German by G. Flügel, Mani, seine Lehre und seine Schriften (Leipzig 1862), pp. 86–95 (archive.org `maniseinelehreu00manegoog`) (public domain). New English translation from Flügel''s German.'
+source: 'Ibn al-Nadīm, Kitāb al-Fihrist (987), chapter on the Manichaeans, as translated into German by G. Flügel, Mani, seine Lehre und seine Schriften (Leipzig 1862), pp. 86–95 and 100–101 (archive.org `maniseinelehreu00manegoog`) (public domain). New English translation from Flügel''s German.'
 rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (made from Flügel's 1862 German; not checked against the Arabic or a modern translation)."
 ---
 
@@ -332,6 +332,61 @@ himself wholly to work, righteousness, eager watchfulness, prayer and pious
 humility; for that makes him content in this passing world and in the
 eternal world to come, and his form on the Last Day will be the second
 form, of which, God willing, we shall speak further below.
+
+### The teaching of the Manichaeans on the life to come
+
+When death draws near to one of the righteous (the Elect), Mani teaches,
+the First Man sends a god of light in the form of the guiding Wise One,
+and with him three gods, and together with them the water-vessel, the
+robe, the head-band, the crown and the garland of light. With them comes
+the maiden, who is like the soul of this righteous one. The devil of greed
+and lust also appears to him, with other devils. As soon as the righteous
+one sees them, he calls to his help the goddess who has taken the form of
+the Wise One, and the other three gods, and they come near him. As soon as
+the devils see them, they turn and flee. But those (gods) take this
+righteous one, clothe him with the crown, the garland and the robe, put the
+water-vessel in his hand, and rise with him on the Column of Praise to the
+sphere of the moon, to the First Man and to the Nahnaha, the Mother of the
+Living, until (he reaches) the state in which he was at first in the
+Paradises of Light. His body, however, then stays lying, so that the sun,
+the moon and the gods of light may draw out of it the powers, that is, the
+water, the fire and the gentle breeze; and he rises to the sun and becomes a
+god. But the rest of his body, which is wholly darkness, is thrown into
+hell.
+
+When death draws near to the man who struggles, who is receptive to the
+religion and to righteousness, and who guards them both and the righteous
+(that is, the hearer), those gods whom I have mentioned appear, and the
+devils are there too. He calls for help, and by the good works he has
+done, and by his guarding of the religion and the righteous, he seeks
+intercession that may incline to him. They free him from the devils; but he
+does not cease to be like a man in the world who sees terrifying forms in
+his dream and sinks into filth and dung. In this state he remains until his
+light and his spirit are set free and he reaches the meeting-place of the
+righteous, and, after a long time of wandering to and fro, puts on their
+robes.
+
+But when death comes to the sinful man, over whom greed and lust have gained
+the upper hand, the devils come near him, seize and torment him, and make
+him see the terrifying forms. Those gods are there too, and with them the
+robe that was mentioned, so that the sinful man believes they have come to
+save him. But they are there only to fill him with reproaches, to call his
+deeds back to his memory, and to make him understand, beyond doubt, that he
+must give up hope of help from the righteous. Then he wanders about in the
+world without ceasing, beset by torments, until the time when this state
+ends and he is thrown into hell with the world.
+
+These are three ways, Mani teaches, according to which the souls of men are
+divided. One of them leads into the Paradises: that is the way of the
+righteous. The second leads into the world and its terrors: that is the way
+of the guardians of the religion and the helpers of the righteous. And the
+third leads to hell: that is the way of the sinful man.
+
+*(Al-Nadīm then describes the state of the world to come after the end of
+this one: the gods coming from the four quarters to look on the new
+Paradise, and the sinners in hell. That passage is the one that Müller set
+beside the Middle Persian* Šābuhragān*, and it is translated on [that
+page](shabuhragan.html).)*
 
 ## Notes to this edition
 
