@@ -14,7 +14,7 @@ Status key: **done** (on the site), **draft** (on the site, not yet checked),
 | Wikipedia article | What it is | Status |
 |---|---|---|
 | Gospel of Mani | Seven treatises: the Living Gospel | Fragments only. al-Bīrūnī's quotation is **done** (`al-biruni-quotations`). Turfan M 17 (the Gospel's opening) is **draft** (`turfan-gospel-epistles`, from Müller 1904). |
-| Treasure of Life | Seven treatises | Fragments only. Quotations by Augustine and al-Bīrūnī are **done**. |
+| Treasure of Life | Seven treatises | Fragments only. Quotations by Augustine and al-Bīrūnī are **done**. Evodius' quotations (book II; Fundamental Epistle on the globe and the crucifixion) are **draft** (`evodius-quotations`, new translation from the Latin of CSEL 25.2). |
 | The Epistles (Manichaeism) | Seven treatises | See Fundamental Epistle below. Turfan extracts M 733 and M 731 are **draft** (`turfan-gospel-epistles`, from Müller 1904). Kellis letters: — |
 | The Book of Mysteries (Manichaeism) | Seven treatises | Fragments only. al-Bīrūnī's quotations are **done**. |
 | Pragmateia | Seven treatises | Almost nothing survives (title, and a possible Coptic citation). al-Nadīm's book list (Flügel 1862) is **draft** (`al-nadim-books`, with the 76 letter titles). Al-Nadīm's account of Mani's teaching is **draft** (`al-nadim-teaching`: cosmogony, anthropogony, the two lands and the entering of the religion, Flügel pp. 86–95; and the three ways of the soul at death, pp. 100–101; and Mani's life, pp. 83–86). |

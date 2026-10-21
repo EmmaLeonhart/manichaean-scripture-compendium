@@ -107,3 +107,4 @@
 - 2026-10-21 `al-nadim-teaching`: added al-Nadīm on the first humans (Adam, Eve, Cain, Abel, the Wise of the World, Seth), the lands of light and darkness, and how to enter the religion (Flügel pp. 90–95).
 - 2026-10-21 `al-nadim-teaching`: added al-Nadīm on the life to come (the three ways of the soul at death: Elect, hearers, sinners), Flügel pp. 100–101.
 - 2026-10-21 `al-nadim-teaching`: added al-Nadīm on Mani's life and call (Futtaq, the Muġtasila, the angel at-Tawm, Shapur), Flügel pp. 83–86. The al-Nadīm chapter is now translated except the history of the leaders and the polemical notes.
+- 2026-10-21 New page `docs/texts/evodius-quotations.md`: CC BY translation from the Latin (CSEL 25.2, Zycha 1892) of Evodius' quotations of Mani: Treasure II, the Fundamental Epistle on the souls fixed in the globe, on the kingdoms of light, and on the crucifixion of the Prince of Darkness.
