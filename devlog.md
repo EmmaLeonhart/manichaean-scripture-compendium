@@ -73,3 +73,4 @@
 - 2026-10-21 Hymnscroll: hymns 10 (praise of the supreme Venerable of Light) and 11 (praise of the Five Lights, two parts).
 - 2026-10-21 Hymnscroll: hymn 12, the 78-stanza Hymn in praise of the realm of light.
 - 2026-10-21 Hymnscroll: closing vows 13(a)–(l) and the colophon translated. The whole scroll now has a first-pass translation.
+- 2026-10-21 Traité check finished: §14 end, §15 signs 1–3 and 5–12, §16 and §17 compared with Chavannes & Pelliot 1911 (which covers the whole Traité, so no 1913 part is needed for it). Fixed "rare understanding" (別識, §14), "Lord of the Law" (法主, sign 11) and "adorn these jewelled trees" (§16); noted three places where they read differently.

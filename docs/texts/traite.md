@@ -6,7 +6,7 @@ order: 40
 summary: The Envoy of Light teaches Adda how the Light-Nous frees the light imprisoned in the body and plants the trees of the new self.
 original_language: Chinese
 source: 'Chinese manuscript "Yu 16", National Library of China, Beijing; text as printed in Taishō vol. 54, no. 2141B (波斯教殘經), via CBETA. New translation.'
-rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (complete first pass; checking against Chavannes & Pelliot in progress)."
+rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (complete first pass, checked against Chavannes & Pelliot 1911)."
 ---
 
 ## Introduction
@@ -588,9 +588,9 @@ Mind, Thought, Reflection and Intention, each one breeds countless lights,
 and each brings forth fruit without measure too. The fruit appears in full
 in the pure community. When a *dēnāvar* is complete in the twelve hours of
 light, know that this teacher is different from the crowd. Being different
-means this: the teachers and bishops always have kindness, goodness and
-gentleness of their own in body and mind, and are calm and at one with
-others. This is the sign of it. It is the first budding of the twelve trees
+means this: the teachers and bishops always bring forth, in body and mind,
+kindness, goodness, gentleness and rare understanding, and are calm and at
+one with others. This is the sign of it. It is the first budding of the twelve trees
 of form. On these trees supreme jewelled flowers always open, and when they
 have opened their brightness shines everywhere. Between each flower and the
 next, countless buddhas are brought forth, each giving birth to the next,
@@ -731,8 +731,8 @@ skill and wisdom, so that they practise the true Way.
 
 **(11) Concord of One Heart.** "If a pure *dēnāvar* holds within the nature
 of a heart in concord, know that this teacher has five signs. First, in the
-wisdom, skilful means and conduct taught by the masters of the Law, the
-teachers and bishops, he follows every point and does not dare to change
+wisdom, skilful means and conduct taught by the Lord of the Law (法主, the
+head of the church), the teachers and bishops, he follows every point and does not dare to change
 it, and does not insist on his own views. Second, he always loves concord
 and living together with the community, and does not want to live apart,
 each pursuing different plans. Third, his heart is in concord with the
@@ -770,8 +770,7 @@ women of excellent form and good wisdom must each plant these trees in your
 pure hearts and make them grow, like good ground free of sand and salt,
 where one seed sown yields ten thousand, and so on, to a number without
 measure. Now, if you want to win the pure fruit of the supreme great light,
-you must all adorn yourselves with these jewelled trees and make them
-complete. Why? Because, good sons, by the fruit of these trees you will
+you must all adorn these jewelled trees and make them complete. Why? Because, good sons, by the fruit of these trees you will
 escape the four hardships and every kind of bodily existence, leave birth
 and death behind, be victorious for ever, and come to the place of peace and
 joy."
@@ -890,6 +889,16 @@ accepted it according to the Law, and joyfully put it into practice.
 - **§14, "Equality"** (平等): Chavannes and Pelliot note that when the list
   comes back in §15 the sixth form is Truth (真實), which agrees with the
   Syriac and Middle Persian lists and is probably the original reading.
+- **§15, checked against Chavannes and Pelliot** (2026-10-21): signs 1–3
+  and 5–12 agree. In sign 3, 承危𭿔以稱快 is read as "press his advantage or
+  gloat"; they read it as praising the loser to put him at ease. In sign
+  10, 不奪 is read as written, "does not take (scriptures, treatises or
+  disciples) away"; they take 奪 as a miswritten 集, "does not gather a
+  following". In sign 11, 法主 is the head of the whole church (the
+  *archegos*), whom they compare with Augustine's thirteenth "princeps".
+- **§17, "By this water of the Law…"** (緣此法水…): the series can also be
+  read as the teachers' own resolutions ("we will use this water of the
+  Law to wash…"), as Chavannes and Pelliot take it.
 - **§17, "the [high] way"**: the manuscript has 缶道, "jar way", which is
   probably a copying error. "High" is a guess and is marked as one.
 - **§15.4, "eat twice"**: 言通再受 is obscure. Chavannes and Pelliot take it
