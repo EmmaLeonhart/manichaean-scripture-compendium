@@ -6,7 +6,7 @@ order: 33
 summary: The Chinese Manichaean hymnbook from Dunhuang, with hymns to Jesus, a lament on impermanence, invocations of the gods of light and hymns to Mani.
 original_language: Chinese
 source: 'Dunhuang manuscript Stein 2659, British Library; text as printed in Taishō vol. 54, no. 2140 (摩尼教下部讚), via CBETA. New translation.'
-rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft, in progress (hymns 1–4 of the scroll so far; not yet checked against a published translation)."
+rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft, in progress (hymns 1–8 of the scroll so far; not yet checked against a published translation)."
 ---
 
 ## Introduction
@@ -481,6 +481,64 @@ language, written in Chinese characters for their sound, follows here. It
 is not translated.)
 
 
+### 5. Praise of Mani, King of Complete Wisdom (稱讚忙儞具智王)
+
+*Composed by the mōžaks.*
+
+Praise Mani, King of Complete Wisdom: he is himself the wondrous jewelled flower of light;  
+his trunk rises and spreads over all the world, and root, fruit and his whole body are all worthy of praise.
+
+If anyone can eat this fruit, he gains at once the body of long life that does not die;  
+or if he tastes its ambrosia, he is adorned within and without, and his heart is glad.
+
+He is the place on which beings rely; he urges them on and holds them up, gives them rest and makes them firm.  
+He can give us (a life) without birth and death: shall we not praise and worship him with one heart?
+
+Revered, revered be the name of the compassionate Father! In the end, in the end, may it be so.
+
+### 6. "First, the Venerable of Light" (一者明尊)
+
+*Composed by Na-luo-yan Buddha (𱼶羅延佛).*
+
+First, the Venerable of Light; second, Wisdom; third, Constant Victory;
+fourth, Joy; fifth, Diligence; sixth, Truth; seventh, the Believing Heart;
+eighth, Patience; ninth, Straightforwardness; tenth, Merit; eleventh,
+Concord of One Heart; twelfth, Light Within and Without, adorned with
+wisdom. Complete like the sun, they are called the twelve hours, perfect in
+merit.
+
+### 7. Single verse for receiving food (收食單偈)
+
+*Explained by the great Envoy of Light.*
+
+**First part.** First, the supreme King of Light; second, Wisdom, the Good
+Mother Buddha; third, Constant Victory, the First Thought Buddha; fourth,
+Joy, the Buddha of the Five Lights; fifth, Diligence, the Friend of Light
+Buddha; sixth, Truth, the Builder Buddha; seventh, the Believing Heart, the
+Pure Wind Buddha; eighth, Patience, the Sun-Light Buddha; ninth,
+Straightforwardness, Lu-she-na (盧舍𱼶); tenth, Gratitude, the Jesus Buddha;
+eleventh, Concord, the Lightning-Light Buddha; twelfth, the Light-Nous, the
+Adorned Buddha.
+
+His body is the King of the Law of the three ages; he opens and makes known all secret things;  
+the meaning of the natures and forms of the two principles and the three moments he can reveal in full, without doubt or hindrance.
+
+**Second part.**
+
+Supreme King of Light, Wisdom, Constant Victory, the Five Lights, the source of Joy;  
+the diligent heart, the Builder, ever true; the believing heart, Patience, the abiding light;
+
+the upright mind, Gratitude, accomplishing merit; Concord and One Heart increase the Light-Nous.  
+In the end, in the end, ever at ease: we praise and extol the buddhas of the four places.
+
+### 8. Hymn of the first voice (初聲讚文)
+
+*Composed by Jesus. Its meaning is deep and dark, and it should follow the
+foreign original.* (An Iranian hymn written in Chinese characters for their
+sound follows. Its refrain 喝思𠹌 is repeated after each name. It is not
+translated.)
+
+
 ## Notes to this edition
 
 - **Jesus** (夷數) in these hymns is the divine Jesus, the "Jesus of
@@ -504,9 +562,13 @@ is not translated.)
   "rich Lord who holds up the world", the "King of the ten heavens", the
   "Envoy who subdues the demons" and the "Earth-bearer" are the Living
   Spirit's five sons (Splenditenens, the King of Honour, Adamas and
-  Omophoros); the fifth, "the Hastener of Light" (催明), is uncertain. Yanmo
+  Omophoros); the fifth, "the Hastener of Light" (催明), is probably the King of Glory. Yanmo
   (閻默) is Middle Persian *Wahman*, the Great Nous. These identifications are
   modern and are not in the text.
+- **The twelve hours** (hymns 6 and 7) are the twelve virtues of the
+  Light-Nous listed in the *Traité* (§14), here matched with twelve gods.
+  Lu-she-na (盧舍𱼶, hymn 7) is a Buddhist name (Vairocana) used for one of
+  them; which god is meant is uncertain.
 - **Mo-ye** (末夜, hymn 4): 末 is the title *Mār*; the rest of the name is
   uncertain.
 - **Mār Sīsin** (末思信, hymn 3) was Mani's successor as head of the

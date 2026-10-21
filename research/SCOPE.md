@@ -36,7 +36,7 @@ Status key: **done** (on the site), **draft** (on the site, not yet checked),
 | Cologne Mani-Codex | — Greek: Henrichs & Koenen, ZPE 19, 32, 44, 48 (1975–82), and Koenen & Römer 1988. Scans on archive.org: ZPE 19 (`zeitschriftfurpa0019helm`, lending only) and Koenen & Römer 1985, *Abbildungen und diplomatischer Text* (`derklnermanikode0000unse`, lending only, with photographs and a transcription). Open copies of ZPE 32/44/48 were not found. Needs a fresh translation. |
 | Medinet Madi library | — (covered by Psalm Book, Kephalaia and Homilies) |
 | Dunhuang Manichaean texts | |
-| Xiabuzan (Hymnscroll) | **in progress** (`hymnscroll`, new translation; hymns 1–4 done, from 稱讚忙儞具智王 on still to do) |
+| Xiabuzan (Hymnscroll) | **in progress** (`hymnscroll`, new translation; hymns 1–8 done, from 歎諸護法明使文 on still to do) |
 | Manichaean Compendium | **draft** (`compendium`, new translation of the London part, Stein 3969; the Paris part, Pelliot chinois 3884, is still to do) |
 | Incomplete scripture of Manichaeism (the Traité) | **draft** (`traite`, new translation; checked through §14) |
 | Irk Bitig | **done** (`irk-bitig`, Thomsen 1912). Mainly a Tengrist text (marked † in the navbox). Public-domain English: V. Thomsen, "Dr. M. A. Stein's manuscripts in Turkish runic script from Miran and Tun-huang", JRAS 1912, article VIII, which by the scan's running heads starts at about p. 189 and runs to at least p. 227 (archive.org `in.ernet.dli.2015.70560`; confirmed in the scan 2026-10-20). Thomsen died in 1927, so the text is public domain in the US and EU. |
