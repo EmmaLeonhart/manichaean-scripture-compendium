@@ -24,6 +24,7 @@ quotations by other writers.
 | Shabuhragan | [The Turfan fragments on the end of the world](shabuhragan.html) (new translation, draft) · [quoted by al-Bīrūnī](al-biruni-quotations.html) |
 | Mani's life and teaching as reported by al-Nadīm | [Mani's life and teaching](al-nadim-teaching.html) · [the books, letters and law](al-nadim-books.html) (new translations, drafts) |
 | An unnamed book of Mani, quoted by Severus of Antioch | [The Tree of Life and the Tree of Death](severus-quotations.html) (new translation, draft) |
+| Mani's myth as summarized by Theodore bar Konai | [Mani's myth in Theodore bar Konai](theodore-bar-konai.html) (new translation, draft) |
 
 ## Extracanonical literature
 
