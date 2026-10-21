@@ -69,3 +69,4 @@
 - 2026-10-21 Hymnscroll page (`docs/texts/hymnscroll.md`): new CC BY draft translation of the first three hymns (Hymn to Jesus, parts 1 and 2; Lament on impermanence by Mār Sīsin). The opening Iranian transcription is noted but not translated.
 - 2026-10-21 Hymnscroll: hymn 4, the Hymn of universal invocation by Mo-ye mōžak, translated and added, with a note on the order of the gods invoked.
 - 2026-10-21 Hymnscroll: hymns 5–8 (Praise of Mani; the twelve hours; the verse for receiving food; the first-voice hymn, noted as an untranslated Iranian transcription).
+- 2026-10-21 Hymnscroll: hymn 9, the Hymn in praise of the Envoys of Light who guard the Law (three parts).

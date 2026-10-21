@@ -6,7 +6,7 @@ order: 33
 summary: The Chinese Manichaean hymnbook from Dunhuang, with hymns to Jesus, a lament on impermanence, invocations of the gods of light and hymns to Mani.
 original_language: Chinese
 source: 'Dunhuang manuscript Stein 2659, British Library; text as printed in Taishō vol. 54, no. 2140 (摩尼教下部讚), via CBETA. New translation.'
-rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft, in progress (hymns 1–8 of the scroll so far; not yet checked against a published translation)."
+rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft, in progress (hymns 1–9 of the scroll so far; not yet checked against a published translation)."
 ---
 
 ## Introduction
@@ -539,6 +539,121 @@ sound follows. Its refrain 喝思𠹌 is repeated after each name. It is not
 translated.)
 
 
+### 9. Hymn in praise of the Envoys of Light who guard the Law (歎諸護法明使文)
+
+*Composed by Zi-hei-duo Mang-ni Dian-da (子黑哆忙儞電達). In three parts.*
+
+**First part.** (It opens with Iranian words in transcription, 鳥列弗哇阿富覽, not translated.)
+
+[ … ] Brave Envoys, guardians of the Law,  
+company of ever-bright Envoys, worthy of praise from the beginning: send down great compassion and guard us.
+
+Radiant ones of the supreme and noble race, cover this flock of light here;  
+you are shepherds and watchmen, ever able to nourish the gentle lambs.
+
+True judges, divine and holy ones, who go through all the worlds most freely,  
+you can subdue all the demons of darkness, and destroy all the demons' laws.
+
+You ever urge on the good company on their way forward, and always help them in all good works;  
+you add strength to the diligence of the hearers and believers, and are their companions at every time and day.
+
+You also watch always over the pure and wondrous company, and keep them from enmity, anger and filthy ways;  
+you add courage to their diligence without rest, and keep them from the Demon King's net of sin and his poison.
+
+You sift out all the light-natures and lead them yourselves into the pure Law;  
+you rebuke and punish the evil-working heretics, and let them not harm the gentle company.
+
+You add glory and joy to the good company of light, and put to shame the poisonous kinds of darkness;  
+you come down to the pure place of the hall of the Law, and bring glory to the good company and keep them from their enemies.
+
+You show signs, to give ease; you can take away fear and trembling;  
+you comfort the good company who mourn, and are a support to those who carry the good faith.
+
+You destroy the mixed, poisonous flames of the demons, and all their falsehood melts away of itself;  
+you provide the whole robe and the armour, to help the boys and the girls.
+
+All the demons' doings and every hardship (vanish) as the dark shadows melt when the sun comes in its strength;  
+you ever make joy and ease, for the good of every place of the good Law.
+
+You receive and give the alms without tiring, for the good of the light-natures wherever they are;  
+joy and ease and praise you give to all the company of light, your fellows.
+
+I pray only that you brave Envoys of Light will give firm strength to this great company,  
+lead us yourselves to the wide place of constant peace and ease, and nourish us, and increase our works of merit.
+
+**Second part.**
+
+The guardians of the true Law are truly worthy of praise: they are the mighty Envoys of Light,  
+of the race of the supreme light, ever doing good to the true Law everywhere.
+
+If there is heavy distress and hardship, the holy company always keeps it away from the pure Law;  
+they shatter the realm of the demons and the demon women, and let them not stand against this true and holy teaching.
+
+They can take away the enemies, all the seeds of darkness, and give peace to the true Law and free it from fear;  
+they rescue the lambs from the jackals and wolves, and give peace to good men and good women where they live.
+
+They weed out the evil weeds and clean the good field, and watch over it themselves to make it grow;  
+they urge on the weak and give them great strength; they stand by the timid and free them from fear.
+
+Our fellows, the true company, must call on them: like an echo answering a voice, they come quickly.  
+At every hour they urge on the pure company, and always add strength to those of joyful nature;
+
+they put to shame those who do evil, and make glad those who do good;  
+they bring ease to the pure gate of the Law, and always add great peace besides.
+
+I truly cannot tell it all: how could this hymn be complete?  
+All that the brave race does is accomplished; their arts are so many they are hard to tell.
+
+The honoured one is Jie-shang-nu-si (劫傷怒思), with the rest of his company who help him:  
+at every hour he should be praised, for he is worthy of praise for ever.
+
+I pray only that you will hear my petition now, and send down great compassion to protect us;  
+with skilful means, guard us yourselves, so that we may surely have peace and be free of enemies.
+
+I pray only that the gate of the Law may soon be at ease, lofty and stately, without hindrance,  
+that our road may shine again, and that wherever we go we may be without fear.
+
+The joyful mōžaks and all the honoured heads, and all who are in the Law with true hearts:  
+may each add zeal and good works, and surely win a great victory with all the holy ones.
+
+**Third part.**
+
+Company of the Envoys of Light, forgive us: the compassionate Father ordered you to guard us.  
+Mighty ones of the supreme good race, by the compassionate Father's command you guard the true Law;
+
+since you are the shepherds of the flock of light, you must yourselves ward off every suffering and hardship.  
+You are the openers of the Law and the practisers of the Way; wherever the gate of the Law reaches, all rely on you.
+
+Guard those of joyful nature who have given up the glory of the world: shelter them, we pray, and add great strength.  
+Gather in the gentle lambs diligently, and protect the pure seed of light yourselves.
+
+Cut down diligently the thorns in the field of the Law, so that all the shoots and fruit may grow rich and ripe.  
+Since you are envoys and couriers, you must understand the will of the Great Holy One;
+
+and since you are not two with the body of the Law, guard in peace this good flock of light.  
+The holy ones set up the gate of the Law in the world, and charged the company of Envoys to guard it always;
+
+since you are the brave ones of merit, do not make light of this true and holy teaching.  
+The chief general, [ … ]-ju-fu (󱱊俱孚), always holds armour and weapons to crush the rebels;
+
+the great hero, the pure Wind, who can save the Father, commanded all the words of the teaching and the precepts.  
+Mighty Envoys of Light, brave in merit, why would you not do diligently what you should?
+
+Harbour no idleness and no change of heart; do not be counted among those who break the rule.  
+You must be like the shepherd who can snatch the lambs away and save them from wolves and tigers.
+
+That great and awesome holy one, the general who subdues the demons: keep always in mind the form of the One Above.  
+The company of Envoys first emanated adorn themselves, and so they bring ease to the guarding of the Law;
+
+they make those who subdue the demons put down the heretics, and hold up the good company with hands of light.  
+Add courage to your diligence, always make war and punish, and attack the deluded ones who harm the Law.
+
+The pure and good company, those who keep the precepts: may each have more joy and the power of compassion.  
+I have now told in brief the names and arts of the company of Envoys of Light, who help the Law;
+
+may the hearers and helpers be at peace with the Law, without hindrance.  
+Rescue the chosen, break the people of darkness, crush the demon lords and gladden the pure company.
+
 ## Notes to this edition
 
 - **Jesus** (夷數) in these hymns is the divine Jesus, the "Jesus of
@@ -569,6 +684,11 @@ translated.)
   Light-Nous listed in the *Traité* (§14), here matched with twelve gods.
   Lu-she-na (盧舍𱼶, hymn 7) is a Buddhist name (Vairocana) used for one of
   them; which god is meant is uncertain.
+- **Hymn 9**: the author's name 子黑哆忙儞電達 is a transcription, and so
+  are the names of the honoured angel Jie-shang-nu-si (劫傷怒思) and the
+  chief general (󱱊俱孚). Which beings are meant is uncertain. The "pure
+  Wind, who can save the Father" is the Living Spirit, who rescued the
+  First Man.
 - **Mo-ye** (末夜, hymn 4): 末 is the title *Mār*; the rest of the name is
   uncertain.
 - **Mār Sīsin** (末思信, hymn 3) was Mani's successor as head of the
