@@ -11,8 +11,13 @@ Chinese, gathered in one place in English.
 - **Hosting:** https://manichaeism.order.life (GitHub Pages from this
   repository).
 - **Translations:** where no free translation exists, the text is translated
-  afresh from the original language. Modern copyrighted translations are
-  consulted as reference only and are never copied.
+  afresh. The Chinese and Latin texts are translated from the original
+  language. The Middle Persian, Parthian, Old Turkish, Arabic and Syriac
+  texts are, for now, translated into English from the public-domain German
+  and French editions of 1862–1922 (Flügel, Müller, Le Coq, Pognon, Kugener
+  and Cumont); each page names its source. All new translations are drafts.
+  Modern copyrighted translations are consulted as reference only and are
+  never copied.
 
 ## Layout
 
