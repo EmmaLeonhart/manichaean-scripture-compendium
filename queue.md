@@ -6,4 +6,4 @@ master list. Items marked **[Translation]** wait for the translation window
 (06:00–15:00 on 2026-10-21; see INTENT.md). Until then, skip them and take
 the next item.
 
-1. **[Translation] Le Coq, *Türkische Manichaica* III (1922), nos. 15–40**: source `scratch/AbhandDerPreussAkadDerWissen1922.txt` (archive.org `AbhandDerPreussAkadDerWissen1922`); no. 15 starts at line 13562. Nos. 9 and 10 on are in two-column layout (Turkish and German on one line), so read them raw rather than with the filter. Use `scripts/german_lines.py`.
+1. **[Translation] Le Coq, *Türkische Manichaica* III (1922), nos. 20–40**: source `scratch/AbhandDerPreussAkadDerWissen1922.txt` (archive.org `AbhandDerPreussAkadDerWissen1922`); no. 20 starts at line 14397. Nos. 9 and 10 on are in two-column layout (Turkish and German on one line), so read them raw rather than with the filter. Use `scripts/german_lines.py`.
