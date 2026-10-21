@@ -1,11 +1,11 @@
 ---
-title: "Mani's teaching in al-Nadīm: the two principles and the making of the world"
+title: "Mani's teaching in al-Nadīm: the two principles, the world and the first humans"
 text: true
 group: scripture
 order: 96
-summary: Al-Nadīm's report, often in Mani's own words ("Mani teaches…"), of the two principles of light and darkness, the First Man's battle, the mixture of the five elements, the building of the world, the sun and moon, the great fire and the end.
+summary: Al-Nadīm's report, often in Mani's own words ("Mani teaches…"), of the two principles of light and darkness, the First Man's battle, the mixture of the five elements, the building of the world, the sun and moon, the great fire, the making of Adam and Eve and their children, the lands of light and darkness, and how one enters the religion.
 original_language: Arabic
-source: 'Ibn al-Nadīm, Kitāb al-Fihrist (987), chapter on the Manichaeans, as translated into German by G. Flügel, Mani, seine Lehre und seine Schriften (Leipzig 1862), pp. 86–90 (archive.org `maniseinelehreu00manegoog`) (public domain). New English translation from Flügel''s German.'
+source: 'Ibn al-Nadīm, Kitāb al-Fihrist (987), chapter on the Manichaeans, as translated into German by G. Flügel, Mani, seine Lehre und seine Schriften (Leipzig 1862), pp. 86–95 (archive.org `maniseinelehreu00manegoog`) (public domain). New English translation from Flügel''s German.'
 rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (made from Flügel's 1862 German; not checked against the Arabic or a modern translation)."
 ---
 
@@ -18,7 +18,9 @@ that survives in Arabic, and it agrees closely with the Turfan fragments
 (compare [the Šābuhragān](shabuhragan.html) and [the building of the
 world](turfan-cosmogony.html)). This page gives the part on the two
 principles, the battle of the First Man, the mixture, the making of the
-world and the end. Al-Nadīm's lists of Mani's books and letters, and the
+world and the end; the making of Adam and Eve and the story of their
+children; the lands of light and of darkness; and how a person should enter
+the religion. Al-Nadīm's lists of Mani's books and letters, and the
 law Mani gave, are on [a separate page](al-nadim-books.html).
 
 **This translation is a draft.** It is made from Gustav Flügel's German of
@@ -189,6 +191,148 @@ grave that has been made ready for her. Then he closes this grave with a
 stone as big as the world, and shuts her in. The light is then safe from
 the darkness and from any harm by it.
 
+The Māsiya among the Manichaeans hold that something of the light remains
+behind in the darkness.
+
+### The beginning of unbroken generation, according to Mani's teaching
+
+Then, Mani says, one of those archons and of the stars, the oppressing
+force, greed, lust and sin, mated, and from their mating came forth the
+first man, who is Adam; and those who watched over him were two archons, a
+male and a female. Then followed a second mating, and from it came forth
+the beautiful woman, who is Ḥawwāʾ (Eve).
+
+When, Mani teaches, the five angels saw the light of God, which greed had
+secretly stolen and shut up captive in these two creatures, in its
+defilement, they begged the bringer of good news, the Mother of Life, the
+First Man and the Living Spirit to send someone to this first creature, to
+loosen and save it, to reveal knowledge and righteousness to it, and to set
+it free from the devils. So, he goes on, they sent ʿĪsā (Jesus), with a god
+accompanying him. These seized the two archons, made them prisoners and
+freed the two creatures.
+
+And ʿĪsā (Jesus), Mani teaches, set out and spoke to the creature, that is,
+Adam; he explained to him the Paradises and the gods, hell and the devils,
+the earth and the heaven, and the sun and the moon; he made him afraid of
+Ḥawwāʾ by telling him of her violent importunity, and filled him with fear
+of going near her. And Adam obeyed.
+
+Then the archon went back to his daughter Ḥawwāʾ (Eve) and lay with her in
+the lust that dwells in him, so that she bore a son, ugly to look at and
+reddish, named Qāyin (Cain), the red man. This son then lay with his
+mother, and she bore a white son named Hābīl (Abel), the white man. Then
+Qāyin lay with his mother again, so that she bore two girls, the one named
+the Wise of the World (*Ḥakīmat ad-dahr*), the other the Daughter of Greed
+(*Ibnat al-ḥirṣ*). Qāyin took the Daughter of Greed as his wife and gave the
+Wise of the World to Hābīl, who took her as his wife. The Wise of the
+World, Mani says, overflowed with the light and wisdom of God, while in the
+Daughter of Greed there was none of it at all.
+
+Then one of the angels came to the Wise of the World and said to her:
+"Guard your soul, for to God's joy you shall become the mother of two
+perfect girls." And he lay with her, so that she bore him two girls, one of
+whom she named Raufaryād ("Come to help") and the other Barfaryād ("Bring
+help"). When Hābīl learned of this, he was filled with anger, and sadness
+took hold of him wholly, and he said to her: "From whom have you these two
+children? I suspect they are Qāyin's; it is he who has lain with you." She,
+however, described to him the form of the angel. Still he left her, went to
+his mother Ḥawwāʾ (Eve) to complain to her of what Qāyin had done, and said
+to her: "Have you heard what he has done with my sister and my wife?"
+Qāyin heard this, fell upon Hābīl, smashed his brain with a stone and killed
+him. Then he took the Wise of the World as his wife.
+
+Mani teaches further: Those archons, that Ṣindīd (the mighty one), and
+Ḥawwāʾ were grieved at what they saw of Qāyin; and the Ṣindīd taught Ḥawwāʾ
+the gibberish of sorcery, so that she might bewitch Adam. She went off, did
+as she was told, and met him with a garland of tree blossom. When Adam found
+her fit for his lust, he lay with her, and she became pregnant by him and
+bore a graceful son, fair of face. The Ṣindīd heard of this, fell into
+grief and became ill, and said to Ḥawwāʾ: "This creature does not belong to
+us; it is a stranger." She wished to kill it; but Adam took it and said to
+Ḥawwāʾ: "I will feed it with cow's milk and the fruit of the trees." He
+took it and went away. Then the Ṣindīd sent the archons to take away the
+trees and the cattle and remove them far from Adam.
+
+When Adam saw this, he took the child and drew three circles round it. On
+the first he wrote the name of the King of the Paradises, on the second the
+name of the First Man, and on the third the name of the Living Spirit; he
+went up to a higher place, humbled himself before God, whose name is
+glorious, and begged him: "If I have sinned against you, that is not the
+fault of this child." Then one of the three came hurrying, bringing the
+garland of beauty, which he carried in his hand to Adam. When the Ṣindīd
+and the archons saw this, they went straight away.
+
+Then, Mani says, a tree called *Lūṭis* (lotus) appeared to Adam, from which
+milk came out. With this he fed the boy, and gave him the name of the tree.
+Later he called him Šātil (Seth). But that Ṣindīd, who kept up his enmity
+against Adam and those creatures, said to Ḥawwāʾ: "Go to Adam; perhaps you
+will bring him back to us." She hurried off at once and deceived Adam, so
+that he lay with her in his lust. When Šātil saw him then, he admonished
+him, reproached him and said to him: "Come, let us set out for the East,
+to the light and wisdom of God." And he set out with him there, and he
+stayed there until he died and entered Paradise. But Šātil, Raufaryād and
+Barfaryād, and the Wise of the World, the mother of the last two, followed
+with the *ṣiddīqūt* (the community of the righteous) one direction and one
+and the same way until the time of their death; while Ḥawwāʾ, Qāyin and the
+Daughter of Greed went into hell.
+
+### The earth of light and the ether of light, which are without beginning, together with the God of Light
+
+Mani teaches: The earth of light has five limbs, the gentle breeze, the
+wind, the light, the water and the fire; and likewise the ether of light
+has five limbs, gentleness, knowledge, understanding, the mystery and
+insight. He teaches further: These ten limbs of the ether and the earth
+together make up the Greatness.
+
+This shining earth, he says, has a body; it is bright and serene, with a
+gentle radiance and full splendour, against which the clearness of its
+purity and the beauty of its bodies stand out: form upon form, beauty upon
+beauty, whiteness upon whiteness, clearness upon clearness, grace upon
+grace, light upon light, brilliance upon brilliance, lovely sight upon
+lovely sight, pleasantness upon pleasantness, elegance upon elegance, rows
+of gates upon rows of gates, towers upon towers, dwellings upon dwellings,
+inns upon inns, gardens upon gardens, trees upon trees, branches upon
+branches with boughs and fruit, lovely to see, a light shining in many
+colours, each lovelier and more blooming than the other, clouds upon clouds
+and shade upon shade. That God of Light on this earth is an eternal God.
+
+The God on this earth, he goes on, has twelve glories, which are called
+the first-born, whose forms are like his form, all of them learned and
+understanding; and glories, he says, which are called the house-spirits,
+the active and the strong. And the gentle breeze, he adds, is the life of
+the world.
+
+### The earth of darkness and its heat
+
+The earth of darkness, Mani teaches, bristles with depths, abysses, clefts,
+layers, dams, swamps, scattered stretches of land running out into branches
+and filled with dense forest, and springs from which smoke rises from land
+to land and from wall to wall, from which fire comes up from land to land
+and darkness from land to land. Some of these columns are higher than the
+others, others deeper, and the smoke that pours out of them is the poison
+of death. It rises from the spring of an abyss whose foundations are of
+murky slime, in which are dusty earth, the elements of fire, the thick dark
+elements of wind and the elements of heavy water.
+
+The darkness borders on this shining earth, above (the one) and below (the
+other). Both, the light upwards and the darkness downwards, are without
+limit.
+
+### How a man should enter the religion
+
+Whoever wants to enter the religion, Mani commands, must test himself; and
+if he sees that he is able to tame lust and greed, to give up eating all
+kinds of meat, drinking wine and married intercourse, and to keep himself
+from harming water and fire, from sorcery and from hypocrisy, let him enter
+the religion. But if he is not able to do all this, let him not enter. If
+he loves the religion but cannot subdue the stirring of the senses and
+greed, let him make use of keeping the religion and the righteous (the
+Elect), and meet his reprehensible acts by (using) times when he gives
+himself wholly to work, righteousness, eager watchfulness, prayer and pious
+humility; for that makes him content in this passing world and in the
+eternal world to come, and his form on the Last Day will be the second
+form, of which, God willing, we shall speak further below.
+
 ## Notes to this edition
 
 - **The five limbs** of the Father (gentleness, knowledge, understanding,
@@ -204,4 +348,12 @@ the darkness and from any harm by it.
   world](turfan-cosmogony.html)).
 - **1,468 years**: the same figure as the Middle Persian *Šābuhragān*
   (M 470).
+- **Adam, Eve and their children**: Jesus is sent to wake Adam; Šātil
+  (Seth), fed from the milk of the lotus tree, leads Adam to the East and is
+  the ancestor of the righteous, while Eve, Cain and the Daughter of Greed
+  go to hell. The *Ṣindīd* is the chief of the archons who made the first
+  pair.
+- **"The second form"** (entering the religion): the hearer who cannot live
+  as an Elect will have the "second" rank at the Last Day; al-Nadīm promises
+  to explain it later in his chapter.
 - **The Humāma** is the "spirit of darkness", the soul of matter.

@@ -104,3 +104,4 @@
 - 2026-10-21 New page `docs/texts/al-nadim-books.md`: CC BY English draft of al-Nadīm's list of Mani's books (with the 18 chapters of the Book of Mysteries) and the 76 letter titles, from Flügel's 1862 German. Linked from the Pragmateia and Book of Giants rows.
 - 2026-10-21 `al-nadim-books`: added al-Nadīm's section on the law Mani gave (the ten commandments, the prayers with their prostrations, the fasts), from Flügel pp. 95–97.
 - 2026-10-21 New page `docs/texts/al-nadim-teaching.md`: CC BY English draft of al-Nadīm's report of Mani's teaching (two principles, Satan and the First Man, the mixture, the building of the world, sun and moon, the great fire and the end), from Flügel pp. 86–90.
+- 2026-10-21 `al-nadim-teaching`: added al-Nadīm on the first humans (Adam, Eve, Cain, Abel, the Wise of the World, Seth), the lands of light and darkness, and how to enter the religion (Flügel pp. 90–95).
