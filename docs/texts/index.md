@@ -17,8 +17,8 @@ quotations by other writers.
 | Treasure of Life | [Quoted by Augustine](fundamental-epistle.html#the-treasure-of-life-book-vii) · [quoted by al-Bīrūnī](al-biruni-quotations.html#from-the-treasure-of-life) |
 | The Epistles | [The Fundamental Epistle](fundamental-epistle.html) · [Turfan extracts](turfan-gospel-epistles.html#m-733-extracts-from-the-epistles-and-the-gospel) (new translation, draft) |
 | The Book of Mysteries | [Quoted by al-Bīrūnī](al-biruni-quotations.html#from-the-book-of-mysteries) |
-| Pragmateia | Planned |
-| The Book of Giants | Planned |
+| Pragmateia | Lost; title only, in [al-Nadīm's list of Mani's books](al-nadim-books.html) |
+| The Book of Giants | Planned. Title in [al-Nadīm's list](al-nadim-books.html) |
 | Psalms and Prayers | Lost as a book. Related: [hymns and prayers from a Turfan hymnbook](turfan-hymnbook-m4.html) (new translation, draft) |
 | Book of Pictures (Arzhang) | Lost. See [Visual art](#visual-art). |
 | Shabuhragan | [The Turfan fragments on the end of the world](shabuhragan.html) (new translation, draft) · [quoted by al-Bīrūnī](al-biruni-quotations.html) |
