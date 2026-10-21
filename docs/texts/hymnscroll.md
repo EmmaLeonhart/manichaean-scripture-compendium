@@ -6,7 +6,7 @@ order: 33
 summary: The Chinese Manichaean hymnbook from Dunhuang, with hymns to Jesus, a lament on impermanence, invocations of the gods of light and hymns to Mani.
 original_language: Chinese
 source: 'Dunhuang manuscript Stein 2659, British Library; text as printed in Taishō vol. 54, no. 2140 (摩尼教下部讚), via CBETA. New translation.'
-rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft, in progress (hymns 1–11 of the scroll so far; not yet checked against a published translation)."
+rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft, in progress (hymns 1–12 of the scroll so far; not yet checked against a published translation)."
 ---
 
 ## Introduction
@@ -774,6 +774,241 @@ all these are medicine for the body of light, by which it escapes pain and every
 The guests who wander for a day in a foreign land: since you can invite them in and make them glad,  
 adorn the monastery and keep it always clean, and diligently provide clothing and food, so that both may go out to sea.
 
+### 12. Hymn in praise of the realm of light (歎明界文)
+
+*Seventy-eight stanzas of four lines. Composed by Wei-mao (未冒), mōžak.*
+
+We of high form have awakened to the Venerable of Light, and so we can believe, receive and expound it;  
+since the Great Holy One is the body of good works, may he send down compassion and gladden all.
+
+By the Father's pity the Envoy of Light came down, who can heal the sick nature of its inversions and errors,  
+take away all its bonds and afflictions, and bring joy to every heart and mind.
+
+Nothing hidden is left unshown; he makes all things bright, and opens and makes known every secret:  
+that is, the two principles, the two great powers. Who but the good seed could understand them?
+
+The first is high and wide, beyond measure, all light, with no place of darkness;  
+the buddhas and Envoys of Light dwell in it: it is the place where the Venerable of Light abides.
+
+Light is everywhere, all pure, ever joyful, still and at rest, without disturbance;  
+they have joy there, and no affliction: if anyone says there is suffering there, it is not so.
+
+The holy company and their halls of the Law are all adorned and pure, and so are all the monasteries of the buddhas;  
+they have joy for ever in the light: if anyone says there is sickness there, it is not so.
+
+Whoever can go to that land meets them all at last, with no sorrow;  
+the holy company are free and each at ease; beating, prison and bonds can never come there.
+
+The places are adorned and all pure; nothing evil or unclean was ever there;  
+joy fills everything, always at ease: if anyone says there is oppression there, it is not so.
+
+In the world of supreme light are lands as many as the dust and sand,  
+adorned of themselves with wondrous jewels, and the holy company dwell in them for ever.
+
+In all those worlds and lands the jewelled adamantine earth shines right down through them,  
+from beginningless time till now and to the end: if anyone says they shake, it is not so.
+
+All the holy ones there are not stained by ignorance or lust;  
+far from folly and love and the forms of male and female, how could the round of rebirth press on them?
+
+The holy company are of one heart, all in concord; division and the sword can never reach them;  
+they are free in mind and at ease, without hindrance, and do not seek the things of lust.
+
+The monasteries are all adorned and pure; there is no harming one another and no blaming one another;  
+birth and death, destruction, impermanence: none of this is in the realm of light.
+
+No enemy invades its borders, nor are there war-horses and garrisons in its countryside;  
+even if the Demon King rouses his greed and love, he has no share in the realm of light.
+
+The jewelled adamantine earth is wondrous beyond words, shining with countless wonderful colours;  
+the holy ones dwell there in peace without hindrance, for ever free of melting away, and without sorrow.
+
+The fair faces of the holy company are wondrous; their light shines on one another, their bodies radiant and still;  
+take the light of a hundred thousand suns and moons: the light of a single hair of those holy ones is greater still.
+
+Light within and without, and no dark shadow; their wondrous bodies ever shine in a thousand, ten thousand ways;  
+they walk the glorious adamantine earth, and have not the slightest weight.
+
+The famous robes they wear are all delightful, and were not made by hand;  
+the holy company's garments are always clean and fresh; however old, they do not rot and have no moths.
+
+Gather all the famous flowers of this world, to compare with their wondrous and fair forms:  
+their clothing and ornaments are twice as fine again, wondrously adorned, with colours beyond measure.
+
+Their monasteries, temples, halls and towers are made of wondrous jewels without a flaw;  
+their food and drink and dishes are all ambrosia; the land is rich, and there is no famine.
+
+Their crowns are never broken; once put on, they need never be taken off;  
+all the holy ones meet together and are always glad, without suffering and without parting.
+
+Their crowns of flowers are green and wonderfully adorned, shining on one another, ever fresh and never withering;  
+a tongue of flesh could not praise them, nor a mind think them: their wondrous colours never end or fade.
+
+The bodies of the holy company are light and ever pure; their hands, feet and limbs are never stiff;  
+they do not do the deeds of birth and death that make things: how could one say they grow tired?
+
+Those holy ones are pure and empty, their bodies ever joyful; bodies of adamant, they do not sleep;  
+since they have no dreams or delusions, how could one say they are afraid?
+
+The holy company are ever bright and complete in wondrous wisdom; forgetfulness was never theirs;  
+all the things of the boundless worlds they see as if in a bright mirror.
+
+The hearts and minds of the holy ones are all true; deceit, falsehood and pretence were never there;  
+the deeds of body, mouth and mind are always pure: how could one say there are lies?
+
+That world is full of jewels; there is nothing in it not worthy of praise;  
+the monasteries are vast and lack nothing: how could one say there is poverty?
+
+The fire of hunger, the torment of heat and every hardship: in the realm of light, ever joyful, there is none of this;  
+they are for ever free of hunger and thirst tormenting them, and there is no salt or bitter water.
+
+The hundred rivers, the seas and the springs: the water of life is clear and still, all fragrant and wondrous;  
+whoever goes into it does not drift or drown, and no flood comes to do harm.
+
+The holy ones dwell in peace, ever joyful; the land is worthy of praise, and they do not mock one another;  
+the suffering of meeting those one hates was never there, nor do they praise to one's face and slander behind.
+
+With compassion and gladness they pity one another; envy and every evil were never there;  
+they walk quickly, faster than the wind: if anyone says their limbs are weak or lame, it is not so.
+
+Their divine feet move as fast as lightning, and appear unhindered in the ten directions;  
+their wondrous forms are truly hard to describe; no disaster or sickness can harm them.
+
+Distress, disaster and danger, fear and all the doings of the demons,  
+war, harming and killing one another: none of this is in the realm of light.
+
+That world is ever at peace, without fear; the land is adorned and pure, and nothing can obstruct it;  
+the jewelled adamantine earth has no bounds: if anyone says it can be destroyed, it is not so.
+
+The jewelled trees there all stand in rows, and jewelled fruit grows on them for ever and never withers or rots;  
+large and small alike, no worms eat them; green and luxuriant, they grow of themselves.
+
+Bitter, poisonous, sour, astringent or black: the jewelled fruit, fragrant and sweet, is not like that;  
+nor is it hollow inside and solid outside: inside and out it is light, with the taste of ambrosia.
+
+The roots, stems, branches and leaves of the jewelled trees, from top to bottom, are all ambrosia;  
+their sweet fragrance fills the world, and the jewelled flowers shine on one another, ever red and white.
+
+The gardens of that land are wide, adorned and pure; a wondrous fragrance goes round the gardens;  
+tiles, rubble, thorns and filthy weeds: if anyone says there are such, it is not so.
+
+That adamantine earth ever shines; within and without it reflects all, and nothing is unseen;  
+the jewelled lands, layer on layer, are countless, and the gaze passes right through them, each one plain to see.
+
+Fragrance spreads through the world: the ocean of life, pure and unmixed,  
+spreads and fills all without hindrance; the holy company move in it, most fragrant and wondrous.
+
+The air is so by its nature and never changes; wondrous clouds of light cast no shadow and do not block;  
+clear and still and pure, without dust, it spreads evenly round all the worlds.
+
+In that realm are jewelled mountains of a hundred million kinds, from which fragrant smoke rises in a million ways;  
+within and without they are light, their bodies pure, and ambrosia fills them without bound.
+
+The springs flow clear without ceasing, with the true taste of ambrosia, without mud or bitterness;  
+the holy company are fed full and lack nothing: if anyone says they thirst, it is not so.
+
+Wondrous breezes blow, all delightful, warm and mild, circling through the ten directions;  
+they lightly brush the jewelled towers and pavilions, and the jewelled bells and chimes ring for ever.
+
+The wondrous fire of light is beyond compare: wondrous in colour, cool, ever shining;  
+bright, it lasts for ever, neither born nor destroyed; its wondrous radiance truly has no equal.
+
+The body of the fire is pure and empty, without poison or heat; whoever touches or enters it is not burned or boiled;  
+there are no ashes, smoke or soot: if anyone says there is burning, it is not so.
+
+The halls and palaces there were not made by hand, yet they are firm;  
+without labour, they are so by the Law of themselves: if anyone says they were built, it is not so.
+
+All that springs up from the jewelled earth can see, hear and know;  
+they see the supreme King of nirvana, and praise and sing the majesty of the Great Holy One.
+
+There dark shadow never was; all within and without is bright beyond compare;  
+every bodily form is very wondrous, and those in the jewelled earth are ever green.
+
+The bodies of the holy company are wondrous, high and broad, their fair faces truly beyond thought;  
+they reach down through the jewelled earth without bound: whoever would know their measure seeks in vain.
+
+The wondrous forms of those holy ones are to be prized; they never had sickness or disaster;  
+strong and ever at peace, they do not grow old; they suffer no loss, and their bodies are ever strong.
+
+If not the Great Holy One who knows their measure, what common man could reckon and tell it?  
+The bodies of adamant are beyond thought; their size and shape only the holy ones can tell.
+
+The colours and forms of the holy company are wondrous; they give out great light without bound,  
+from beginningless time, now, and to the end: if anyone says their bodies decay, it is not so.
+
+Of men and gods, holy and common, all kinds of forms: no tongue of flesh can praise them;  
+the natures and forms of the buddhas are truly beyond thought, and so is the jewelled adamantine earth.
+
+The holy company are ever joyful, without weariness, prized and glorious, glad to the end;  
+their bodily forms are wondrous and ever fair, adorned within and without, truly beyond words.
+
+The light of the holy company is wondrous; it shines on one another without a break;  
+those holy ones are all of one heart and in concord: if anyone says they are divided, it is not so.
+
+The holy ones, with their fair faces and wondrous forms, all dwell in the monasteries and the jewelled halls and pavilions;  
+every rising intention and stirring thought shines on all and is seen by all, without doubt or error.
+
+The holy ones in the realm of light: their bodies are light and swift, without weariness or weight;  
+their wondrous forms go to every land as they think, and what they think appears to all alike.
+
+The holy company, of one heart, are ever glad, and sing with wondrous voices without stopping;  
+they praise, worship and extol without weariness, and everywhere praise the majesty of the good works of the Venerable of Light.
+
+The wondrous voices of their hymns are all delightful, their sound clear and fair, all calm;  
+above and below together the wondrous music resounds, and the whole monastery is never silent.
+
+Their song unfolds, wondrous beyond compare; everywhere they sing to one another and tell of the wondrous virtue;  
+the joy of the holy ones is complete, ever abiding, ever at peace, without weariness.
+
+The jewelled earth of light has no bounds: whoever seeks its shore seeks in vain;  
+there is no crowding and no fencing in; each goes freely where he will.
+
+The holy company, of one heart, are all in concord, with no division and no strife for name and gain;  
+equal, all together, all complete, they dwell in the wide monasteries and temples.
+
+The monasteries are pure and wondrously adorned, never with fear or hindrance;  
+the streets, lanes and alleys are widely adorned, and they walk where they will, everywhere [ … ].
+
+All the demons and hungry ghosts, with ugly faces and bodies:  
+from beginningless time, now and after, if anyone says there are such, it is not so.
+
+Chickens, dogs, pigs, [ … ] and other such kinds: none of this is in the realm of nirvana;  
+the cries of the five kinds of birds and beasts: if anyone says they are there, it is not so.
+
+All dark shadow and dust: none of this is in the world of supreme joy;  
+the monasteries of the holy ones are all pure: if anyone says there is gloom there, it is not so.
+
+Light fills all; their life is complete, for ever at peace;  
+prized joy, without a break; compassionate hearts, true and ever broad.
+
+Ever joyful and glad, without ceasing, delighting body and mind in the jewelled fragrance,  
+they do not count years, months, times or days: how could they fear the three endings of life?
+
+All the holy ones are without birth or death; the killing demon of impermanence cannot harm them;  
+they do not practise lust and have no filthy pregnancy: how could one say there is folly and love?
+
+The corruptible bodies of male and female, birth and death, impermanence, the fruit of lust:  
+none of this is in the world of supreme joy; the place is pure, without disaster.
+
+The holy and honoured ones in the realm of light are far from pregnancy, and neither gather nor scatter;  
+the whole land is at peace and not alarmed; there is never fear or disorder.
+
+All of them come forth from the living word and the wondrous speech: the holy company appear from it by transformation;  
+each one born by transformation is adorned from the first, each like the other, with no difference to be seen.
+
+Their lands, large and small, are all alike, and their temples and dwellings are no different either;  
+each gives out light beyond measure; their life is complete, without count of years.
+
+All the borders are ever at peace; their natures and forms are equal, and the land is the same throughout;  
+the three constants, each great, ever shine on one another: if anyone says there is darkness there, it is not so.
+
+This is called the land of constant joy, the source of the buddhas and the Envoys of Light;  
+it has no three disasters and no eight hindrances, and birth, age, sickness and death do not come upon it.
+
+This is the one great power of suchness, which Mani, the Envoy of Light, made known in full;  
+he can open the causes of birth and the true road, so that the holy company may all meet and attain this.
+
 ## Notes to this edition
 
 - **Jesus** (夷數) in these hymns is the divine Jesus, the "Jesus of
@@ -814,6 +1049,9 @@ adorn the monastery and keep it always clean, and diligently provide clothing an
   and now bound in the world, in plants and in bodies. The Elect free them
   by eating the food that the hearers bring: that is the "medicine", the
   "ship of the body" and the "flesh and blood of Jesus" of hymn 11.
+- **Hymn 12** describes the realm of light by denying of it everything
+  found in this world. Its refrain 若言有…無是處, "if anyone says there is
+  … there, it is not so", is rendered the same way each time.
 - **Mo-ye** (末夜, hymn 4): 末 is the title *Mār*; the rest of the name is
   uncertain.
 - **Mār Sīsin** (末思信, hymn 3) was Mani's successor as head of the

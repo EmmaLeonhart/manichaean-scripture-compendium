@@ -71,3 +71,4 @@
 - 2026-10-21 Hymnscroll: hymns 5–8 (Praise of Mani; the twelve hours; the verse for receiving food; the first-voice hymn, noted as an untranslated Iranian transcription).
 - 2026-10-21 Hymnscroll: hymn 9, the Hymn in praise of the Envoys of Light who guard the Law (three parts).
 - 2026-10-21 Hymnscroll: hymns 10 (praise of the supreme Venerable of Light) and 11 (praise of the Five Lights, two parts).
+- 2026-10-21 Hymnscroll: hymn 12, the 78-stanza Hymn in praise of the realm of light.
