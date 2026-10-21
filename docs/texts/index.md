@@ -59,3 +59,20 @@ Mani's Parents · Stone reliefs of Shangwan village · Temple banner MIK III
 6286 · Wall painting MIK III 6918 · Painting of the Buddha Jesus · Sealstone
 of Mani · Sermon on Mani's Teaching of Salvation · Veneration of the Tree of
 Life
+
+## Names of the gods
+
+The translations keep the names each source uses, so the same figure can
+appear under different names on different pages:
+
+| Usual name here | Also appears as |
+|---|---|
+| Father of Greatness | King of the Paradises of Light (al-Nadīm); Zurwān, Äzrua (Middle Persian, Turkish) |
+| Mother of Life | Mother of the Living (M 4, al-Nadīm); Mother-God (Old Turkish); Good Mother (Chinese) |
+| First Man | First Thought (Chinese); Ohrmizd, Xormuzta (Middle Persian, Turkish) |
+| Living Spirit | Pure Wind (Chinese); Wadžiwanta (Turkish); Mihr (Middle Persian) |
+| Third Envoy | the Messenger (Theodore bar Konai); Naresaf, Narisah (Middle Persian) |
+| Column of Glory | Column of Praise (al-Nadīm); Perfect Man (Acta Archelai); Srōšahrāy, Lu-she-na (Chinese) |
+| Maiden of Light | Virgin of Light (M 172); Kanig Rōšan (Turkish) |
+| Light-Nous | Wise Light (Chinese); Wahman (Middle Persian) |
+
