@@ -6,4 +6,4 @@ master list. Items marked **[Translation]** wait for the translation window
 (06:00–15:00 on 2026-10-21; see INTENT.md). Until then, skip them and take
 the next item.
 
-1. **[Translation] Müller 1904, remaining small fragments** (list in `research/SCOPE.md`, Turpan row): add to `docs/texts/turfan-hymns-prayers.md` or new pages. Source: `scratch/apaw1904.txt` from line 58389 (M 102 on) (archive.org `abhandlungenderk1904kn`).
+1. **[Translation] Müller 1904, remaining small fragments** (list in `research/SCOPE.md`, Turpan row): add to `docs/texts/turfan-hymns-prayers.md` or new pages. Source: `scratch/apaw1904.txt` from line 59896 (M 48 on) (archive.org `abhandlungenderk1904kn`).
