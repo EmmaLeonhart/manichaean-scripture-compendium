@@ -22,6 +22,7 @@ quotations by other writers.
 | Psalms and Prayers | Lost as a book. Related: [hymns and prayers from a Turfan hymnbook](turfan-hymnbook-m4.html) (new translation, draft) |
 | Book of Pictures (Arzhang) | Lost. See [Visual art](#visual-art). |
 | Shabuhragan | [The Turfan fragments on the end of the world](shabuhragan.html) (new translation, draft) · [quoted by al-Bīrūnī](al-biruni-quotations.html) |
+| Mani's teaching as reported by al-Nadīm | [The two principles and the making of the world](al-nadim-teaching.html) · [the books, letters and law](al-nadim-books.html) (new translations, drafts) |
 
 ## Extracanonical literature
 
