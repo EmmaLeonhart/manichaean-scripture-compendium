@@ -13,9 +13,9 @@ quotations by other writers.
 
 | Work | In the compendium |
 |---|---|
-| Gospel of Mani | [Quoted by al-Bīrūnī](al-biruni-quotations.html#from-the-living-gospel) |
+| Gospel of Mani | [Quoted by al-Bīrūnī](al-biruni-quotations.html#from-the-living-gospel) · [Turfan fragments](turfan-gospel-epistles.html) (new translation, draft) |
 | Treasure of Life | [Quoted by Augustine](fundamental-epistle.html#the-treasure-of-life-book-vii) · [quoted by al-Bīrūnī](al-biruni-quotations.html#from-the-treasure-of-life) |
-| The Epistles | [The Fundamental Epistle](fundamental-epistle.html) |
+| The Epistles | [The Fundamental Epistle](fundamental-epistle.html) · [Turfan extracts](turfan-gospel-epistles.html#m-733-extracts-from-the-epistles-and-the-gospel) (new translation, draft) |
 | The Book of Mysteries | [Quoted by al-Bīrūnī](al-biruni-quotations.html#from-the-book-of-mysteries) |
 | Pragmateia | Planned |
 | The Book of Giants | Planned |

@@ -13,9 +13,9 @@ Status key: **done** (on the site), **draft** (on the site, not yet checked),
 
 | Wikipedia article | What it is | Status |
 |---|---|---|
-| Gospel of Mani | Seven treatises: the Living Gospel | Fragments only. al-Bīrūnī's quotation is **done** (`al-biruni-quotations`). |
+| Gospel of Mani | Seven treatises: the Living Gospel | Fragments only. al-Bīrūnī's quotation is **done** (`al-biruni-quotations`). Turfan M 17 (the Gospel's opening) is **draft** (`turfan-gospel-epistles`, from Müller 1904). |
 | Treasure of Life | Seven treatises | Fragments only. Quotations by Augustine and al-Bīrūnī are **done**. |
-| The Epistles (Manichaeism) | Seven treatises | See Fundamental Epistle below. Kellis letters: — |
+| The Epistles (Manichaeism) | Seven treatises | See Fundamental Epistle below. Turfan extracts M 733 and M 731 are **draft** (`turfan-gospel-epistles`, from Müller 1904). Kellis letters: — |
 | The Book of Mysteries (Manichaeism) | Seven treatises | Fragments only. al-Bīrūnī's quotations are **done**. |
 | Pragmateia | Seven treatises | Almost nothing survives (title, and a possible Coptic citation). Sources: al-Nadīm's book list in Flügel 1862 (public domain, archive.org `maniseinelehreu00manegoog`). — |
 | The Book of Giants | Seven treatises | Middle Persian, Parthian, Sogdian and Uyghur fragments. Henning 1943 (BSOAS) is not public domain; the base text would come from fragment readings, with a fresh translation. Public-domain lead: none found yet. — |
