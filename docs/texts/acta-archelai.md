@@ -3,9 +3,9 @@ title: "Mani's letter to Marcellus, and Turbo's account of his teaching (Acta Ar
 text: true
 group: extracanonical
 order: 90
-summary: The letter of "Manichaeus, apostle of Jesus Christ" to Marcellus, and the disciple Turbo's report of Mani's teaching (the two kingdoms, the First Man, the Living Spirit, the wheel and the ships of light, the Maiden and the archons), from the Acts of Archelaus.
+summary: The letter of "Manichaeus, apostle of Jesus Christ" to Marcellus, and the disciple Turbo's report of Mani's teaching (the two kingdoms, the First Man, the Living Spirit, the wheel and the ships of light, the Maiden and the archons, transmigration, the rules of food and work, the prophets, Adam and Eve, the end of the world, and the mission of the three disciples), from the Acts of Archelaus.
 original_language: Greek (lost) and Latin
-source: 'Hegemonius, Acta Archelai (4th century), chapters 5 and 7–9, in the edition of C. H. Beeson, Die griechischen christlichen Schriftsteller 16 (Leipzig 1906), pp. 5–15 (archive.org `actaarchelaihrsg00hegeuoft`). New translation from the Latin, compared with the Greek preserved by Epiphanius.'
+source: 'Hegemonius, Acta Archelai (4th century), chapters 5 and 7–13, in the edition of C. H. Beeson, Die griechischen christlichen Schriftsteller 16 (Leipzig 1906), pp. 5–22 (archive.org `actaarchelaihrsg00hegeuoft`). New translation from the Latin, compared with the Greek preserved by Epiphanius.'
 rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (made from Beeson's Latin, read from an OCR scan; not checked against another translation)."
 ---
 
@@ -166,6 +166,125 @@ their roots are cut, then pestilence begins, and so they die. And if he
 shakes the upper parts of the root, an earthquake comes and follows, as the
 Omophoros is shaken too. This is the cause of death.
 
+### Turbo's account, continued (chapters 10–13)
+
+*(Chapter 10 begins:) "I will tell you this too, how the soul is poured over
+into five bodies."*
+
+First a little of it is purified in this one; then it is poured over into
+a dog, or a camel, or the body of another animal. If it has committed
+murder, the soul is poured over into the bodies of lepers; if it has cut the
+harvest, into the dumb. The names of the soul are these: mind, sense,
+prudence, understanding, thought.
+
+The reapers who reap the harvest are likened to the princes who, sprung
+from matter, have been in the darkness since they ate of the armour of the
+First Man; that is why they must be poured over into hay, or beans, or
+barley, or ears of corn, or vegetables, so that they too may be cut and
+mown. And whoever eats bread must himself be eaten, having become bread.
+Whoever kills a chicken will himself be a chicken; whoever kills a mouse
+will himself be a mouse. If anyone is rich in this world, when he leaves
+his body he must be thrown into the body of a poor man, so that he walks
+about and begs, and after that he goes to eternal punishment. Since this
+body belongs to the princes and to matter, whoever plants a persea tree
+must pass through many bodies, until that persea he planted falls. Whoever
+builds himself a house will be scattered through all bodies. If anyone
+washes himself in water, he wounds his soul; and whoever does not give food
+to his (Mani's) Elect will be subjected to the punishments of hell and be
+changed into the bodies of hearers, until he does many works of mercy. For
+this reason, whatever is best among foods they offer to those Elect.
+
+And when they want to eat bread, they first pray, saying this to the bread:
+"I did not reap you, nor grind you, nor knead you, nor put you in the oven;
+another made you and brought you to me; I eat you without guilt." And when
+he has said this to himself, he answers the one who brought it: "I have
+prayed for you"; and so that one goes away. For, as I told you a little
+before, if anyone reaps, he will be reaped; so too, if anyone puts corn into
+the mill, he will himself be put into the mill; or if he kneads, he will be
+kneaded; or if he bakes bread, he will be baked; and for this reason it is
+forbidden among them to do work.
+
+And again they say that there are other worlds besides this one we see, on
+which the lights of this world rise when they set here. And they say that
+if anyone walks on the earth, he hurts the earth; and whoever moves his hand
+hurts the air, because the air is the soul of men and animals and birds and
+fishes and creeping things and whatever is in this world. For I told you
+that this body is not of God, but is of matter and of darkness, and so it
+must be darkened.
+
+*(Chapter 11.)* The so-called Paradise is the world. The trees in it are
+the desires and the other seductions that corrupt men's thoughts. But that
+tree in Paradise from which the good is known is Jesus himself, and his
+knowledge, which is in the world; whoever receives it distinguishes good
+from evil. The world itself is not God's either, but was formed out of a
+part of matter, and so all things are destroyed. What the princes stole
+from the First Man is what fills the moon, what is purified every day from
+the world. And if a soul goes out that has not known the truth, it is
+handed over to the demons, to be tamed in the hell of fire; and after it has
+been chastised, it is poured over into other bodies, to be tamed, and so it
+is thrown into that great fire until the end.
+
+Of the prophets who are among you he says this: that they are spirits of
+the impiety, or lawlessness, of that darkness which rose up in the
+beginning; deceived by it, they did not speak in truth; for that prince
+blinded their mind. And if anyone follows their words, he will die for
+ever, bound in the mass, because he has not learned the knowledge of the
+Paraclete.
+
+He commanded his Elect alone, who are no more than seven in number, that
+when they have finished eating they should pray, and put on their heads oil
+over which spells have been spoken, calling on many names, to strengthen
+this faith; but he did not reveal the names to me, for only those seven use
+these names. And again, the name Sabaoth, which is great and honoured among
+you, he says is the nature of man and the father of desire; and that is
+why, he says, the simpler people worship desire, thinking it a god.
+
+*(Chapter 12.)* Of how Adam was made, he says this: that the one who said,
+"Come, let us make man in our image and likeness", and after the form we
+have seen, is the prince, who says this to the princes his colleagues:
+"Come, give me of the light we have received, and let us make (man) after
+our form, we who are princes, and after the form we have seen, which is the
+First Man"; and so they made man. They made Eve likewise, giving her of
+their desire to deceive Adam; and through these things the fashioning of
+the world came about by the creation of the prince.
+
+(He says) that God has no part with the world and does not rejoice over it,
+because from the beginning he was robbed by the princes and trouble arose
+for him. For this reason he sends and steals from them his soul every day
+through these lights, that is, the sun and the moon, by which the whole
+world and all creation are carried off. The one who spoke with Moses and
+the Jews and the priests he says is the prince of darkness; and so the
+Christians, the Jews and the pagans are one and the same, worshipping the
+same god; for he deceives them in his desires, since he is not the god of
+truth. Therefore all who hope in that god who spoke with Moses and the
+prophets must be handed over to chains with him, because they did not hope
+in the God of truth; for that one spoke with them according to his own
+desires.
+
+*(Chapter 13.)* After all this, at the last, he says, as the Elder himself
+wrote: when he has made his image manifest, then the Omophoros himself lets
+the earth go from him, and so that great fire is let loose which consumes
+the whole world; then again they let down the mass (Greek *bōlos*), which
+is thrown into the midst of the new age, so that all the souls of the
+sinners may be bound for ever. These things will happen when the Statue
+comes.
+
+All the emanations are: Jesus in the small ship, and the Mother of Life,
+and the twelve helmsmen, and the Maiden of Light, and the third Elder.
+Hence the Living Spirit, too, is set in the larger ship, and the wall of
+that great fire, and the wall of wind and of air and of water and of the
+inner living fire, all of which dwell in the moon (the small light), until
+the fire consumes the whole world; in how many years, I have not learned.
+And after this there will be the restoration of the two natures: the
+princes will dwell in their lower parts, and the Father in the higher,
+receiving back what is his own.
+
+This is all the teaching that he handed on to his three disciples, and he
+told them to set out for the three regions of the world. Of these, Adda was
+allotted the parts of the East, Thomas received the lands of the Syrians,
+and Hermas set out for Egypt; and to this day they live there, for the sake
+of preaching this doctrine.
+
 ## Notes to this edition
 
 - **The opening of the letter** follows the form of Paul's letters, as
@@ -179,9 +298,16 @@ Omophoros is shaken too. This is the cause of death.
 - **"The prince of the harvest"**: the Latin translator read the Greek
   *limos* ("famine") where Epiphanius has *loimos* ("plague"), so the Latin
   has "famine"; both are given.
-- **Turbo's account goes on** (chapters 10–13) to the transmigration of
-  souls, the rules for the Elect and the hearers, the prayers, and the end
-  of the world; those chapters are not yet translated here.
+- **"No more than seven in number"** (chapter 11): the Greek of
+  Epiphanius has the same number. It may be a misunderstanding of a rank
+  of the Elect; elsewhere the Elect are many.
+- **The bread prayer** (chapter 10) is the Elect's apology to the food
+  they eat, known also from Augustine and the Coptic *Kephalaia*.
+- **"The Statue"** (chapter 13, Latin *statua*, Greek *andrias*) is the
+  Last Statue, the final gathering of the light that rises at the end.
+- **The three disciples** Adda, Thomas and Hermas: Adda (Addai) is the
+  disciple of the Chinese [Traité](traite.html); Thomas is the Thomas of
+  the Coptic *Psalms of Thomas*.
 - **The wheel with twelve buckets, the ships of light, the Column of Glory
   and the seducing Maiden** are the same images as in the Coptic, Iranian
   and Chinese texts; compare [Theodore bar Konai](theodore-bar-konai.html)
