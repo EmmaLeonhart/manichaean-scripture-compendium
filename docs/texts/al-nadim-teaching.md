@@ -1,11 +1,11 @@
 ---
-title: "Mani's teaching in al-Nadīm: the two principles, the world and the first humans"
+title: "Mani's life and teaching in al-Nadīm"
 text: true
 group: scripture
 order: 96
-summary: Al-Nadīm's report, often in Mani's own words ("Mani teaches…"), of the two principles of light and darkness, the First Man's battle, the mixture of the five elements, the building of the world, the sun and moon, the great fire, the making of Adam and Eve and their children, the lands of light and darkness, how one enters the religion, and the three ways of the soul at death.
+summary: Al-Nadīm's account of Mani's life and call, and his report, often in Mani's own words ("Mani teaches…"), of the two principles of light and darkness, the First Man's battle, the mixture of the five elements, the building of the world, the sun and moon, the great fire, the making of Adam and Eve and their children, the lands of light and darkness, how one enters the religion, and the three ways of the soul at death.
 original_language: Arabic
-source: 'Ibn al-Nadīm, Kitāb al-Fihrist (987), chapter on the Manichaeans, as translated into German by G. Flügel, Mani, seine Lehre und seine Schriften (Leipzig 1862), pp. 86–95 and 100–101 (archive.org `maniseinelehreu00manegoog`) (public domain). New English translation from Flügel''s German.'
+source: 'Ibn al-Nadīm, Kitāb al-Fihrist (987), chapter on the Manichaeans, as translated into German by G. Flügel, Mani, seine Lehre und seine Schriften (Leipzig 1862), pp. 83–95 and 100–101 (archive.org `maniseinelehreu00manegoog`) (public domain). New English translation from Flügel''s German.'
 rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (made from Flügel's 1862 German; not checked against the Arabic or a modern translation)."
 ---
 
@@ -16,7 +16,7 @@ teaching, much of it introduced as Mani's own words: "Mani teaches …",
 "Mani says further …". It is the fullest account of the Manichaean myth
 that survives in Arabic, and it agrees closely with the Turfan fragments
 (compare [the Šābuhragān](shabuhragan.html) and [the building of the
-world](turfan-cosmogony.html)). This page gives the part on the two
+world](turfan-cosmogony.html)). This page gives the account of Mani's life and call, and the part on the two
 principles, the battle of the First Man, the mixture, the making of the
 world and the end; the making of Adam and Eve and the story of their
 children; the lands of light and of darkness; and how a person should enter
@@ -28,6 +28,84 @@ law Mani gave, are on [a separate page](al-nadim-books.html).
 added for sense.
 
 ## The translation
+
+### The life of Mani
+
+Muḥammad ibn Isḥāq (al-Nadīm) says: Mani, the son of Futtaq Bābak ibn Abī
+Barzām, was descended from the family of the Ḥaskāniyya. His mother's name
+was Mais, or according to others Ūtāxīm, or Mār Maryam, of the family of the
+Ašġāniyya. Mani, it is said, had his home in Kūxā (Coche), in the region
+that borders on Bādarāyā and Bākusāyā, and he had a lame (turned-in) leg.
+His father, it is said, traced his origin to Hamadān. From there he went to
+Babylonia and usually stayed in al-Madāʾin, in the quarter called Ctesiphon.
+There stands the temple of idols that Futtaq used to visit, as the other
+inhabitants did.
+
+One day a voice called to him from the innermost sanctuary of the temple:
+"O Futtaq, eat no meat, drink no wine, and keep away from women." Three days
+in a row this call came to him again and again. When Futtaq had thought
+about it, he joined people who lived in the region of Dastumaisān and are
+known as the *Muġtasila*, "those who wash themselves". Remnants of them are
+still in that district and in the marshlands down to this day. They
+professed the teaching that Futtaq had been called to accept.
+
+When his wife, who was pregnant with Mani, had given birth to him, they
+say, she had fine dreams about him, and saw, while awake, as if someone took
+him, carried him off into the air, and then brought him back. Sometimes he
+stayed away a day or two, then (the other) brought him back.
+
+Later his father went away and brought him to a place where he had
+relatives, who were also of his faith. Mani spoke words of wisdom although
+he was a child; and when he had completed his twelfth year, he received, as
+he put it, inspirations from the King of the Paradises of Light, who in his
+own words is God the Exalted. The angel who brought him these inspirations
+was called at-Tawm, which in Nabataean means "companion". He said to him:
+"Leave this community of faith. You do not belong among its followers; your
+task is purity of life and the subduing of the desires. But because of your
+youth it is not yet time for you to come forward." When he had completed
+his twenty-fourth year, the angel at-Tawm came to him again and said: "Now
+the time has come for you to come forward openly and proclaim your own
+teaching aloud."
+
+The words that the angel at-Tawm spoke to him were these: "Greetings to
+you, Mani, from me and from the Lord who has sent me to you and chosen you
+for his mission. He commands you to call (people) to your teaching, and to
+proclaim the glad promise of the truth that comes from him, and to give all
+your zeal to it."
+
+Mani, the Manichaeans relate, came forward openly on the day when Šābūr
+son of Ardašīr came to the throne and set the crown on his head (it was a
+Sunday, the first day of Nīsān, while the sun was in Aries), accompanied by
+two men who followed him and were adherents of his teaching, the one named
+Šamʿūn (Simeon), the other Zakū. His father also went with him, to see how
+his new teaching would be received.
+
+Muḥammad ibn Isḥāq reports: Mani came forward in the second year of the
+reign of the Roman Gallus, after Marcion had appeared about a hundred years
+before him, in the reign of Titus Antoninus, in the first year of his rule,
+and Ibn Daiṣān (Bardaisan) about thirty years after Marcion. Ibn Daiṣān got
+his name from being born on a river called Daiṣān.
+
+Mani claimed that he was the Paraclete whom Jesus, peace be upon him, had
+announced. He drew his teaching from the Magians and the Christians, and in
+the same way the script in which the (Manichaean) religious books were
+written is borrowed from the Syriac and the Persian.
+
+Before Mani had his meeting with Šābūr, he travelled through the lands for
+about forty years, and after his return he invited Fīrūz, the brother of
+Šābūr son of Ardašīr, to accept his teaching. Fīrūz also arranged Mani's
+introduction to his brother Šābūr. And, the Manichaeans add, he came in to
+him while on his shoulders two (things) shone like lamps of light. When
+Šābūr saw him, he showed him great respect, and Mani grew in his esteem,
+although he had resolved to seize him and kill him. But when he stood
+before him, awe of him took hold of him, and he was glad of him and asked
+him what he brought him, and even promised to be converted to him. Mani
+asked him for a number of things, among them that his disciples should be
+respected in Persia and in all the other lands of his kingdom, and that
+they should be able to go wherever they wished. Šābūr granted him all that
+he asked. Mani had also already called the Indians, the Chinese and the
+people of Khorasan to accept his teaching, and had left one of his
+disciples in each region.
 
 ### The two principles
 
@@ -411,4 +489,9 @@ page](shabuhragan.html).)
 - **"The second form"** (entering the religion): the hearer who cannot live
   as an Elect will have the "second" rank at the Last Day; al-Nadīm promises
   to explain it later in his chapter.
+- **Mani's life**: al-Nadīm's dates (Mani coming forward on the day of
+  Shapur's coronation, after travelling for forty years) and names (the
+  angel *at-Tawm*, "the Twin"; the baptist sect of the *Muġtasila*, among
+  whom Mani grew up) agree in substance with the Cologne Mani-Codex,
+  which was found only in 1969.
 - **The Humāma** is the "spirit of darkness", the soul of matter.

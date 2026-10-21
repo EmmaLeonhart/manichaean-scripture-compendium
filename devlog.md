@@ -106,3 +106,4 @@
 - 2026-10-21 New page `docs/texts/al-nadim-teaching.md`: CC BY English draft of al-Nadīm's report of Mani's teaching (two principles, Satan and the First Man, the mixture, the building of the world, sun and moon, the great fire and the end), from Flügel pp. 86–90.
 - 2026-10-21 `al-nadim-teaching`: added al-Nadīm on the first humans (Adam, Eve, Cain, Abel, the Wise of the World, Seth), the lands of light and darkness, and how to enter the religion (Flügel pp. 90–95).
 - 2026-10-21 `al-nadim-teaching`: added al-Nadīm on the life to come (the three ways of the soul at death: Elect, hearers, sinners), Flügel pp. 100–101.
+- 2026-10-21 `al-nadim-teaching`: added al-Nadīm on Mani's life and call (Futtaq, the Muġtasila, the angel at-Tawm, Shapur), Flügel pp. 83–86. The al-Nadīm chapter is now translated except the history of the leaders and the polemical notes.
