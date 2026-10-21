@@ -22,6 +22,7 @@ Status key: **done** (on the site), **draft** (on the site, not yet checked),
 | Psalms and Prayers | Seven treatises | Turfan hymns and prayers (Müller 1904, public domain; scan found: archive.org `abhandlungenderk1904kn`, the 1904 Abhandlungen of the Prussian Academy, which contains *Handschriften-Reste in Estrangelo-Schrift*). Boyce 1954 is not public domain. — |
 | Arzhang (Book of Pictures) | Mani's picture book | Lost. See Visual art. |
 | Shabuhragan | Mani's Middle Persian book for Shapur I | al-Bīrūnī's quotations are **done**. Turfan fragments: **draft** (`shabuhragan`, new English from Müller 1904's readings and German: M 475, 477, 482, 472, 470, 473). |
+| (quotations) | Severus of Antioch, Homily 123 | **draft** (`severus-quotations`, from Kugener & Cumont 1912, archive.org `MN41725ucmf_0`). Evodius: **draft** (`evodius-quotations`). |
 
 ## Extracanonical literature
 
