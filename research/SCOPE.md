@@ -24,6 +24,7 @@ Status key: **done** (on the site), **draft** (on the site, not yet checked),
 | Shabuhragan | Mani's Middle Persian book for Shapur I | al-Bīrūnī's quotations are **done**. Turfan fragments: **draft** (`shabuhragan`, new English from Müller 1904's readings and German: M 475, 477, 482, 472, 470, 473). |
 | (quotations) | Severus of Antioch, Homily 123 | **draft** (`severus-quotations`, from Kugener & Cumont 1912, archive.org `MN41725ucmf_0`). Evodius: **draft** (`evodius-quotations`). |
 | (quotations) | Theodore bar Konai, Book of Scholia XI | **draft** (`theodore-bar-konai`, from Pognon 1898, archive.org `inscriptionsmand00pognuoft`). |
+| (related) | Acta Archelai: the letter to Marcellus and Turbo's report | **draft** (`acta-archelai`, chapters 5 and 7–9, new translation from Beeson's Latin 1906, archive.org `actaarchelaihrsg00hegeuoft`); chapters 10–13 still to do. Not on the Wikipedia list; filed as related. |
 
 ## Extracanonical literature
 
