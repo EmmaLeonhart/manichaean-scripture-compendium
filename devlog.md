@@ -78,3 +78,4 @@
 - 2026-10-21 New page `docs/texts/turfan-gospel-epistles.md`: CC BY English draft of Turfan M 17 (the opening of the Living Gospel, "I, Mani, the apostle of Jesus the Friend"), M 733 and M 731 (extracts from the Epistles), from Müller 1904.
 - 2026-10-21 New page `docs/texts/turfan-cosmogony.md`: CC BY English draft of the Middle Persian cosmogony M 98–99 (the sun and moon as ships of light, the heavens, earths, walls and prisons), from Müller 1904.
 - 2026-10-21 New page `docs/texts/turfan-hymnbook-m4.md`: CC BY English draft of the hymnbook M 4 (hymns of the last days, body and soul, the going out; Mani's hymn of Babel; prayers to the angels), from Müller 1904.
+- 2026-10-21 New page `docs/texts/turfan-mani-legends.md`: CC BY English draft of M 3 (Mani at the court), M 47 (Mihršāh's garden, and the parable of the lamps), from Müller 1904.
