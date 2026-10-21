@@ -53,6 +53,8 @@ public repository at https://manichaeism.order.life.
   stops at 3pm tomorrow". This includes checking the Traité. One-shot crons
   open the window at 06:00 and close it at 15:00. Until then, loop ticks do
   only non-translation queue items.
+  The window closed at 2026-10-21 14:59 PST (closing cron). No further translation
+  work until the user says otherwise.
 - **No DNS work until 2026-10-21 about 11:35 PST.** User, 2026-10-20: "ignore
   dns stuff for 24 hours". Don't raise it or work on it before then.
 - **Manichaean art from Wikimedia Commons.** User, 2026-10-20: "we download
