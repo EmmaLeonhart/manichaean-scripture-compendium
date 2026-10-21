@@ -528,8 +528,8 @@ free, is without fear for ever, and has constant joy, peace and purity.
 
 ### 13. The days of light and the nights of darkness in the body
 
-"Again, in the dark body of the Demon, the Light-Nous makes the great suns
-of the light of wisdom shine through, and subdues the two kinds of dark
+"Again, in the dark body of the Demon, the Light-Nous makes three great
+days of the light of wisdom shine through, and subdues the two kinds of dark
 night of ignorance, copying the supreme signs of the light.
 
 "The first day is the Light-Nous. Its twelve hours are the twelve great
@@ -546,7 +546,8 @@ sons of light of the First Thought and the five of the Living Spirit,
 together with Xrōštag and Padvāxtag. Together these make thirteen pure
 bodies of light, and form one day.
 
-"The third day is the voice of the Call and the Answer. Its twelve hours are
+"The third day is Preaching and Hearing, and the voice of the Call and the
+Answer. Its twelve hours are
 the wondrous Sense, Mind, Thought, Reflection and Intention, together with
 Compassion, Faith, Perfection, Patience and Wisdom. This is the Call and
 Answer.
@@ -881,9 +882,14 @@ accepted it according to the Law, and joyfully put it into practice.
   read as 憎上, "resentment of superiors". In the tree of Sense, 羔眾 is
   read with them as "praise from all", taking 羔 as a slip for 美. They
   suspect "done first and regretted after" is an interpolation.
-- **§13, "the great suns"**: the text says 三大光明惠日, "three great suns of
-  light", but goes on to list four days. The number is left out of the
-  translation.
+- **§13, "three great days"**: the text says 三大光明惠日 but goes on to
+  list four days. Chavannes and Pelliot also translate "three", so the
+  number is kept as written. In the third day, 說聽 ("Preaching and
+  Hearing") is restored; Chavannes and Pelliot think the passage is
+  corrupt and read it as the Caller and the Answerer.
+- **§14, "Equality"** (平等): Chavannes and Pelliot note that when the list
+  comes back in §15 the sixth form is Truth (真實), which agrees with the
+  Syriac and Middle Persian lists and is probably the original reading.
 - **§17, "the [high] way"**: the manuscript has 缶道, "jar way", which is
   probably a copying error. "High" is a guess and is marked as one.
 - **§15.4, "eat twice"**: 言通再受 is obscure. Chavannes and Pelliot take it
