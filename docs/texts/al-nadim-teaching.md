@@ -5,7 +5,7 @@ group: scripture
 order: 96
 summary: Al-Nadīm's account of Mani's life and call, and his report, often in Mani's own words ("Mani teaches…"), of the two principles of light and darkness, the First Man's battle, the mixture of the five elements, the building of the world, the sun and moon, the great fire, the making of Adam and Eve and their children, the lands of light and darkness, how one enters the religion, and the three ways of the soul at death.
 original_language: Arabic
-source: 'Ibn al-Nadīm, Kitāb al-Fihrist (987), chapter on the Manichaeans, as translated into German by G. Flügel, Mani, seine Lehre und seine Schriften (Leipzig 1862), pp. 83–95 and 100–101 (archive.org `maniseinelehreu00manegoog`) (public domain). New English translation from Flügel''s German.'
+source: 'Ibn al-Nadīm, Kitāb al-Fihrist (987), chapter on the Manichaeans, as translated into German by G. Flügel, Mani, seine Lehre und seine Schriften (Leipzig 1862), pp. 83–95 and 97–101 (archive.org `maniseinelehreu00manegoog`) (public domain). New English translation from Flügel''s German.'
 rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (made from Flügel's 1862 German; not checked against the Arabic or a modern translation)."
 ---
 
@@ -411,6 +411,88 @@ humility; for that makes him content in this passing world and in the
 eternal world to come, and his form on the Last Day will be the second
 form, of which, God willing, we shall speak further below.
 
+### The different opinions of the Manichaeans about the leadership after Mani's death
+
+The Manichaeans relate: When Mani was raised up into the Paradises of Light,
+he appointed Sīs as leader (imam) after him, before he was raised up. Sīs
+kept up the religion of God and its purity until he died, and the leaders
+took over the religion one from another, without any difference of opinion
+arising among them, until there came out of them a breakaway sect, known by
+the name of the Dēnāwarīya, who found fault with their leader and refused
+him obedience. The seat of the leader was held to be fully lawful only in
+Babylon, and no leader was allowed to have his seat in another city. That
+sect, however, contradicted this rule, and its followers kept up their
+opposition, which it would be useless to describe further here, against it
+and against other claims, until the whole leadership came to Mihr, which
+happened under the reign of al-Walīd ibn ʿAbd al-Malik, when Khālid ibn
+ʿAbdallāh al-Qasrī was governor of Iraq.
+
+Then a man named Zād-Hurmuz joined them; he stayed with them for a time,
+but then left them. He was a man richly blessed with worldly goods. He
+renounced them and turned to the class of the righteous (the Elect). But
+there too he claimed to see things that he had to reject, and meant to go
+over to the Dēnāwarīya, who had their seat beyond the river of Balkh. So he
+came to al-Madāʾin, where there was a secretary of al-Ḥajjāj ibn Yūsuf who
+had great wealth. The two were on friendly terms, and Zād-Hurmuz told the
+secretary of his plan, and of the reason that had driven him out of the
+main community, and that he wanted to go to Khorasan to join the
+Dēnāwarīya. The secretary said to him: "I am your Khorasan; I will build
+you the temples and provide you with what you need." So he kept him with
+him and built him the temples.
+
+Zād-Hurmuz then wrote to the Dēnāwarīya to ask them for a leader whom he
+could appoint. They wrote back that it was not lawful for the seat of the
+head to be anywhere but in the middle of the kingdom, in Babylon. He then
+asked around for someone fit for it, but no one was found except himself.
+So he held the office himself; and when he saw his dissolution coming, that
+is, when death drew near, they begged him to appoint them a leader. "That
+is Miqlāṣ," he replied; "you know his worthy conduct; I am content with him
+and trust his management for your good." When Zād-Hurmuz had died, they
+unanimously handed the leadership to Miqlāṣ.
+
+### The split of the Manichaeans into two sects, the Mihrīya and the Miqlāṣīya
+
+Miqlāṣ departed from the main community even in matters of religion, for
+example in the social ordinances, until Abū Hilāl ad-Dayḥūrī came from
+Africa and the leadership of the Manichaeans passed to him, which happened
+in the days of Abū Jaʿfar al-Manṣūr. He called on the followers of Miqlāṣ
+to give up what Miqlāṣ had prescribed to them about the social ordinances,
+and they obeyed him in this. Then, during this time, a man named Buzurgmihr
+appeared among the Miqlāṣites; he made a number of them his followers and
+brought in strange things as innovations. This state of things did not end
+among them until the leadership came to Abū Saʿīd Raḥā. He brought them
+back to the view of the Mihrīya about the social ordinances, and so their
+faith and their state remained unchanged, until, under the caliphate of
+al-Maʾmūn, a man appeared among them whose name, I think, was Yazdānbaxt
+("God's fortune"). He was of another opinion in everything, and tried to win
+them by cunning; and a small group among them inclined to him.
+
+Among the things with which the Miqlāṣīya reproach the Mihrīya is that they
+claim that Khālid al-Qasrī set Mihr on a mule, gave him a silver seal-ring
+and dressed him in coloured clothes. The head of the Miqlāṣīya under the
+reigns of al-Maʾmūn and al-Muʿtaṣim was Abū ʿAlī Saʿīd, who was followed
+later by his secretary Naṣr ibn Hurmuzd of Samarqand. They allowed the
+members of the sect, and those entering it, things forbidden in the
+religion, kept company with the sultans and ate together with them. One of
+their leaders was also Abū l-Ḥasan ad-Dimašqī (of Damascus).
+
+### Mani's death, and his opinion of the prophets
+
+Mani was killed under the reign of Bahrām son of Šābūr; and when this had
+been done, he had him crucified and hung up in two halves, each half at a
+different gate of the city of Jundaišābūr; the two places are called the
+upper Mar (passage) and the lower Mar. Others relate that Šābūr shut him in
+a prison, and that when Šābūr died, Bahrām (?) freed him from it. Others
+again: on the contrary, he died in prison. But that he was crucified is
+beyond doubt. According to some he had turned-in legs; according to others
+only the right leg was turned in.
+
+Mani treated all the prophets disrespectfully in his books, belittled them,
+accused them of lying and claimed that devils had taken hold of them and
+spoke out of their mouths; indeed in some places in his books he says
+outright that they were devils. ʿĪsā (Jesus), who is held in high honour
+among us and the Christians, he claims was a devil.
+
 ### The teaching of the Manichaeans on the life to come
 
 When death draws near to one of the righteous (the Elect), Mani teaches,
@@ -494,4 +576,12 @@ page](shabuhragan.html).)
   angel *at-Tawm*, "the Twin"; the baptist sect of the *Muġtasila*, among
   whom Mani grew up) agree in substance with the Cologne Mani-Codex,
   which was found only in 1969.
+- **The leadership after Mani** (pp. 97–99): this part is al-Nadīm's
+  history of the Manichaean church under the Umayyads and Abbasids. Mani's
+  successor *Sīs* is Mār Sīsin (see the [Hymnscroll](hymnscroll.html),
+  hymn 3); the *Dēnāwarīya* are the eastern Manichaeans of Transoxania.
+- **"Jesus … a devil"**: al-Nadīm's report is hostile. The Manichaean texts
+  distinguish the divine Jesus, whom they praise, from the Jesus of the
+  Jews; compare the Fundamental Epistle on the crucifixion, quoted by
+  [Evodius](evodius-quotations.html).
 - **The Humāma** is the "spirit of darkness", the soul of matter.
