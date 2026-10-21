@@ -5,7 +5,7 @@ group: extracanonical
 order: 80
 summary: Uyghur Manichaean pieces from Qočo, with a saying that this made earth is not eternal, a blessing on the hearers gathered in the Manistan, a colophon naming an Uyghur khan and his court, a fragment on the drying world, and a dialogue in which the monk Ānanda asks the Burxan who falls into the three evil ways.
 original_language: Old Turkish (Uyghur)
-source: 'Turfan manuscripts in Le Coq''s nos. 26–39 (T M 164, 174, 279, 278, 288, T I D 1, T M 137 and others) (Berlin), as read and translated into German by A. von Le Coq, "Türkische Manichaica aus Chotscho. III", Abhandlungen der Preußischen Akademie der Wissenschaften 1922, Phil.-hist. Klasse Nr. 2 (archive.org `AbhandDerPreussAkadDerWissen1922`) (public domain). New English translation.'
+source: 'Turfan manuscripts in Le Coq''s nos. 26–40 (T M 164, 174, 279, 278, 288, T I D 1, T M 137 and others) (Berlin), as read and translated into German by A. von Le Coq, "Türkische Manichaica aus Chotscho. III", Abhandlungen der Preußischen Akademie der Wissenschaften 1922, Phil.-hist. Klasse Nr. 2 (archive.org `AbhandDerPreussAkadDerWissen1922`) (public domain). New English translation.'
 rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (made from Le Coq's 1922 German; not checked against a modern edition)."
 ---
 
@@ -115,6 +115,29 @@ evil deeds and does not feel boundless fear and remorse, that living being
 falls into the three evil ways." And again Ānanda: "I, through the great
 merciful knowledge [ … ] evil deeds [ … ] the son of man [ … ]"
 
+### A Manichaean book in Indian form (no. 40)
+
+*A small book of loose leaves in the Indian manner (pothī), in Manichaean
+script with unusual spellings, found in the rubble of a guard-house on the
+wall of Qočo. Le Coq describes it but gives its text only in transcription,
+without a translation.*
+
+The top leaf has a miniature: an Elect (or a cleric) sitting or kneeling
+under a tree, with something hanging behind him from a branch; before him
+a kind of altar, desk or throne, on which a green bird (?) can faintly be
+seen; he sits on a carpet patterned with water. Below, two kneeling figures
+dressed in white, probably the donors, with a turned wooden censer between
+them. Le Coq thought the whole late in date and plainly influenced by
+Chinese painting.
+
+The other side of the leaf begins with an invocation in red and black
+letters to "my father, Mani the Burxan". Le Coq took the whole to be a
+hymn, and noted that it is the first Manichaean text in Manichaean script
+known in the form of an Indian book, with many purely Buddhist terms
+(*nom ärdini*, "jewel of the Law"; *višaya*; *nirvana*; *samsara*). He saw in
+it a sign that, in later times at least, Manichaeans living among Buddhists
+stressed the Buddhist side of their faith.
+
 ## Notes to this edition
 
 - **The *Manistan*** is the Manichaean monastery or meeting-house; the
@@ -125,6 +148,10 @@ merciful knowledge [ … ] evil deeds [ … ] the son of man [ … ]"
   have been written in memory of a dead son, for the good of his soul.
   Le Coq notes that a scribe of the same name, Aïduq, wrote the colophon of
   T II D 171 ([Old Turkish texts from Qočo](turkish-manichaica-1.html)).
+- **The last leaf of Le Coq's volume**, a Turkish text from the Christian
+  monastery at Bulayïq that invokes Mar Giorgis (Saint George) and names a
+  metropolitan and a bishop, is Christian, not Manichaean, and is not given
+  here.
 - **Ānanda and the Burxan**: Ānanda is the Buddha's disciple; the dialogue
   follows Buddhist models, and Le Coq counted it among the most strongly
   Buddhist-influenced Manichaean texts. "The three evil ways" are the
