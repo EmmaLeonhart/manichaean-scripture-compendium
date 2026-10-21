@@ -8,10 +8,8 @@ the next item.
 
 4. **[Translation] Finish checking the Traité** against Chavannes & Pelliot.
    The 1911 part is OCR'd at archive.org `in.gov.ignca.26273` (the Traité
-   starts at p. 509). Checked: §§1–11 and the fourth sign of §15. To check:
-   §§12–14 and the rest of §15 (OCR lines about 29400–31000), then whatever
+   starts at p. 509). Checked: §§1–14 and the fourth sign of §15. To check:
+   the rest of §15 (OCR lines about 29640–31000), then whatever
    is in the 1913 part (JA 11e sér. 1, still to be found).
-5. **[Translation] Manichaean Compendium**: new translation from CBETA
-   T54n2141A.
 6. **[Translation] Xiabuzan (Hymnscroll)**: new translation from CBETA
    T54n2140, in sections.

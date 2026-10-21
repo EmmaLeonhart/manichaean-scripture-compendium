@@ -36,7 +36,7 @@ quotations by other writers.
 | Cologne Mani-Codex | Planned |
 | Medinet Madi library | Planned (Psalm Book, Kephalaia, Homilies) |
 | Xiabuzan (Hymnscroll) | Planned |
-| Manichaean Compendium | Planned |
+| Manichaean Compendium | [The Compendium of the Teaching of Mani](compendium.html) (new translation, draft; London part) |
 | Incomplete scripture of Manichaeism (Traité) | [The Sermon of the Light-Nous](traite.html) (new translation, draft) |
 | Irk Bitig | [The Book of Omens](irk-bitig.html) (public domain translation) |
 | Turpan Manichaean texts | Planned |
