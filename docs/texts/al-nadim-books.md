@@ -3,9 +3,9 @@ title: "Mani's books and letters: al-Nadīm's list"
 text: true
 group: scripture
 order: 95
-summary: The list of Mani's books, the chapters of his Book of Mysteries, and the titles of seventy-six letters by Mani and the leaders after him, from al-Nadīm's Fihrist (10th century).
+summary: The list of Mani's books, the chapters of his Book of Mysteries, the titles of seventy-six letters by Mani and the leaders after him, and the commandments, prayers and fasts Mani laid down, from al-Nadīm's Fihrist (10th century).
 original_language: Arabic
-source: 'Ibn al-Nadīm, Kitāb al-Fihrist (987), chapter on the Manichaeans, as translated into German by G. Flügel, Mani, seine Lehre und seine Schriften (Leipzig 1862), pp. 102–105 (archive.org `maniseinelehreu00manegoog`) (public domain). New English translation from Flügel''s German.'
+source: 'Ibn al-Nadīm, Kitāb al-Fihrist (987), chapter on the Manichaeans, as translated into German by G. Flügel, Mani, seine Lehre und seine Schriften (Leipzig 1862), pp. 95–97 and 102–105 (archive.org `maniseinelehreu00manegoog`) (public domain). New English translation from Flügel''s German.'
 rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (made from Flügel's 1862 German; not checked against the Arabic or a modern translation)."
 ---
 
@@ -16,7 +16,8 @@ in 987. Its chapter on the Manichaeans, based on Manichaean sources and on
 his own meetings with Manichaeans in Baghdad, is one of the main witnesses
 to Mani's teaching. This page gives the part that lists Mani's books, the
 chapters of the *Book of Mysteries*, and the titles of the letters "which
-Mani and the leaders after him wrote". For most of the books, this list and
+Mani and the leaders after him wrote", and the section on the law Mani gave
+his followers: the commandments, the daily prayers and the fasts. For most of the books, this list and
 a few quotations are all that survive.
 
 **This translation is a draft.** It is made from Gustav Flügel's German of
@@ -152,6 +153,80 @@ Besides these, the following letters are also mentioned:
 75. The letter to Simeon and Rāmīn.
 76. The letter of ʿAbdīlāl on clothing.
 
+### The law that Mani gave, and the commandments he laid down
+
+Mani laid commandments on his disciples, (among them) ten commandments for
+the hearers, to which are joined three seals and a fast of seven days in
+every month without fail.
+
+The commandments are these: faith in the four great majesties, God, his
+Light, his Power and his Wisdom. God, whose name is glorious, is the King
+of the Paradises of Light; his Light is the sun and the moon; his Power is
+the five angels, the gentle breeze, the wind, the light, the water and the
+fire; and his Wisdom is the holy religion. This comprises five ranks: the
+teachers, who are the sons of gentleness; those lit by the sun, who are
+the sons of knowledge; the presbyters, who are the sons of reason; the
+righteous (the Elect), who are the sons of the mystery; and the hearers,
+who are the sons of insight.
+
+The ten commandments are: to give up the worship of idols; lying; avarice;
+killing; adultery; theft; the teaching of deceitful pretexts and magic;
+holding to a double mind, which betrays doubt about the religion; slackness
+and sluggishness in action; and the commandment of the four or seven
+prayers.
+
+(At prayer) a man shall stand upright, rub himself with running water or
+with something else, and turn, standing, towards the great light. Then he
+shall prostrate himself and say in prostration: "Blessed be our guide, the
+Paraclete, the Envoy of Light; blessed be his angels, the guardians; and
+highly praised be his shining hosts." He says this while he lies
+prostrate; then he rises, and does not stay longer in prostration, but
+holds himself upright.
+
+At the second prostration he says: "You highly praised one, O shining one,
+Mani, our guide, you root of enlightenment, branch of honour, you great
+tree that are wholly healing."
+
+At the third prostration he says: "I fall down and praise, with a pure
+heart and a sincere tongue, the great God, the Father of the Lights and
+their element, highly praised, blessed, you and all your greatness and
+your blessed worlds, which you have called. Whoever praises you praises
+your hosts, your righteous ones, your word, your greatness and your good
+pleasure, because you are the God who is wholly truth, life and
+righteousness."
+
+At the fourth prostration he says: "I praise and fall down before all the
+gods, all the shining angels, all the lights and all the hosts that are
+from the great God."
+
+At the fifth prostration he says: "I fall down and praise the great hosts
+and the shining gods, who with their wisdom press upon the darkness, drive
+it out and overcome it."
+
+At the sixth prostration he says: "I fall down and praise the Father of
+Greatness, the exalted, the shining, who has come from the two kinds of
+knowledge," and so on up to the twelfth prostration.
+
+As soon as he has finished the ten prayers, he begins another prayer, and
+in it they speak praises which there is no need for us to repeat.
+
+The first prayer is said when the sun leaves the noon point; the second
+between this time and sunset; then follows the prayer at evening after
+sunset; and then the prayer in the first third of the night, three hours
+after sunset. At every prayer and prostration the one who prays does just
+as at the first prayer; and that is the prayer of the bringer of good news.
+
+As for the fasts: when the sun is in Sagittarius and the moon is full, they
+fast for two days without a break; and when the new moon begins to shine,
+they also fast for two days without a break. They fast, besides, when the
+moon is first seen again after the sun has entered the sign of Capricorn;
+then, when the new moon begins to shine, the sun is in Aquarius and eight
+days of the month have passed, they fast for thirty days, but break the
+fast every day at sunset.
+
+The ordinary Manichaeans keep Sunday holy, and the initiated keep Monday.
+So Mani commanded them as an unavoidable duty.
+
 ## Notes to this edition
 
 - **Seven books, but six listed.** Al-Nadīm says Mani wrote seven books and
@@ -170,5 +245,9 @@ Besides these, the following letters are also mentioned:
   (*Verführten*) in both places, which does not fit; the class meant beside
   the hearers and the sinners must be the Elect, and the translation gives
   that with a question mark.
+- **The prayers** (the law section): the "Paraclete" is Mani; the twelve
+  prostrations and the four daily prayers are the hearers' rule. Compare the
+  Turkish confession of the hearers ([Xwāstwānīft](xwastwanift.html)), which
+  also speaks of the four prayers, the three seals and the fasts.
 - **Spellings.** The personal and place names are given as Flügel read
   them, simplified; many are uncertain in the Arabic.
