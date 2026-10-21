@@ -6,7 +6,7 @@ order: 33
 summary: The Chinese Manichaean hymnbook from Dunhuang, with hymns to Jesus, a lament on impermanence, invocations of the gods of light and hymns to Mani.
 original_language: Chinese
 source: 'Dunhuang manuscript Stein 2659, British Library; text as printed in Taishō vol. 54, no. 2140 (摩尼教下部讚), via CBETA. New translation.'
-rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft, in progress (hymns 1–12 of the scroll so far; not yet checked against a published translation)."
+rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (complete first pass of the whole scroll; not yet checked against a published translation)."
 ---
 
 ## Introduction
@@ -19,8 +19,7 @@ originals; some passages are Iranian hymns written phonetically in
 Chinese characters, which are given here in transcription and not
 translated.
 
-**This translation is a draft, made for this compendium from the Chinese,
-and it is in progress.** Each line below renders one couplet (two
+**This translation is a draft, made for this compendium from the Chinese.** Each line below renders one couplet (two
 seven-character lines) of the original. Square brackets [ … ] mark gaps in
 the manuscript; parentheses ( ) mark words added for sense. Headings are
 the scroll's own titles.
@@ -1009,6 +1008,239 @@ it has no three disasters and no eight hindrances, and birth, age, sickness and 
 This is the one great power of suchness, which Mani, the Envoy of Light, made known in full;  
 he can open the causes of birth and the true road, so that the holy company may all meet and attain this.
 
+### 13. Closing vows (結願)
+
+**(a) First: for the closing vow at the ten-day fast** (第一旬齋默結願用之).
+
+Praise Mani, King of Complete Wisdom, and the pure bodies of the five lights;  
+praise all the Envoys of Light, and the guardians of the true Law;
+
+all the compassionate fathers of the past, all the *mōžak*s of the past,  
+all the *aftādan*s of the past, all the masters of the halls of the Law of the past,
+
+the men and women of complete precepts who have been set free: may all reach peace and joy, and may all praise them;  
+the hearers who have died and sunk in the round of rebirth: may the holy ones save them and bring them to the other shore.
+
+*The three lines above, with three bows. At "the hearers who have died",
+the names of the dead are sung freely in the foreign tongue, and then the
+following is continued.*
+
+All the believing givers, men and women, who have formed a bond with this true Law,  
+relying on the Venerable of Light and the gate of liberation: may they all be free of the suffering of birth and death.
+
+The merit made today: may the Envoys of Light receive it and welcome it all;  
+all the gods, immortals and good spirits: may they go in peace, and disasters be taken away.
+
+All the halls of the Law and the monasteries: may the buddhas and Envoys of Light shield them,  
+peace within and without, without hindrance, concord above and below, and blessing long.
+
+**(b) Second: for the closing vow on ordinary days** (第二凡常日結願用之).
+
+Praise Mani, King of Complete Wisdom, and the wondrous jewelled body of light;  
+praise the Envoys of Light who guard the Law, and the vast compassionate fathers.
+
+May the *mōžak*s always travel unhindered, and the *aftādan*s dwell in peace wherever they go;  
+may the masters of the halls of the Law have more joy, and the teachers and monks of complete precepts grow in the power of merit;
+
+may the pure maidens be urged to diligence, and the hearers have much awakening;  
+may the holy ones shield the halls of the Law, so that we may always be at ease and without care.
+
+*The three lines above, with three bows. Those standing sing them; when
+they have finished, they join them to the verse before, and the whole
+assembly says with one voice: "We of high form".*
+
+We of high form have awakened to the Venerable of Light, and so we can believe, receive and expound it;  
+since the Great Holy One is the body of good works, may he send down compassion and gladden all.
+
+*When "We of high form" is finished, everyone is silent, and the honoured
+one recites the verse of blessing (阿拂利偈, *āfrīn*), and then closes with
+"Wondrous body of light".*
+
+Wondrous body of light, be quickly set free; may the sins of all the givers be wiped away;  
+may all the teachers, monks and hearers share in the glory of this merit;  
+may the true Law flow freely without hindrance. In the end, in the end, may it be so.
+
+**(c) This verse praises the Venerable of Light; it is used for the final
+closing vow.**
+
+Great true Lord, twelve kings of light, many wondrous worlds, lands like
+specks of dust, ever-living wondrous Air, praiseworthy Earth; maker of
+light, Venerable Mani, Buddha: forgive all our sins, bounded or unbounded,
+done sometimes of our own will and sometimes at the will of others, all
+the bad deeds of body, mouth and thought. We of the good company, and all
+the hearers, beg forgiveness for our sins. May each be as we first vowed.
+
+**(d) This verse praises the sun; it is used for the final closing vow.**
+
+Praise the wondrous great radiance, highest and peerless in the world;  
+its light is wondrous and spreads through the ten directions, making joy through the twelve hours.
+
+Mighty and praiseworthy compassionate Mother, brave and bold pure living Wind,  
+the twelve ship-masters, the five gatherers of light, and the countless others of the company of light:
+
+I beg each of you for the power of pity and compassion: save, I pray, all the light-natures in distress,  
+so that they may leave the great waves of the sea of fire. All of us together, in the end, may it be so.
+
+**(e) This verse praises Lu-she-na (盧舍那); it is used for the final closing
+vow.**
+
+Praise and extol the Srōšahrāy (蘇露沙羅夷), the complete Great Man, the
+adamantine Column of forms, who holds up the world and fills all things;
+who with his own wondrous body and his own great strength does good as he
+has promised; the lone and cherished Son. We cannot now praise him in full:
+we pray only that he will accept this small petition, and guard and help
+the good company, always as they pray.
+
+**(f) This verse praises Jesus; it is used for the final closing vow.**
+
+Praise the pure, wondrous and wise Jesus, the one of light,  
+who shows himself as the immortal Maiden, the vast Mind and the First Thought;
+
+who brings peace to every nature of suchness, and brings every wondrous body back to life;  
+for the sick he is the King of Physicians, for the suffering he makes joy.
+
+The five Envoys who gather the light, the seven ship-masters, Mani the compassionate Father, the one of light:  
+forgive all my faults, and give peace to all the company, as we pray.
+
+**(g) This verse praises Mani Buddha; it is used for the final closing vow.**
+
+Praise, extol and revere that vast and true Lord, the highest King of
+Light, the ever-bright world and its holy company; Mani, King of the Law,
+to whom the Venerable of Light granted wisdom and the holy ones granted
+insight; who came from beyond the three worlds into birth and death to
+bring our nature back to life; who is the great King of Physicians and the
+fair judge; who opened the spring of ambrosia, planted the tree of life,
+saved the company of his own countrymen and gathered the sons of light;
+who is shepherd to the gentle flock, banks and ditches the field of merit,
+makes its shoots and fruit grow rich, and guards the pure Law.
+
+I bow in reverence to his majestic virtue, and with shame for his deep
+grace, before the supreme Venerable; before the company of light I receive
+deeply his great grace, ashamed and thankful for his great bounty, for he
+truly took great calamity from us and made great joy. Now, before all the
+holy ones, we repent with true and earnest hearts. The seal of the Law of
+the realm above, which we received from Mani Buddha, we hold firmly day and
+night and dare not make light of. Now, in the one pure name, we resolve to
+practise, and in the end to win the victory, as we first vowed.
+
+**(h) This verse is used for the closing vow on every Monday** (莫日).
+
+I worship and praise, and add ever wider praise;  
+I praise this present day, the most excellent of all times.
+
+All who are of joyful nature, enter now the fragrant water,  
+wash off all dust and dirt, and all abide by the Law.
+
+Praise the great and majestic form that fills the pure Law:  
+he is the Jesus Buddha, who can bring all the good seed back to life.
+
+Praise the true Lord, the mighty Venerable Mani,  
+who can bring to life the body of the pure Law and save all the light-natures.
+
+I pray: with your eyes of compassion look on all this pure company,  
+so small a flock, in so small a place.
+
+I pray only: guard us yourself, and always add strength and urge us on;  
+the bounded body and the unbounded body, within and without, always cover them.
+
+We the men of the pure Law, and all the steadfast maidens,  
+and all the hearers: in the end, may it be as we pray.
+
+**(i) This verse: on every Monday, the vow of confession with the hearers.**
+
+You hearers, each of you kneel on both knees, and with true and earnest
+hearts beg for pity and confess: before the true Father, the Lord of great
+compassion, the twelve kings of light and the lands of nirvana; before the
+wondrous Air of life, the boundless holy company and the unmoving,
+unobstructed jewelled adamantine Earth; before the palaces of the sun and
+moon, the two halls of light, and the three compassionate fathers in each,
+praiseworthy from the beginning; before Lu-she-na, the great adorned
+Column, the body of the five wondrous forms; before Guanyin and Shizhi; on
+this auspicious day, at this time worthy of praise, when the pools of the
+seven jewels are full of fragrance and of the water of life.
+
+If we have fallen short in the seven alms, the ten precepts and the gate
+of the Law of the three seals; or have harmed the fivefold Dharma-body and
+always wasted it; or have cut down the five kinds of plants and trees; or
+have made the five kinds of living beings labour; and the countless other
+faults besides: now we wash them all away and confess them.
+
+When the day of impermanence comes and we leave this loathsome body of
+flesh, may the buddhas and holy sages surround us before and behind; may
+the jewelled ship carry us and our good deeds come to meet us; may we go
+straight to the King of Equal Justice and receive the three great
+victories, that is, the crown of flowers, the necklace, and the ten
+thousand kinds of wondrous robes to wear; and may our good deeds, merit and
+buddha-nature be praised without end. And from the King of Equal Justice,
+with banners, flowers and jewelled canopies around us before and behind,
+and the holy ones singing, may we enter the realm of Lu-she-na, where the
+roads are level and straight and the sound of hymns spreads all around;
+from there may we go straight to the palaces of the sun and moon, and
+before the six great compassionate fathers and the rest of their company
+each receive joy and endless praise; and may we be led on again to the
+other shore, and enter nirvana, the world of everlasting light, and with
+our own good deeds have joy for ever. May the whole company, with one
+heart, be as we have prayed above.
+
+**(j) This verse closes the hymns and vows.**
+
+The voices of the foreign hymns resound, their words fair and fine; good
+works help us all alike, and reach to all. Above, we call on the gods and
+the holy company, who bear the weight of light: send down great
+compassion, increase the power of merit, and forgive the faults of all our
+company and of the faithful hearers. In the one constant name, may we be at
+peace and joy in the end.
+
+**(k) This verse is used for the closing vow when offerings are received for
+the dead.**
+
+The light-nature of So-and-so has left the body of flesh, his deeds and
+conduct not perfect, and we fear that it may sink in the sea of suffering.
+We pray only that the two great lights, the fivefold Dharma-body, and the
+pure teachers and monks, by the power of great compassion, will rescue
+that nature and free it from the round of rebirth and the hard body, and
+from all the hells, the boiling cauldrons and the furnaces of coals. We
+pray only that the buddhas will have pity on that nature, rouse great
+compassion and give it liberation, and lead it themselves into the world of
+light, the place where it was first born, the realm of peace and joy. By
+the help of the power of merit, may it be as we pray above.
+
+**(l) This verse is the confession of the hearers** (儞逾沙, *niyōšag*).
+
+I now confess all the deeds of body, mouth and mind, and the acts of greed,
+anger and folly; even letting loose the thieves and poisons, and letting
+my heart and all my senses run wild; or doubting the ever-abiding Three
+Jewels and the two great lights; or harming the body of Lu-she-na and the
+five lights [ … ]; or showing contempt for teachers and monks, parents and
+all good friends, and slandering one another; or not practising in full
+the seven alms, the ten precepts and the gate of the Law of the three
+seals. May these sins be wiped away.
+
+### Colophon
+
+At an auspicious time, on an auspicious day, these hymns were translated.
+Above, we pray that the three constants and the Dharma-bodies of the four
+places will forgive our faults; below, we pray for the five grades and the
+flock of light, and for the wise and learned of the ten directions.
+
+It must be said that holy words are without end, and common understanding
+has its limits. Of the three thousand items of the foreign originals, some
+twenty have been translated. The scriptures, hymns and vows were all made
+according to the four places. But what Daoming (道明) has translated follows
+the foreign original entirely. Those who wish to study it should first
+recite the texts and then be shown for a while; then they will know the
+order. Those who copy it should check it with care and correct it by the
+Law. Those who sing it must go to an enlightened teacher, and must know the
+errors and variants. So the gate of the Law is broad, as high and bright as
+the sun and moon, and the companions in the Law walk on, clear and solemn as
+the Yangzi and the Han.
+
+We pray only that the emperor's reign may be long, that his servants may be
+loyal and true, that the four seas may all be at peace, and that all people
+may have peace and joy.
+
+*The Hymns for the Lower Section, one fascicle.*
+
 ## Notes to this edition
 
 - **Jesus** (夷數) in these hymns is the divine Jesus, the "Jesus of
@@ -1037,8 +1269,8 @@ he can open the causes of birth and the true road, so that the holy company may 
   modern and are not in the text.
 - **The twelve hours** (hymns 6 and 7) are the twelve virtues of the
   Light-Nous listed in the *Traité* (§14), here matched with twelve gods.
-  Lu-she-na (盧舍𱼶, hymn 7) is a Buddhist name (Vairocana) used for one of
-  them; which god is meant is uncertain.
+  Lu-she-na (盧舍𱼶, hymn 7) is the Column of Glory (see the note on
+  Lu-she-na below).
 - **Hymn 9**: the author's name 子黑哆忙儞電達 is a transcription, and so
   are the names of the honoured angel Jie-shang-nu-si (劫傷怒思) and the
   chief general (󱱊俱孚). Which beings are meant is uncertain. The "pure
@@ -1052,6 +1284,16 @@ he can open the causes of birth and the true road, so that the holy company may 
 - **Hymn 12** describes the realm of light by denying of it everything
   found in this world. Its refrain 若言有…無是處, "if anyone says there is
   … there, it is not so", is rendered the same way each time.
+- **Lu-she-na** (盧舍那): verse 13(e), headed "praises Lu-she-na", praises
+  the Srōšahrāy, the Column of Glory, and 13(i) calls Lu-she-na "the great
+  adorned Column". So in this scroll the Buddhist name (Vairocana) stands
+  for the Column of Glory.
+- **Monday** (莫日, 13(h)–(i)): 莫 transcribes the Iranian word for the
+  moon; Monday was the day of the Elect's weekly fast and confession.
+- **Guanyin and Shizhi** (觀音勢至, 13(i)) are the Buddhist bodhisattvas
+  Avalokiteśvara and Mahāsthāmaprāpta, whose names are used here for
+  Manichaean gods.
+- **Daoming** (道明, colophon) is the translator named in the scroll.
 - **Mo-ye** (末夜, hymn 4): 末 is the title *Mār*; the rest of the name is
   uncertain.
 - **Mār Sīsin** (末思信, hymn 3) was Mani's successor as head of the
