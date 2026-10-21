@@ -299,15 +299,16 @@ of preaching this doctrine.
   *limos* ("famine") where Epiphanius has *loimos* ("plague"), so the Latin
   has "famine"; both are given.
 - **"No more than seven in number"** (chapter 11): the Greek of
-  Epiphanius has the same number. It may be a misunderstanding of a rank
-  of the Elect; elsewhere the Elect are many.
+  Epiphanius has the same number. The number is surprising, since
+  elsewhere the Elect are many.
 - **The bread prayer** (chapter 10) is the Elect's apology to the food
-  they eat, known also from Augustine and the Coptic *Kephalaia*.
+  they eat: the Elect do not prepare food themselves, and the hearers who
+  bring it are "prayed for".
 - **"The Statue"** (chapter 13, Latin *statua*, Greek *andrias*) is the
   Last Statue, the final gathering of the light that rises at the end.
 - **The three disciples** Adda, Thomas and Hermas: Adda (Addai) is the
-  disciple of the Chinese [Traité](traite.html); Thomas is the Thomas of
-  the Coptic *Psalms of Thomas*.
+  disciple of the Chinese [Traité](traite.html); Thomas has been connected
+  with the Coptic *Psalms of Thomas*.
 - **The wheel with twelve buckets, the ships of light, the Column of Glory
   and the seducing Maiden** are the same images as in the Coptic, Iranian
   and Chinese texts; compare [Theodore bar Konai](theodore-bar-konai.html)
