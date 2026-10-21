@@ -84,7 +84,7 @@ public repository at https://manichaeism.order.life.
   Middle Persian/Parthian texts from Müller 1904 and 1912, all of Le Coq's
   *Türkische Manichaica* I–III (1911, 1919, 1922, including an Old Turkish
   version of the Sermon of the Light-Nous), Le Coq 1908 and 1909, and the
-  Thomsen Festschrift pieces (1912). The site now has 34 text pages.
+  Thomsen Festschrift pieces (1912). The site now has 30 text pages.
 - All of these are drafts from public-domain German editions (or, for the
   Chinese, from the original), not checked against modern editions.
 - BLOCKED-ON-EXTERNAL: the Coptic Psalm Book, Kephalaia and the Giversen
