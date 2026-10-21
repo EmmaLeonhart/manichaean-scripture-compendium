@@ -5,7 +5,7 @@ group: extracanonical
 order: 35
 summary: A summary of Manichaean doctrine and church order presented to the Tang court in 731, covering Mani's names and birth, his image, his seven books, the five ranks of the church, the monastery and the two principles.
 original_language: Chinese
-source: 'Dunhuang manuscript Stein 3969, British Library; text as printed in Taishō vol. 54, no. 2141A (摩尼光佛教法儀略), via CBETA. New translation.'
+source: 'Dunhuang manuscripts Stein 3969 (British Library) and Pelliot chinois 3884 (Bibliothèque nationale de France); text as printed in Taishō vol. 54, no. 2141A (摩尼光佛教法儀略), via CBETA. New translation.'
 rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (first pass from the Chinese, not yet checked against a published translation)."
 ---
 
@@ -20,11 +20,12 @@ monastery is run, and the first points of doctrine a novice must learn.
 Mani is presented in Buddhist and Daoist terms throughout, and Buddhist and
 Daoist scriptures are quoted as proof of his mission.
 
-The manuscript comes from Dunhuang. Taishō prints only the London part
-(Stein 3969), which breaks off at the start of Chapter 6's section on the
-"four tranquil Dharma-bodies". A second part of the same manuscript is in
-Paris (Pelliot chinois 3884); it is not in CBETA and is not yet translated
-here.
+The text survives in two Dunhuang manuscripts. The London one (Stein 3969)
+has the title and Chapters 1–4 and lacks its end; the Paris one (Pelliot
+chinois 3884) has Chapters 5 and 6. Taishō prints the London text and, from
+Chapter 5 on, the Paris text (its note: "from here on supplemented from the
+Paris copy"). The surviving text breaks off at the start of Chapter 6's
+section on the "four tranquil Dharma-bodies".
 
 **This translation is a draft, made for this compendium from the Chinese.**
 Parentheses ( ) mark words added for sense. Foreign names transcribed in
@@ -257,8 +258,8 @@ the true and the false go back to their roots. Light goes back to the
 Great Light, and darkness goes back to the mass of darkness. The two
 principles are each restored, and the two go back to their own.
 
-**Next, contemplate the four tranquil Dharma-bodies.** [The London
-manuscript ends here.]
+**Next, contemplate the four tranquil Dharma-bodies.** [The surviving
+text ends here.]
 
 ## Notes to this edition
 
