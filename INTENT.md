@@ -74,13 +74,21 @@ public repository at https://manichaeism.order.life.
   (`scripts/fetch_wikipedia_art.py`). The Commons dump was deleted at the user's
   order ("Delete it all"), along with its fetch script.
 
-## Status (2026-10-20 14:41)
+## Status (2026-10-21 13:46)
 
-- On the site: 5 texts (Xwāstwānīft, al-Bīrūnī's quotations, Fundamental
-  Epistle, Irk Bitig, and the Traité as a draft) and the art gallery (17 of 19
-  artworks).
-- Queue: only translation items remain, held for the 06:00–15:00 window on
-  2026-10-21. Loop ticks are idle until then unless the user adds work.
+- Translation window (06:00–15:00 today) in use. User, 2026-10-21: "All
+  you're supposed to do is do the translations. Right now." So the window is
+  spent on translation only.
+- Done today: Traité check finished; new drafts of the Compendium (whole
+  surviving text), the whole Hymnscroll, the Šābuhragān and other Turfan
+  Middle Persian/Parthian texts from Müller 1904 and 1912, all of Le Coq's
+  *Türkische Manichaica* I–III (1911, 1919, 1922, including an Old Turkish
+  version of the Sermon of the Light-Nous), Le Coq 1908 and 1909, and the
+  Thomsen Festschrift pieces (1912). The site now has 34 text pages.
+- All of these are drafts from public-domain German editions (or, for the
+  Chinese, from the original), not checked against modern editions.
+- BLOCKED-ON-EXTERNAL: the Coptic Psalm Book, Kephalaia and the Giversen
+  facsimiles are lending-only on archive.org.
 - NEEDS-DECISION (user): which public-domain New Testament translation; how
   to rerun the Shangwan image generation.
 
