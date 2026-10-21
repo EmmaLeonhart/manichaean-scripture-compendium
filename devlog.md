@@ -66,3 +66,4 @@
 - Le Coq's *Türkische Manichaica*: part I is in archive.org `abhandlungenderk1911akaduoft` and part II in `abhandlungenderk1919akaduoft` (both public domain, German). Part III (1922) was not found. Recorded in SCOPE.md.
 - 2026-10-21 Traité check: §§12–14 compared with Chavannes & Pelliot. §13 now keeps "three great days" (三大) and restores 說聽 "Preaching and Hearing"; added a note on 平等 vs 真實 in §14.
 - 2026-10-21 Compendium page (`docs/texts/compendium.md`): new CC BY draft translation of the whole Taishō text (London part, Stein 3969: chapters 1–6, to the four tranquil Dharma-bodies). The Paris part (Pelliot chinois 3884) is not in CBETA and is still to do.
+- 2026-10-21 Hymnscroll page (`docs/texts/hymnscroll.md`): new CC BY draft translation of the first three hymns (Hymn to Jesus, parts 1 and 2; Lament on impermanence by Mār Sīsin). The opening Iranian transcription is noted but not translated.

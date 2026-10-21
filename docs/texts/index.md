@@ -35,7 +35,7 @@ quotations by other writers.
 | Xuastvanift | [The Confession of the Hearers](xwastwanift.html) (public domain translation) |
 | Cologne Mani-Codex | Planned |
 | Medinet Madi library | Planned (Psalm Book, Kephalaia, Homilies) |
-| Xiabuzan (Hymnscroll) | Planned |
+| Xiabuzan (Hymnscroll) | [The Hymnscroll](hymnscroll.html) (new translation, draft, in progress) |
 | Manichaean Compendium | [The Compendium of the Teaching of Mani](compendium.html) (new translation, draft; London part) |
 | Incomplete scripture of Manichaeism (Traité) | [The Sermon of the Light-Nous](traite.html) (new translation, draft) |
 | Irk Bitig | [The Book of Omens](irk-bitig.html) (public domain translation) |

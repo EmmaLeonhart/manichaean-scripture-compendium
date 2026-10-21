@@ -11,5 +11,6 @@ the next item.
    starts at p. 509). Checked: §§1–14 and the fourth sign of §15. To check:
    the rest of §15 (OCR lines about 29640–31000), then whatever
    is in the 1913 part (JA 11e sér. 1, still to be found).
-6. **[Translation] Xiabuzan (Hymnscroll)**: new translation from CBETA
-   T54n2140, in sections.
+6. **[Translation] Xiabuzan (Hymnscroll)**: continue `docs/texts/hymnscroll.md`
+   from 普啟讚文 (hymn 4, by Mār Wahman mōžak) onward; source
+   `scratch/hymn.txt` (flattened CBETA T54n2140).
