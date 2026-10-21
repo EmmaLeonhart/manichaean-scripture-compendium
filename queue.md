@@ -12,5 +12,5 @@ the next item.
    the rest of §15 (OCR lines about 29640–31000), then whatever
    is in the 1913 part (JA 11e sér. 1, still to be found).
 6. **[Translation] Xiabuzan (Hymnscroll)**: continue `docs/texts/hymnscroll.md`
-   from 歎無上明尊偈文 (hymn 10, by the King of the Law) onward; source
+   from 歎明界文 (hymn 12, 78 stanzas, by 未冒 mōžak) onward; source
    `scratch/hymn.txt` (flattened CBETA T54n2140).

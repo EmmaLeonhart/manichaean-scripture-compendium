@@ -6,7 +6,7 @@ order: 33
 summary: The Chinese Manichaean hymnbook from Dunhuang, with hymns to Jesus, a lament on impermanence, invocations of the gods of light and hymns to Mani.
 original_language: Chinese
 source: 'Dunhuang manuscript Stein 2659, British Library; text as printed in Taishō vol. 54, no. 2140 (摩尼教下部讚), via CBETA. New translation.'
-rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft, in progress (hymns 1–9 of the scroll so far; not yet checked against a published translation)."
+rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft, in progress (hymns 1–11 of the scroll so far; not yet checked against a published translation)."
 ---
 
 ## Introduction
@@ -654,6 +654,126 @@ I have now told in brief the names and arts of the company of Envoys of Light, w
 may the hearers and helpers be at peace with the Law, without hindrance.  
 Rescue the chosen, break the people of darkness, crush the demon lords and gladden the pure company.
 
+### 10. Hymn in praise of the supreme Venerable of Light (歎無上明尊偈文)
+
+*Composed by the King of the Law.*
+
+We praise the ever-living Father, the Venerable of Light, hidden and ever at peace in the place of the Great Light,  
+free above gods and men, dwelling in majesty in the unmoving land.
+
+For the sake of his own nature he opened the gate of wisdom, to make us aware of the causes of birth and the road to nirvana;  
+he showed us skilfully the ocean of life, and the ancestors of light and darkness, above and below.
+
+His wondrous radiance shines within and without; he gathers and sifts the bodies of good works.  
+The Demon King and his evil band vie in anger and rage, afraid that light will subdue darkness and they will no longer be free.
+
+Alas for all the heretics of the world! They cannot discern the ancestor of the principle of light;  
+they suffer every disaster in the round of rebirth and in hell, truly because they do not seek the true road.
+
+I tell you, flock of light, people of good works, and all who can understand these five lights:  
+you must always be watchful and clean the field of your heart, and do the Father's work without idleness.
+
+Discern and sift all natures and forms, and understand that the power of light is held in bonds;  
+practise this true Law resolutely: if you can do so, you will quickly be set free.
+
+Do not crave the desires of the world; do not be caught in the net of the demons' house.  
+The praiseworthy Light-Nous is King of the Law: he can gather us and free us from death and error;
+
+he shines within and without, and there is nothing he does not understand; he makes us like the holy ones.  
+He gives the disciples the elixir of calm stillness: those who take it find the path of peace and joy.
+
+He refines them in the pure Law and makes them worthy of praise, and adorns the heart and mind, the five wondrous bodies;  
+with wisdom and skilful means he teaches the good sons, and makes them all complete and wholly true.
+
+Wondrous Father of light and great compassion: the good sons, gathered by the power of their ancestor,  
+strike the bell and beat the drum to tell all beings that the time is near when the body of light will be freed from its bonds.
+
+In the end the powers of light and darkness will be divided, and all good works from the evil enemies;  
+the world, heaven and earth and all the myriad things will be taken apart by the compassionate Venerable.
+
+The race of demons will be shut for ever in the dark prison, and the house of the buddhas will leap for joy and go back to the realm of light;  
+each will be restored to its own body, wondrously adorned, will put on robe and crown, and will have joy for ever.
+
+### 11. Hymn in praise of the Five Lights (歎五明文)
+
+*Composed by the mōžaks. In two parts.*
+
+**First part.**
+
+I praise with reverence the five great buddhas of light, who are the armour of wisdom and a firm court,  
+the wondrous form of the essence of the world, who hold up all kinds of things, heaven and earth.
+
+They are the bodies and lives of all that have consciousness, what every eye sees and every ear hears;  
+they can be the strength of the bones and joints and of all bodies; they can nourish every kind of form.
+
+They also make the tongues speak many kinds of words, and the voices give many kinds of sound;  
+they are also the vast light of the mind and consciousness, which can take away darkness and every disaster and suffering.
+
+They are the wisdom of all the kindly, the speech of all the eloquent;  
+they can make the body fair in form and colour, and they can be the blessings and profit of the noble;
+
+they also make the glory of those of high nature, and the skills of the brave;  
+they are the might and power of the free, and the profit of those in favour;
+
+the good medicine of all the sick, the gentle face of all who strive;  
+they can be the leaven in the bodies of the ten thousand things, the support by which all things are done;
+
+they are also the plenty and harvest of the world, and the many kinds of shoots of the grass and trees;  
+in spring and summer they rise up above the world, and are first in every year and month.
+
+If there are people of wisdom and merit, why do they not think on this great power?  
+They must always keep the true words in mind, and always fear, and never make light of them.
+
+Understand why the five great buddhas of light came from the Father to this realm;  
+know that no suffering is greater than theirs, and skilfully draw them out of the demons' den.
+
+Such a one is called a person with eyes; such a one is called wise.  
+Stop all evil deeds, and so send them back to their own ancestor.
+
+Keep the fasts and precepts firmly, always be careful, gather your mind and always heal them;  
+day and night think on the true Law, striving to sift and purify the five wondrous bodies.
+
+Those who are in hell and the round of rebirth, those in the fire at the end of the world and the long prison:  
+truly, it is because they did not know the five bodies of light that they left the land of peace and joy.
+
+**Second part.**
+
+I tell you again, brothers of light, people of good works: think carefully, and sift the wondrous bodies;  
+each of you be a brave and wise ship's master, and carry over these children wandering in a foreign land.
+
+These are the precious jewels of the Venerable of Light: all of you, use the ship of your body to carry them out to sea.  
+Heal diligently the sores and wounds where they have been cut; they have long grieved and hoped for rescue.
+
+I beg each of you in compassion to receive them truly, and then return them quickly to their owner, every one.  
+The noble race have wandered for many years: send them quickly to the place of peace and joy in their home country.
+
+The fair sons of light, complete in form: draw them out early from the treasury of greed and desire.  
+Seek the jewels in the deep sea of suffering, and carry them as an offering to the pure King of nirvana.
+
+Draw out the evil cuts and heal the wounds; wash the bright pearls and lift them out of the mud.  
+The wondrous offerings received in the name of the Law: adorn them, make them pure and return them to their owner.
+
+This is the flesh and blood of Jesus: let any who are fit to receive it take as they will;  
+but if one is false and breaks faith in his heart, Jesus is hidden from him, and there is no way to be washed clean.
+
+Remember the fear and trembling at the hour of death: before the King of Equal Justice, may you not be found in the wrong.  
+The form of the Law, the Light-Nous and all the other buddhas suffer always for this body of light;
+
+all the buddhas and arhats of the past set out the wondrous Law for the five lights;  
+now the mighty Venerable Mani has shown it all before us.
+
+You people of wisdom and merit must understand, and pity their nature;  
+practise medicine diligently, guard against what is forbidden, and cure whatever suffering there is.
+
+Keep the precepts and the rule always firmly; keep the fast, worship, praise and recite;  
+keep the deeds of body, mouth and mind always pure; sing the hymns and words of the Law without pause.
+
+Practise true compassion as well, and with gentleness and patience purify your senses:  
+all these are medicine for the body of light, by which it escapes pain and every suffering.
+
+The guests who wander for a day in a foreign land: since you can invite them in and make them glad,  
+adorn the monastery and keep it always clean, and diligently provide clothing and food, so that both may go out to sea.
+
 ## Notes to this edition
 
 - **Jesus** (夷數) in these hymns is the divine Jesus, the "Jesus of
@@ -689,6 +809,11 @@ Rescue the chosen, break the people of darkness, crush the demon lords and gladd
   chief general (󱱊俱孚). Which beings are meant is uncertain. The "pure
   Wind, who can save the Father" is the Living Spirit, who rescued the
   First Man.
+- **The Five Lights** (五明, hymns 10 and 11) are the five light elements
+  (air, wind, light, water, fire) of the First Man, swallowed by darkness
+  and now bound in the world, in plants and in bodies. The Elect free them
+  by eating the food that the hearers bring: that is the "medicine", the
+  "ship of the body" and the "flesh and blood of Jesus" of hymn 11.
 - **Mo-ye** (末夜, hymn 4): 末 is the title *Mār*; the rest of the name is
   uncertain.
 - **Mār Sīsin** (末思信, hymn 3) was Mani's successor as head of the
