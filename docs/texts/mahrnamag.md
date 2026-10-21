@@ -101,7 +101,8 @@ raised up in power, and in the year one hundred and sixty-two after the
 raising up (the death) of Mār Šād Ohrmizd, the wise, it was that this
 hymnbook was begun, which is full of living words and beautiful songs.
 
-The scribe who began to write it at the command of the spiritual heads was
+The scribe, the teacher (?), who began to write it at the command of the
+spiritual heads, was
 not able to finish writing it. Because he could not [ … ], he wrote a few
 hymns, but he did not bring it to an end. Unfinished, it lay in that place
 for many years, kept in a dwelling of the fortress.
@@ -118,7 +119,7 @@ good omen; and by the good fortune of Mār Dōšist, the deacon; and by the
 good guidance (?) of [ … ], the presbyter; and by the diligence of
 Yazd-āmad, the wise preacher; and further and more by the zeal [and] care
 of Nīxvarīg-rōšan, who was the most eager in it with a warm heart and a
-loving mind: they have, nights and days, together with the scribes [ … ]
+loving mind: they have, nights and days, together with the teachers (?) [ … ]
 that I, on account of this writing, I, Nīxvarīg-rōšan, the servant, the
 scribe in the preparing, arranging and writing [ … ] (end of the second
 page).
@@ -313,6 +314,11 @@ To you we will pray, my spirit …
 - **The table of contents**: within each section the hymns run
   alphabetically by the first letter in the Manichaean script, so the
   English order follows the manuscript, not the English alphabet.
+- **"Teacher" (?)** (*kes*): in his addenda Müller says that in three places
+  of the account of the book's making (his lines 174, 218 and 221) *kes* is
+  better taken as "teacher"; the translation follows him.
+- **Mār Zakū** (in the table of contents) was a disciple of Mani; Müller
+  refers to al-Nadīm's lists.
 - **Names.** The spellings of personal names follow Müller's readings, in
   simplified form. Many are uncertain, and modern editions read some of
   them differently.
