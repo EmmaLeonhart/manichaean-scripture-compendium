@@ -5,7 +5,7 @@ group: scripture
 order: 15
 summary: The opening words of Mani's Living Gospel and quotations from his Epistles, in Middle Persian leaves from Turfan.
 original_language: Middle Persian
-source: 'Turfan fragments M 17, M 733 and M 731 (Berlin), as read and translated into German by F. W. K. Müller, "Handschriften-Reste in Estrangelo-Schrift aus Turfan, Chinesisch-Turkistan. II. Teil", Abhandlungen der Königlich Preußischen Akademie der Wissenschaften 1904 (public domain), pp. 25–33. New English translation.'
+source: 'Turfan fragments M 17, M 172, M 733 and M 731 (Berlin), as read and translated into German by F. W. K. Müller, "Handschriften-Reste in Estrangelo-Schrift aus Turfan, Chinesisch-Turkistan. II. Teil", Abhandlungen der Königlich Preußischen Akademie der Wissenschaften 1904 (public domain), pp. 25–33 and 100–103. New English translation.'
 rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (made from Müller's 1904 readings and German, with his Middle Persian in view; not checked against a modern edition)."
 ---
 
@@ -16,7 +16,8 @@ alphabet (twenty-two, according to Epiphanius), and many letters to his churches
 collected as the *Epistles*. Neither survives. Among the Turfan leaves,
 F. W. K. Müller found in 1904 a page that quotes the opening of the
 Gospel, with Mani's own words "I, Mani, the apostle of Jesus the Friend",
-and two damaged leaves of extracts from the Epistles.
+a second copy of that opening in Middle Persian and Parthian side by side
+(M 172), and two damaged leaves of extracts from the Epistles.
 
 **This translation is a draft.** It is made from Müller's first edition
 of 1904, the only public-domain edition, which he called "a first attempt".
@@ -55,6 +56,32 @@ love of the Father, the god [ … ] of the famous (holy) [ … ] from him came
 
 *Second column, in red:* The blessed will receive this offering; the wise
 will know; the strong will put on the goodness of those who know [ … ]
+
+### M 172: the opening of the Gospel, in two languages
+
+*A double leaf. The first leaf gives the same doxology as M 17, each
+sentence first in Middle Persian and then in Parthian (Müller's "Pehlevi
+dialect"). The second leaf is in Turkish in Manichaean script; Müller
+printed it without a translation.*
+
+Praised has been, and praised will be, the Virgin of Light, the head of all
+excellences.
+
+Praised has been, and praised will be, the holy religion, by the power of
+the Father (Parthian: "the power of the Father, the god Zurwān"), by the
+blessing of the Mother, and by the goodness of the Son (Parthian: "the Son
+Jesus").
+
+Welfare and blessing upon the sons of welfare, and upon the speakers and
+hearers of the famous word (Parthian: "of the command of the Holy
+Spirit")!
+
+May there be praise and glory to the Father, and to the Son, and to the
+holy Spirit (Parthian: "the chosen breath, the Holy Spirit"), and to the
+holy elements (Parthian: "the begetting (?) elements")!
+
+The discourse of the Living Gospel of the eye and the ear is taught (?),
+and the fruit of truth [is offered].
 
 ### M 733: extracts from the Epistles and the Gospel
 
@@ -103,6 +130,10 @@ With clothing for one year and food for one day, and in all [ … ]"
 - **"Jesus the Friend"** (M 17, *’ariyāmān*): Müller connected the word
   with the Avestan *airyaman*, "friend". Augustine says that all Mani's
   letters began "Manichaeus, apostle of Jesus Christ".
+- **M 172** is the leaf Müller used to show that the "Pehlevi dialect" (now
+  known to be Parthian) was a separate language: he set the Middle Persian
+  and Parthian of each sentence under one another. He compares the Greek
+  abjuration formula, which names Mani's "Living Gospel".
 - **The Epistle of Hatā** (M 733) is one of the letters in al-Nadīm's list
   (Flügel, *Mani*, pp. 76 and 104).
 - **"M[esvan]"** (M 731): the manuscript has only *M…*; Müller suggested

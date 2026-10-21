@@ -5,7 +5,7 @@ group: extracanonical
 order: 63
 summary: Short Middle Persian and Parthian pieces from Turfan, among them Mani's own song "I am the first stranger", the Manichaean Sanctus, Mār Ammō's meeting with the spirit of the frontier, and a prayer for an Uyghur khan.
 original_language: Middle Persian and Parthian
-source: 'Turfan fragments M 383, "M. liturg.", M 442, M 2, M 75, M 331 and M 43 (Berlin), as read and translated into German by F. W. K. Müller, "Handschriften-Reste in Estrangelo-Schrift aus Turfan, Chinesisch-Turkistan. II. Teil", Abhandlungen der Königlich Preußischen Akademie der Wissenschaften 1904 (public domain), pp. 28–30, 70–71 and 78–79. New English translation.'
+source: 'Turfan fragments M 383, M 7, "M. liturg.", M 442, M 2, M 75, M 331 and M 43 (Berlin), as read and translated into German by F. W. K. Müller, "Handschriften-Reste in Estrangelo-Schrift aus Turfan, Chinesisch-Turkistan. II. Teil", Abhandlungen der Königlich Preußischen Akademie der Wissenschaften 1904 (public domain), pp. 28–30, 70–71 and 78–79. New English translation.'
 rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft (made from Müller's 1904 readings and German, with his transcription in view; not checked against a modern edition). More fragments from the same edition are still to be added."
 ---
 
@@ -57,6 +57,23 @@ the child of the ruler.
 
 *(The same text then follows again, drawn out syllable by syllable for
 chanting.)*
+
+*Müller adds in his corrections three related verses from other leaves.
+From the same small book, page 1:*
+
+I am a man, a seed (?) of light, living and shining.
+
+*From its back:*
+
+I am a ruler's son [ … and] I have become a stranger, (far) from the
+Greatness.
+
+*From M 7:*
+
+From the light and from the gods am I,
+and I have become a stranger to them.
+The enemies have fallen (?) upon me,
+and by them I have been led down (?) to the dead.
 
 ### M 442: a line of a hymn
 
@@ -140,6 +157,9 @@ may you always remain glad! (end of the fragment).
   "I was a stranger and you did not take me in", which the *Šābuhragān*
   quotes in the same words (*uzdeh*), and John 1:11–12. **Zurwān** is the
   Persian name the Manichaeans gave to the Father of Greatness.
+- **"From the light and from the gods am I"** (M 7): Müller compares the
+  apocryphal Gospel of Philip quoted by Epiphanius: "I am from those
+  above".
 - **Mār Ammō** (M 2) was the disciple Mani sent to Abarshahr and Khorasan.
   Müller headed the column "from the story of Mār Ammō". The spirit who
   bars the way is the spirit of the frontier of Khorasan.
