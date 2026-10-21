@@ -67,3 +67,4 @@
 - 2026-10-21 Traité check: §§12–14 compared with Chavannes & Pelliot. §13 now keeps "three great days" (三大) and restores 說聽 "Preaching and Hearing"; added a note on 平等 vs 真實 in §14.
 - 2026-10-21 Compendium page (`docs/texts/compendium.md`): new CC BY draft translation of the whole Taishō text (London part, Stein 3969: chapters 1–6, to the four tranquil Dharma-bodies). The Paris part (Pelliot chinois 3884) is not in CBETA and is still to do.
 - 2026-10-21 Hymnscroll page (`docs/texts/hymnscroll.md`): new CC BY draft translation of the first three hymns (Hymn to Jesus, parts 1 and 2; Lament on impermanence by Mār Sīsin). The opening Iranian transcription is noted but not translated.
+- 2026-10-21 Hymnscroll: hymn 4, the Hymn of universal invocation by Mo-ye mōžak, translated and added, with a note on the order of the gods invoked.

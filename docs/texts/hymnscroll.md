@@ -6,7 +6,7 @@ order: 33
 summary: The Chinese Manichaean hymnbook from Dunhuang, with hymns to Jesus, a lament on impermanence, invocations of the gods of light and hymns to Mani.
 original_language: Chinese
 source: 'Dunhuang manuscript Stein 2659, British Library; text as printed in Taishō vol. 54, no. 2140 (摩尼教下部讚), via CBETA. New translation.'
-rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft, in progress (hymns 1–3 of the scroll so far; not yet checked against a published translation)."
+rights: "New translation © Manichaean Scripture Compendium, CC BY 4.0. Review state: draft, in progress (hymns 1–4 of the scroll so far; not yet checked against a published translation)."
 ---
 
 ## Introduction
@@ -373,6 +373,113 @@ Those who can give up love and all glory and pleasure escape sinking in the thre
 
 I pray that all, with one heart, may climb the right road and quickly gain the pure land of nirvana,  
 where the seven calamities and the four sufferings never were: so it is called the ever-joyful [land].
+### 4. Hymn of universal invocation (普啟讚文)
+
+*Composed by Mo-ye (末夜), mōžak.*
+
+I call on all the Envoys of Light, and on the pure company with its divine powers:  
+I beg each of you for the power of your pity and compassion; forgive all my faults.
+
+Above, I call on the ever-bright Lord of the realm of light, and on the five wide and vast Greatnesses,  
+the twelve ever-abiding kings of jewelled light, and the countless worlds and all their lands.
+
+I call also on the wonderful fragrant Air, the pure form shining with light,  
+the jewelled adamantine Earth, worthy of praise from the beginning, and those adorned with the five kinds of awakened thought.
+
+Again I call on the Venerable who was first emanated and appeared, the Mother of all the buddhas, whose Dharma-body is complete in form,  
+and with her the ever-victorious Father, the First Thought, and his five sons of light, the sons of joy.
+
+I call also on the Friend of Light, the second Envoy, and the honoured Builder of the New,  
+the mighty and free pure Wind of the Law, and his five brave sons.
+
+Again I call on the Guide, the Third Man, who is himself the vast second Venerable,  
+Jesus, and with him the Maiden of Light, and the still and clear great Column of Glory.
+
+I call also on the palaces of light of the sun and moon, where the buddhas of the three ages dwell,  
+the masters of the great ships, the seven and the twelve, and all the rest of the company of light.
+
+Again I call on the twelve wondrous hours, the blessed and pure bodies of light,  
+who ever appear in the transformed bodies of men and women, fair beyond compare.
+
+I call also on the five buddhas of light: water, fire, the bright force, the wondrous wind,  
+and the pure air of gentle nature; all of them are power within the power of the Venerable of Light.
+
+Again I call on the rich Lord who holds up the world, the mighty and free King of the ten heavens,  
+the brave and mighty Envoy who subdues the demons, the patient Earth-bearer, and the Hastener of Light.
+
+I call also on Yanmo (閻默), the good Thought, who is the compassionate thought of Jesus,  
+the true judge, the King of Equal Justice, and the pure company of the five lights.
+
+Again I call on the one of special victory, crowned with flowers, the blessed and pure messenger,  
+the forms of the buddhas first born and emanated, and the compassionate fathers of the three ages.
+
+I call also on the Call and the Answer, the voice of awakening, and the four brothers of light,  
+the great givers of the three robes and the three wheels, and the sons of the living body, the plants and trees.
+
+Again I call on the forty mighty Envoys and the seven firm, adorned pillars:  
+each holds up its own heaven, and each shows in full the form of one who subdues the demons.
+
+I call also on the universal Venerable Mani, on Yanmo, the Light-Nous, the day of awakening,  
+who came from that Great Light to this realm, to spread the true Law and save the good sons.
+
+I name the twelve great *mōžak*s, the seventy-two *aftādan*s,  
+those who live in the halls of the Law and receive the teaching, the pure and good company, and the hearers.
+
+I name also the twelve bodies of the New Man, the twelve kings of light, and the Light-Nous,  
+the complete good Law, the five pure precepts, the five kinds of wisdom, the fivefold court;
+
+the ever-victorious robe of all the buddhas, which is the new Jesus who saves from suffering;  
+the four pure winds of liberation, the true witness of the great Law.
+
+I call also on the form in the flock of the good Law, the support above and below, within and without;  
+I name all the original forms, which are everywhere in the upper, middle and lower realms.
+
+Again I address all the company that fills the void, the mighty, reverent and faithful honoured gods,  
+and all the sons of the gods in the heavens, who guard the pure and true Law.
+
+I call also on the honoured Guide of good works, who is the true face of the three Envoys of Light,  
+who himself saves all the ever-victorious sons, and those who hold firmly to the truth.
+
+Again I call on the light-nature of liberation, the inexhaustible treasury at every time,  
+and on the last victorious First Thought, and all the other light-natures of merit.
+
+Now I truly believe in the new realm of light, and in those who dwell in it for ever:  
+I pray only that each of you will send down the power of compassion, to shelter us and watch over us always.
+
+Now I seek all the holy ones with a single heart: grant me quickly my true prayers in full,  
+loose me and free me from every disaster, and wipe away all my sins and hindrances.
+
+I bow in reverence to the pure and wondrous Wind, which is at root the wisdom in the heart of the Venerable of Light,  
+and moves, stays and rests, ever free, in the palaces of light of the four places.
+
+Pure Light, great Power, Wisdom: with all my heart I now praise you everywhere,  
+compassionate Father, Son of Light, pure Wind of the Law, and all the forms of the good Law.
+
+All you buddhas of light, I pray each of you in compassion to accept my request:  
+give me the gate of liberation from suffering, and bring me quickly to the realm of everlasting light.
+
+I praise also the company who practise the Way in good works, past, future and present:  
+may each open his pure mouth of ambrosia and speak the word of great compassion, to forgive my sins.
+
+I, Mo-ye, have now made this hymn of praise: how could I say it all fully, as the Law requires?  
+But for all the companies, holy and common, and the gods, I pray that they be free of disaster and their sins be wiped away.
+
+Again I call on all the Envoys of Light, and on the pure company with its divine powers:  
+may each send down great compassion to shelter us all, and take away all our faults.
+
+Pure Light, Power, Wisdom; compassionate Father, Son of Light, pure Wind of the Law;  
+the wondrous Sense, Mind, Thought, Reflection and Intention; Jesus, the Maiden of Light, the vast Mind;
+
+I call also on the true King of Equal Justice, the new Jesus who fights bravely,  
+the mighty and free Venerable Mani, and all the pure company of light.
+
+All the forms in the flock of the good Law, all the works of merit at every time and day:  
+help us all, add strength to our diligence, that our merit may quickly be made perfect, as we pray.
+
+*The next verses are to follow the foreign original.* (A hymn in an Iranian
+language, written in Chinese characters for their sound, follows here. It
+is not translated.)
+
 
 ## Notes to this edition
 
@@ -389,6 +496,19 @@ where the seven calamities and the four sufferings never were: so it is called t
 - **"The many-formed [ … ]"** (多形卑訢期, hymn 1): the last three
   characters look like a transcribed foreign word and are not translated.
 - **"Both its bodies"** (雨般, hymn 2): 雨 is read as 兩, "two kinds".
+- **The gods invoked in hymn 4** follow the Manichaean order of emanations:
+  the Father of Greatness and his realm; the Mother of Life, the First Man
+  ("First Thought") and his five sons; the Friend of the Lights, the Great
+  Builder and the Living Spirit ("pure Wind of the Law") with his five sons;
+  the Third Envoy, Jesus, the Maiden of Light and the Column of Glory. The
+  "rich Lord who holds up the world", the "King of the ten heavens", the
+  "Envoy who subdues the demons" and the "Earth-bearer" are the Living
+  Spirit's five sons (Splenditenens, the King of Honour, Adamas and
+  Omophoros); the fifth, "the Hastener of Light" (催明), is uncertain. Yanmo
+  (閻默) is Middle Persian *Wahman*, the Great Nous. These identifications are
+  modern and are not in the text.
+- **Mo-ye** (末夜, hymn 4): 末 is the title *Mār*; the rest of the name is
+  uncertain.
 - **Mār Sīsin** (末思信, hymn 3) was Mani's successor as head of the
   church; Manichaean sources say he was put to death under Bahrām II.
 - **"Mani of good works"** (善業忙儞) and **"Mani Buddha"** (忙儞佛) use a
