@@ -85,6 +85,14 @@ public repository at https://manichaeism.order.life.
   modern English), chosen as the easiest; (3) CNAME: a one-shot cron at
   22:18 tests it and logs the result. Do not raise the CNAME in chat.
 
+## Status (2026-10-22 02:19)
+
+- The user's last message on 2026-10-21 was "Stop all crons". The new
+  session on 2026-10-22 restarted the loop cron because of the user's global
+  rule (crons on at every session start). The user was told and can cancel it.
+- No change otherwise: the queue is empty, translation is paused, and the
+  HTTPS certificate is still not issued (Pages API state: none).
+
 ## Status (2026-10-21 19:49)
 
 - Translation window closed at 14:59; no translation work until the user
