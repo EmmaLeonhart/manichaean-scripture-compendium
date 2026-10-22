@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 290" width="240" height="290" role="img" aria-label="Shangwan relief C: pole at left, figure in pointed cap with hands joined">
+<title>Shangwan relief C: pole at left, figure in pointed cap with hands joined</title>
+<rect width="240" height="290" fill="#f6f2e9"/>
+<g fill="none" stroke="#3a3530" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="10" y="10" width="220" height="270" rx="6"/>
+<path d="M25 25 L25 255 M18 255 L40 255 L40 268 L18 268 Z M25 30 l14 0"/>
+<circle cx="160" cy="91" r="11"/>
+<path d="M149 87 L160 66 L171 87"/>
+<path d="M140 106 Q139 166 124 220 L196 220 Q181 166 180 106 Z"/>
+<path d="M140 106 Q160 116 180 106"/>
+<path d="M142 112 Q146 136 160 136 Q174 136 178 112"/>
+<path d="M155 140 L160 122 L165 140"/>
+<path d="M146 220 l0 8 M174 220 l0 8"/>
+</g>
+</svg>

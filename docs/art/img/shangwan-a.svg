@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 320" width="440" height="320" role="img" aria-label="Shangwan reliefs A1 and A2: standing figure; seated figure on lotus throne">
+<title>Shangwan reliefs A1 and A2: standing figure; seated figure on lotus throne</title>
+<rect width="440" height="320" fill="#f6f2e9"/>
+<g fill="none" stroke="#3a3530" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="10" y="10" width="200" height="300" rx="6"/>
+<rect x="230" y="10" width="200" height="300" rx="6"/>
+<path d="M25 36 q0 -10 10 -10 q10 0 10 10 q-6 -4 -10 0" stroke-width="1.8"/>
+<path d="M55 36 q0 -10 10 -10 q10 0 10 10 q-6 -4 -10 0" stroke-width="1.8"/>
+<path d="M85 36 q0 -10 10 -10 q10 0 10 10 q-6 -4 -10 0" stroke-width="1.8"/>
+<path d="M115 36 q0 -10 10 -10 q10 0 10 10 q-6 -4 -10 0" stroke-width="1.8"/>
+<path d="M145 36 q0 -10 10 -10 q10 0 10 10 q-6 -4 -10 0" stroke-width="1.8"/>
+<path d="M175 36 q0 -10 10 -10 q10 0 10 10 q-6 -4 -10 0" stroke-width="1.8"/>
+<circle cx="110" cy="83" r="24" stroke-dasharray="4 4"/>
+<circle cx="110" cy="83" r="13"/>
+<path d="M88 100 Q86 168 69 230 L151 230 Q134 168 132 100 Z"/>
+<path d="M88 100 Q110 110 132 100"/>
+<path d="M90 106 Q95 134 110 134 Q125 134 130 106"/>
+<path d="M105 138 L110 120 L115 138"/>
+<path d="M96 230 l0 8 M124 230 l0 8"/>
+<path d="M40 290 q10 -30 0 -50 q20 20 15 50 M165 290 q-8 -25 4 -45 q12 22 -2 45" stroke-width="1.8"/>
+<path d="M245 36 q0 -10 10 -10 q10 0 10 10 q-6 -4 -10 0" stroke-width="1.8"/>
+<path d="M275 36 q0 -10 10 -10 q10 0 10 10 q-6 -4 -10 0" stroke-width="1.8"/>
+<path d="M305 36 q0 -10 10 -10 q10 0 10 10 q-6 -4 -10 0" stroke-width="1.8"/>
+<path d="M335 36 q0 -10 10 -10 q10 0 10 10 q-6 -4 -10 0" stroke-width="1.8"/>
+<path d="M365 36 q0 -10 10 -10 q10 0 10 10 q-6 -4 -10 0" stroke-width="1.8"/>
+<path d="M395 36 q0 -10 10 -10 q10 0 10 10 q-6 -4 -10 0" stroke-width="1.8"/>
+<circle cx="330" cy="70" r="26" stroke-dasharray="4 4"/>
+<circle cx="330" cy="70" r="15"/>
+<path d="M311 93 Q308 48 330 49 Q352 48 349 93"/>
+<path d="M310 87 Q300 119 305 139 Q283 160 330 160 Q377 160 355 139 Q360 119 350 87"/>
+<path d="M310 127 Q330 145 350 127"/>
+<ellipse cx="330" cy="133" rx="7" ry="7"/>
+<path d="M275 165 Q286 187 297 165"/>
+<path d="M297 165 Q308 187 319 165"/>
+<path d="M319 165 Q330 187 341 165"/>
+<path d="M341 165 Q352 187 363 165"/>
+<path d="M363 165 Q374 187 385 165"/>
+<path d="M285 179 Q296 201 307 179"/>
+<path d="M307 179 Q319 201 330 179"/>
+<path d="M330 179 Q341 201 353 179"/>
+<path d="M353 179 Q364 201 375 179"/>
+<path d="M295 193 Q307 215 318 193"/>
+<path d="M318 193 Q330 215 342 193"/>
+<path d="M342 193 Q353 215 365 193"/>
+<path d="M305 207 Q317 229 330 207"/>
+<path d="M330 207 Q343 229 355 207"/>
+<rect x="297" y="227" width="66" height="12" rx="3"/>
+<path d="M300 247 L300 290 L360 290 L360 247 M285 290 L375 290 L375 302 L285 302 Z"/>
+</g>
+</svg>

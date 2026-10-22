@@ -5,7 +5,7 @@ permalink: /art/
 
 The Manichaean artworks listed in Wikipedia's Manichaeism navigation box. Each image links to its source file on Wikimedia Commons, and each title links to its Wikipedia article.
 
-*The Stone reliefs of Shangwan village* are left out because Wikipedia's images of them are non-free (fair use). See the [Wikipedia article](https://en.wikipedia.org/wiki/Manichaean_stone_reliefs_of_Shangwan_village). The *Book of Pictures* (Arzhang) is lost.
+The *Stone reliefs of Shangwan village* are shown as schematic line drawings, because the only photographs available are non-free. The *Book of Pictures* (Arzhang) is lost.
 
 ### [Birth of Mani](https://en.wikipedia.org/wiki/Birth_of_Mani)
 
@@ -108,6 +108,26 @@ The Manichaean artworks listed in Wikipedia's Manichaeism navigation box. Each i
 [![Sogdian-language Manichaean letter](img/sogdian-language-manichaean-letter.jpg)](https://commons.wikimedia.org/wiki/File:Sogdian-language_Manichaean_Letter.jpg)
 
 <p class="sec">Shahryâr Zâdag. Public domain. Source: <a href="https://commons.wikimedia.org/wiki/File:Sogdian-language_Manichaean_Letter.jpg">Wikimedia Commons</a>.</p>
+
+### [Stone reliefs of Shangwan village](https://en.wikipedia.org/wiki/Manichaean_stone_reliefs_of_Shangwan_village)
+
+These are schematic line drawings made for this site. They show only the identifying features of each relief (the figures, their poses, what they hold, the lotus seats and borders), not the carving itself. For photographs, see the [Wikipedia article](https://en.wikipedia.org/wiki/Manichaean_stone_reliefs_of_Shangwan_village).
+
+![Shangwan reliefs A1 and A2: a worn standing figure with a halo; a hooded figure seated on a lotus throne on a pedestal](img/shangwan-a.svg)
+
+![Shangwan relief B: three figures on lotus seats, the central one seated in a cap, under a cloud ornament](img/shangwan-b.svg)
+
+![Shangwan relief C: a pole at the left edge and a figure in a pointed cap with hands joined](img/shangwan-c.svg)
+
+![Shangwan relief C2: a figure in a pointed cap holding a staff across the body, a pole at the right edge](img/shangwan-c2.svg)
+
+![Shangwan relief D1: a figure holding a tall staff with a flower-shaped finial, standing on a lotus](img/shangwan-d1.svg)
+
+![Shangwan relief D2: a haloed figure with hands joined, standing on a lotus](img/shangwan-d2.svg)
+
+![Shangwan relief E: a small figure with arms raised, holding two round objects, between interlaced scrolls](img/shangwan-e.svg)
+
+<p class="sec">Reliefs A1–A2, B, C, C2, D1, D2 and E, in that order. Drawings © Manichaean Scripture Compendium, CC BY 4.0.</p>
 
 ### [Veneration of the Tree of Life](https://en.wikipedia.org/wiki/Veneration_of_the_Tree_of_Life)
 

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 340" width="220" height="340" role="img" aria-label="Shangwan relief D1: figure holding a staff with a flower finial, on a lotus">
+<title>Shangwan relief D1: figure holding a staff with a flower finial, on a lotus</title>
+<rect width="220" height="340" fill="#f6f2e9"/>
+<g fill="none" stroke="#3a3530" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="10" y="10" width="200" height="320" rx="6"/>
+<circle cx="125" cy="104" r="14"/>
+<path d="M100 122 Q98 198 79 270 L171 270 Q152 198 150 122 Z"/>
+<path d="M100 122 Q125 132 150 122"/>
+<path d="M111 270 l0 8 M139 270 l0 8"/>
+<path d="M70 40 L76 300"/>
+<circle cx="70" cy="40" r="7"/><path d="M70 33 l0 -12 M63 40 l-10 0 M77 40 l10 0 M65 30 q5 -6 10 0 M70 48 l0 8"/>
+<path d="M73 165 q30 5 45 -10 M73 172 q20 4 30 -2"/>
+<path d="M160 190 q15 30 0 55 q15 15 5 30 M90 200 q-10 30 5 60" stroke-width="1.8"/>
+<path d="M80 288 Q89 310 98 288"/>
+<path d="M98 288 Q107 310 116 288"/>
+<path d="M116 288 Q125 310 134 288"/>
+<path d="M134 288 Q143 310 152 288"/>
+<path d="M152 288 Q161 310 170 288"/>
+<rect x="98" y="308" width="54" height="12" rx="3"/>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 340" width="220" height="340" role="img" aria-label="Shangwan relief D2: haloed figure with hands joined, on a lotus">
+<title>Shangwan relief D2: haloed figure with hands joined, on a lotus</title>
+<rect width="220" height="340" fill="#f6f2e9"/>
+<g fill="none" stroke="#3a3530" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="10" y="10" width="200" height="320" rx="6"/>
+<circle cx="105" cy="77" r="32" stroke-dasharray="4 4"/>
+<circle cx="105" cy="77" r="17"/>
+<path d="M76 98 Q73 188 51 275 L159 275 Q137 188 134 98 Z"/>
+<path d="M76 98 Q105 108 134 98"/>
+<path d="M79 104 Q85 143 105 143 Q125 143 131 104"/>
+<path d="M100 147 L105 129 L110 147"/>
+<path d="M91 275 l0 8 M119 275 l0 8"/>
+<path d="M60 285 Q69 307 78 285"/>
+<path d="M78 285 Q87 307 96 285"/>
+<path d="M96 285 Q105 307 114 285"/>
+<path d="M114 285 Q123 307 132 285"/>
+<path d="M132 285 Q141 307 150 285"/>
+<rect x="78" y="305" width="54" height="12" rx="3"/>
+<path d="M165 280 q10 -15 22 -5 q-5 15 -22 5" stroke-width="1.8"/>
+</g>
+</svg>
