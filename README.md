@@ -18,6 +18,11 @@ Chinese, gathered in one place in English.
   and Cumont); each page names its source. All new translations are drafts.
   Modern copyrighted translations are consulted as reference only and are
   never copied.
+- **New Testament:** the World English Bible (public domain), one page per
+  book, so that Manichaean texts that quote or retell it can be read beside it.
+- **Art:** the Manichaean artworks with Wikipedia articles, from Wikimedia
+  Commons; the Shangwan reliefs, whose photographs are not free, appear as
+  schematic line drawings made for this site.
 
 ## Layout
 

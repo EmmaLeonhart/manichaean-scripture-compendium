@@ -85,7 +85,19 @@ public repository at https://manichaeism.order.life.
   modern English), chosen as the easiest; (3) CNAME: a one-shot cron at
   22:18 tests it and logs the result. Do not raise the CNAME in chat.
 
-## Status (2026-10-21 13:46)
+## Status (2026-10-21 19:49)
+
+- Translation window closed at 14:59; no translation work until the user
+  says otherwise.
+- Evening, per the user's decisions: the Shangwan reliefs are on the art
+  page as 7 schematic SVG drawings; the New Testament is on the site in the
+  World English Bible (contents page plus 27 book pages). The site now has
+  37 text pages plus the 27 New Testament book pages.
+- Queue: empty of non-translation work. What remains in SCOPE is either
+  translation (waiting for the user) or BLOCKED-ON-EXTERNAL (the Coptic
+  sources are lending-only).
+
+## Status (2026-10-21 13:46, earlier)
 
 - Translation window (06:00–15:00 today) in use. User, 2026-10-21: "All
   you're supposed to do is do the translations. Right now." So the window is
@@ -100,8 +112,8 @@ public repository at https://manichaeism.order.life.
   Chinese, from the original), not checked against modern editions.
 - BLOCKED-ON-EXTERNAL: the Coptic Psalm Book, Kephalaia and the Giversen
   facsimiles are lending-only on archive.org.
-- NEEDS-DECISION (user): which public-domain New Testament translation; how
-  to rerun the Shangwan image generation.
+- (Resolved in the evening: New Testament = World English Bible; Shangwan =
+  SVG feature drawings.)
 
 ## Assumptions (not yet confirmed)
 

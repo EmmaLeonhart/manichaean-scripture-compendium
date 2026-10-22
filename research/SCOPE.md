@@ -52,9 +52,11 @@ Status key: **done** (on the site), **draft** (on the site, not yet checked),
 
 19 artworks: the same set as en.wikipedia Category:Manichaean art. Images are
 in `data_lake/downloads/wikipedia-art/` (25 files). The gallery on the site
-(`docs/art.md`) shows 17 of them. The 7 Shangwan relief images are **non-free
-(fair use)** on Wikipedia, so they are not republished and must not be used
-for derivatives. The Book of Pictures is lost. The Sealstone image is CC
+(`docs/art.md`) shows 17 of them as images, plus the Stone reliefs of Shangwan
+village as 7 schematic SVG line drawings (`docs/art/img/shangwan-*.svg`, CC
+BY 4.0, made 2026-10-21 at the user's request). The Shangwan photographs are
+**non-free (fair use)** on Wikipedia, so they are never republished; the
+drawings show only the identifying features, not the carving. The Book of Pictures is lost. The Sealstone image is CC
 BY-SA 2.0, so its derivatives must be CC BY-SA.
 
 Birth of Mani · Book of Pictures (lost, no image) · Diagram of the Universe ·
