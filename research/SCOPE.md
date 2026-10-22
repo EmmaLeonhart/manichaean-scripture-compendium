@@ -30,7 +30,7 @@ Status key: **done** (on the site), **draft** (on the site, not yet checked),
 
 | Wikipedia article | Status |
 |---|---|
-| New Testament | In scope (the user said extracanonical literature counts). It can come from a public-domain translation; which one is NEEDS-DECISION (user). — |
+| New Testament | In scope (the user said extracanonical literature counts). Done: the World English Bible (public domain, the user's choice of "the easiest one", 2026-10-21), `new-testament` plus one page per book under `docs/texts/nt/`, built by `scripts/web_new_testament.py`. |
 | Fundamental Epistle | **done** (`fundamental-epistle`, NPNF 1887) |
 | Manichaean Psalm Book | — Base text: Allberry 1938 Coptic (archive.org `gtu_32400005908003_2`; his English is not US public domain until 2034) and the Giversen facsimiles (`manichaeancoptic0001give`–`0004give`). Needs a fresh translation. | **BLOCKED-ON-EXTERNAL** (checked 2026-10-21): Allberry 1938 (`gtu_32400005908003_2`) and all four Giversen facsimile volumes are lending-only on archive.org, so no text can be downloaded. Unblock: an open scan, or the user providing a copy.
 | Psalms of Thomas | — Part of the Psalm Book (Allberry 1938; page range unverified). Same sources. |

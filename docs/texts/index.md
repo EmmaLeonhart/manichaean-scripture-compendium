@@ -31,7 +31,7 @@ quotations by other writers.
 
 | Text | In the compendium |
 |---|---|
-| New Testament | Planned (which public-domain translation is your decision). Related: [the Passion in Manichaean Middle Persian](turfan-passion.html) (new translation, draft) |
+| New Testament | [The New Testament](new-testament.html) (World English Bible, public domain, one page per book). Related: [the Passion in Manichaean Middle Persian](turfan-passion.html) (new translation, draft) |
 | Fundamental Epistle | [Fragments in Augustine](fundamental-epistle.html) (public domain translation) |
 | Manichaean Psalm Book | Planned |
 | Psalms of Thomas | Planned |
