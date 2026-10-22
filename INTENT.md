@@ -127,8 +127,11 @@ public repository at https://manichaeism.order.life.
 
 - The site is a Jekyll GitHub Pages site built from `docs/` on `main`, with
   a CNAME of `manichaeism.order.life`. Pages was switched on 2026-10-20. DNS
-  resolves as of the 2026-10-21 22:18 test and the site is served over HTTP;
-  HTTPS is BLOCKED-ON-EXTERNAL (GitHub has not issued the certificate yet).
+  resolves as of the 2026-10-21 22:18 test and the site is served over HTTP.
+  HTTPS: no certificate as of 2026-10-22 04:19. A retry by re-saving the
+  domain through the API was denied by the permission system, so it is
+  BLOCKED-ON-USER-ACTION (re-save the domain in Settings > Pages, or allow
+  the call).
 - Scope is the Manichaean canon and the surviving scriptural corpus: Mani's
   seven works (only fragments survive), the Coptic Medinet Madi codices
   (Psalm-Book, Kephalaia, Homilies), the Cologne Mani Codex, the Middle
