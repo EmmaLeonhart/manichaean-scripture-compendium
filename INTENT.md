@@ -76,6 +76,15 @@ public repository at https://manichaeism.order.life.
   (`scripts/fetch_wikipedia_art.py`). The Commons dump was deleted at the user's
   order ("Delete it all"), along with its fetch script.
 
+- **Decisions, 2026-10-21 evening.** User: "the shangwan images are best as
+  svgs that just give the specific features", "New Testament i don't fucking
+  know the easiest one", and "cron job to test it in 3 hours" for the
+  CNAME. So: (1) Shangwan reliefs: hand-made SVG line drawings of the
+  identifying features only (figures, poses, objects, layout), not copies of
+  the photos; (2) New Testament: the World English Bible (public domain,
+  modern English), chosen as the easiest; (3) CNAME: a one-shot cron at
+  22:18 tests it and logs the result. Do not raise the CNAME in chat.
+
 ## Status (2026-10-21 13:46)
 
 - Translation window (06:00–15:00 today) in use. User, 2026-10-21: "All
