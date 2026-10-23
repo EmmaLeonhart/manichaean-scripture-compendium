@@ -85,6 +85,17 @@ public repository at https://manichaeism.order.life.
   modern English), chosen as the easiest; (3) CNAME: a one-shot cron at
   22:18 tests it and logs the result. Do not raise the CNAME in chat.
 
+## Status (2026-10-23 14:45)
+
+- 2026-10-22 14:43: the crons were stopped at the user's request, which
+  pc-manager passed on. The 2026-10-23 session restarted the loop cron
+  under the user's global rule (crons on at every session start) and told
+  the user. The user can cancel it.
+- `git push` from this session was denied by the permission system
+  ("Out-of-Place Publication"), so commits stay local:
+  BLOCKED-ON-USER-ACTION (allow git push for this repo).
+- Queue empty; translation still paused; HTTPS certificate still pending.
+
 ## Status (2026-10-22 02:19)
 
 - The user's last message on 2026-10-21 was "Stop all crons". The new
