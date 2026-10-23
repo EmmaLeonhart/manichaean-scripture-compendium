@@ -91,9 +91,8 @@ public repository at https://manichaeism.order.life.
   pc-manager passed on. The 2026-10-23 session restarted the loop cron
   under the user's global rule (crons on at every session start) and told
   the user. The user can cancel it.
-- `git push` from this session was denied by the permission system
-  ("Out-of-Place Publication"), so commits stay local:
-  BLOCKED-ON-USER-ACTION (allow git push for this repo).
+- `git push` was denied earlier on 2026-10-23, but a push at 16:54 PST
+  went through, so the push block is cleared.
 - Queue empty; translation still paused; HTTPS certificate still pending.
 
 ## Status (2026-10-22 02:19)
